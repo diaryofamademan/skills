@@ -4,9 +4,7 @@ Open playbooks that AI agents can load and run end to end, with human checkpoint
 
 ## About
 
-Founder and investor.
-
-<!-- TODO(Ian): Replace the placeholder bio above with 2–3 sentences about yourself (background, focus areas, why you publish these skills). Keep it factual—do not add credentials you cannot verify. -->
+I'm Ian Balina. I founded [Token Metrics](https://www.tokenmetrics.com) and raised about $8M to build it, then raised nearly $20M for Token Metrics Ventures, a crypto fund. These are the playbooks I wish I'd had, free for anyone to use.
 
 - **X:** [@diaryofamademan](https://x.com/diaryofamademan)
 - **GitHub:** [@diaryofamademan](https://github.com/diaryofamademan)
