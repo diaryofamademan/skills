@@ -1,10 +1,20 @@
-# Article lessons (paraphrased)
+# <img src="../assets/icons/news-01.svg" width="20" height="20" alt="" /> Article lessons (paraphrased)
 
 Public articles only—paraphrased for the **`fundraising`** skill. Not a substitute for the originals.
 
+```mermaid
+flowchart LR
+  K["Kim Five Laws — pipeline math and emotion"]
+  G["Vessel GTM — LP funnel as SaaS"]
+  V["Voss — calibrated questions + labels"]
+  K --> SKILL["Woven into SKILL.md shared core"]
+  G --> SKILL
+  V --> SKILL
+```
+
 ---
 
-## The Five Laws of Fundraising — John Kim (*The Tao of Fundraising*)
+## <img src="../assets/icons/news-01.svg" width="20" height="20" alt="" /> The Five Laws of Fundraising — John Kim (*The Tao of Fundraising*)
 
 Source: [Vessel — Five Laws recap (GP Operator Circle)](https://vessel.co/resources/blog/the-five-laws-of-fundraising-a-70-billion-masterclass-in-persuasion-pipeline-and-process-with-john-kim)
 
@@ -23,7 +33,7 @@ Source: [Vessel — Five Laws recap (GP Operator Circle)](https://vessel.co/reso
 
 ---
 
-## The Go-To-Market Engine of Fundraising — JD St-Martin & Jonathan Alden
+## <img src="../assets/icons/news-01.svg" width="20" height="20" alt="" /> The Go-To-Market Engine of Fundraising — JD St-Martin & Jonathan Alden
 
 Source: [Vessel — GTM engine guide (2026)](https://vessel.co/resources/blog/the-go-to-market-engine-of-fundraising-complete-2026-guide-to-applying-b2b-saas-model-to-lp-relationships)
 
@@ -43,7 +53,7 @@ Source: [Vessel — GTM engine guide (2026)](https://vessel.co/resources/blog/th
 
 ---
 
-## Never Split the Difference — Chris Voss
+## <img src="../assets/icons/news-01.svg" width="20" height="20" alt="" /> Never Split the Difference — Chris Voss
 
 Source: [Runn — chapter summary (Natalia Rossingol, 2022)](https://www.runn.io/blog/never-split-the-difference-summary). Book not reproduced; summary only.
 

@@ -49,6 +49,15 @@ Skills should read as **general playbooks** anyone can run with their own data.
 - Do **not** paste full copyrighted documents (NVCA/ILPA/YC forms, book chapters, paywalled PDFs) into the repo.
 - When you add or refresh a reference, note what you used (blog summary, official form page, etc.) so maintainers can verify later.
 
+### Diagrams and icons required
+
+Every skill, sub-skill, and reference doc must include:
+
+- At least one **GitHub-renderable `mermaid` diagram** near the top that explains that file’s content.
+- **Icons** only from the **Hugeicons FREE** set (MIT, Stroke Rounded — never Pro), committed as SVGs under the skill’s `assets/icons/`, with the Hugeicons license (`assets/icons/LICENSE.md`) and the skill’s icon mapping table (`assets/icons/README.md`).
+
+Add or update diagrams and icons in the **same PR** as any doc change. Before opening the PR, run the skill’s `scripts/verify-assets.sh` (or validate mermaid with `@mermaid-js/mermaid-cli`) so image paths resolve, icons match upstream Hugeicons, and mermaid blocks render. This rule applies to every contributor, human or agent.
+
 ### Grep-clean hygiene
 
 Before submitting a PR, run the **repository hygiene scan** your reviewer will use: a case-insensitive search from the repo root for legacy internal codenames, old private-repo path tokens, and company-specific product strings that must not appear in public skills. The scan should return **zero matches** anywhere in the tree.

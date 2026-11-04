@@ -1,7 +1,16 @@
-# Curated X posts: Pitching VCs
+# <img src="../assets/icons/new-twitter.svg" width="20" height="20" alt="" /> Curated X posts: Pitching VCs
 
 **Compiled:** 2026-11-04 (14 posts)  
 **Use:** Source compilation for `fundraising`. Distilled lessons live in `SKILL.md` with attribution; do not treat this file as the agent playbook.
+
+```mermaid
+flowchart LR
+  X["Curated X posts"]
+  FILE["This compilation"]
+  SKILL["SKILL.md — attributed weave"]
+  X --> FILE --> SKILL
+  FILE -.->|"do not run agent from file alone"| SKILL
+```
 
 ---
 

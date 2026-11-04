@@ -36,7 +36,7 @@ flowchart TB
 
 | Skill | What it does | Status |
 | --- | --- | --- |
-| [fundraising](./fundraising/) | Run a **startup** raise, an **LP fund** raise, or an **M&A** sale end to end (shared pipeline, guardrails, track-specific playbooks). | **v3.1.0** |
+| [fundraising](./fundraising/) | Run a **startup** raise, an **LP fund** raise, or an **M&A** sale end to end (shared pipeline, guardrails, track-specific playbooks), plus paraphrased lessons from Travis Kalanick on the [David Senra podcast](https://www.davidsenra.com/episode/travis-kalanick) in `references/interview-lessons.md`. | **v3.3.0** |
 
 ## How to use
 
@@ -57,6 +57,8 @@ skills/
     ├── SKILL.md
     ├── README.md
     ├── CHANGELOG.md
+    ├── assets/icons/  ← Hugeicons free SVGs (MIT)
+    ├── scripts/       ← verify-assets.sh
     └── references/
 ```
 

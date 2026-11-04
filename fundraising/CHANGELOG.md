@@ -1,4 +1,17 @@
-# Changelog
+# <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
+
+## 3.3.0 (2026-11-04)
+
+- Add `references/interview-lessons.md`: paraphrased fundraising, auction, investor-selection, and IR lessons from Travis Kalanick on the David Senra podcast (2026-08-16), with demand-curve / winner-takes-all mermaid flows.
+- Weave process-over-price, low anchor, parallel rooms, QED vs hot-market pitch, do-no-harm selection, and liquidity alignment into `SKILL.md` (shared core §5–§7b, startup track), `references/post-close.md`, and `references/ma-process.md` (auction parallels).
+- Add Hugeicons free `mic-01.svg` for interview reference docs; list in `assets/icons/README.md` and `references/README.md`.
+
+## 3.2.0 (2026-11-04)
+
+- Add GitHub-renderable `mermaid` diagrams near the top of `SKILL.md` and every file under `references/` (including YouTube playlist summaries); diagrams validated with `@mermaid-js/mermaid-cli`.
+- Add **Hugeicons free** (MIT) SVG icons under `assets/icons/` (stroke `#6E7FD6`, synced from [hugeicons/hugeicons](https://github.com/hugeicons/hugeicons/tree/main/icons)); inline `<img>` tags on headings, tracks, tables, and checklists; mapping in `assets/icons/README.md`. Use upstream `presentation-01.svg` (not `presentation.svg`).
+- `scripts/verify-assets.sh` checks upstream HTTP 200 and path-data match (stroke recolor only).
+- Document standing **Diagrams and icons required** rule in repo `SYNC.md`, root `README.md`, and skill maintainer notes (`SKILL.md`).
 
 ## 3.1.0 (2026-11-04)
 

@@ -1,4 +1,4 @@
-# Sell-Side M&A Masterclass | Structuring a Formal Sale Process for Maximum Value
+# <img src="../../assets/icons/handshake.svg" width="20" height="20" alt="" /> Sell-Side M&A Masterclass | Structuring a Formal Sale Process for Maximum Value
 
 - **Channel:** POTOMAC M&A  
 - **Speaker:** Paul Giannamore (investment banker)  
@@ -6,7 +6,17 @@
 - **URL:** https://www.youtube.com/watch?v=8jBQ3jZnNvY  
 - **Upload:** 2024-10-18  
 
-## Summary (paraphrased)
+```mermaid
+flowchart LR
+  PREP["Prep + CIM + buyer universe"]
+  PROC["Process letter — parallel IOIs"]
+  LOI["LOI terms before exclusivity"]
+  DD["Diligence + acceptance time"]
+  CLOSE["Sign + wire"]
+  PREP --> PROC --> LOI --> DD --> CLOSE
+```
+
+## <img src="../../assets/icons/youtube.svg" width="20" height="20" alt="" /> Summary (paraphrased)
 
 Giannamore frames selling a business as a **negotiation process**, not a fixed-price transaction. Value is created at the bargaining table; the seller who runs a disciplined process and controls timing generally captures better price and terms than one who negotiates ad hoc.
 
