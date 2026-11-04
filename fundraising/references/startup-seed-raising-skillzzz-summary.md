@@ -1,13 +1,23 @@
-# Article summary: Startup Seed Raising Skilzzz
+# <img src="../assets/icons/rocket-01.svg" width="20" height="20" alt="" /> Article summary: Startup Seed Raising Skilzzz
 
 **Source:** Travis Kalanick (posted as “swooshdude”), March 19, 2009  
 **URL:** https://swooshing.wordpress.com/2009/03/19/startup-seed-raising-skillzzz/
 
-## One-line thesis
+```mermaid
+flowchart LR
+  LIST["TheList + intros"] --> QUAL["Qualify / ABC"]
+  QUAL --> LEAD["Lead term sheet"]
+  LEAD --> SECOND["Second term sheet"]
+  SECOND --> HERD["Herd followers"]
+  HERD --> ANT["Anti-collusion"]
+  ANT --> SPRINT["Sprint to wired close"]
+```
+
+## <img src="../assets/icons/rocket-01.svg" width="20" height="20" alt="" /> One-line thesis
 
 Seed fundraising is a sales process: build a pipeline, create real urgency and competition, land a lead investor with a term sheet, race for a second term sheet, herd followers, block collusion on terms, and sprint through close—while staying credible and never letting momentum die.
 
-## Section digest
+## <img src="../assets/icons/check-list.svg" width="20" height="20" alt="" /> Section digest
 
 | Topic | Core lesson |
 | --- | --- |
@@ -27,12 +37,12 @@ Seed fundraising is a sales process: build a pipeline, create real urgency and c
 | **Anti-collusion** | After lead is locked, resist investor collusion to re-trade terms during doc phase; hold firm that material terms are set. |
 | **Sprint through close** | Until money is in, treat odds as ~50/50; keep selling, keep pipeline warm, pursue oversubscription through the finish line. |
 
-## Comment thread additions (same URL, not in main post)
+## <img src="../assets/icons/news-01.svg" width="20" height="20" alt="" /> Comment thread additions (same URL, not in main post)
 
 - **Ming Yeow:** Stack credible entrepreneur/advisor references *before* fundraising; network broadly—don’t over-index on VCs who ignore non–VC-ready deals.
 - **Author reply:** VCs rarely do true seed unless hot follower momentum or they wait until traction fits VC stage.
 - **Nathan Beckord (anti-collusion Q):** Keep lead status close; don’t disclose follower angels to potential leads until lead is locked; followers may know each other; communicate momentum without showing all cards—strategic transparency.
 
-## How this repo skill uses the article
+## <img src="../assets/icons/link-01.svg" width="20" height="20" alt="" /> How this repo skill uses the article
 
 The skill `fundraising` turns the above into an agent-run playbook (pipeline fields, cadences, checklists, founder reporting). Sections labeled **Optional — Web3** in `SKILL.md` add token and crypto-native investor context—SAFEs, token warrants, scam-aware vetting—not Travis Kalanick’s 2009 post.

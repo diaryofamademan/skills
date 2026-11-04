@@ -1,8 +1,17 @@
-# YouTube playlist: Fundraising
+# <img src="../../assets/icons/youtube.svg" width="20" height="20" alt="" /> YouTube playlist: Fundraising
 
 **Playlist:** https://www.youtube.com/playlist?list=PLJaB9gz_nmkEZhl3oov2PZHmYUOCqFzvP  
 **Maintained for skill:** `fundraising`  
 **Note:** Repo holds **paraphrased summaries** only (no full transcripts). Timestamped lesson tables live in `SKILL.md` (M&A track).
+
+```mermaid
+flowchart TB
+  PL["YouTube Fundraising playlist"]
+  PL --> SS["Sell-side masterclass summary"]
+  PL --> BS["Buy-side masterclass summary"]
+  SS --> SKILL["SKILL.md M&A track tables"]
+  BS --> SKILL
+```
 
 | # | Title | Channel | Length | Video | Summary |
 | --- | --- | --- | --- | --- | --- |

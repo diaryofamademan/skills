@@ -1,12 +1,25 @@
-# Cap table math (paraphrased)
+# <img src="../assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> Cap table math (paraphrased)
 
 Share count, pre/post money, option pool shuffle, and a worked SAFE → Series A example.
 
 **Not legal, tax, or investment advice.** Have **lawyer review** and your cap-table provider sign off before sharing pro formas externally. **CPA review** for tax implications.
 
+```mermaid
+flowchart TD
+  DEF["Definitions: pre / post / price per share"]
+  POOL["Option pool shuffle in pre-money"]
+  SAFE["Step 1: SAFE conversion at cap"]
+  A["Step 2: Series A + 10% pool target"]
+  PRO["Step 3: Pro forma ownership table"]
+  DEF --> POOL
+  POOL --> SAFE
+  SAFE --> A
+  A --> PRO
+```
+
 Sources (paraphrase only): [YC Post-Money SAFE User Guide](https://bookface-static.ycombinator.com/assets/ycdc/SAFE%20User%20Guide-a47c6588327d73aa2799e61ed7c2cae9f1a0ee9acfa9c43b62039dc06e715832.pdf); Brad Feld term-sheet posts (liquidation preference, etc.) on [Feld Thoughts](https://feld.com/archives/2005/01/term-sheet-liquidation-preference/).
 
-## Definitions
+## <img src="../assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> Definitions
 
 - **Post-money** = pre-money + new money.
 - **New investor %** = new money ÷ post-money.
@@ -14,13 +27,13 @@ Sources (paraphrase only): [YC Post-Money SAFE User Guide](https://bookface-stat
 - **Dilution** for existing holders ≈ 1 − (pre-round shares ÷ post-round shares).
 - Quick check: $2M on $8M pre → $10M post → investor owns 20%.
 
-## Option pool shuffle
+## <img src="../assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> Option pool shuffle
 
 When the term sheet requires the **option pool to hit a target % post-money** and the **increase counts inside pre-money**, only existing holders (founders + prior investors) bear the dilution from new unallocated pool shares—not the new money. The **effective pre-money** for founders is lower than the headline pre.
 
 Size the pool from a **hiring plan**, not a default percentage.
 
-## Worked example: SAFE then Series A (agent-verified)
+## <img src="../assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> Worked example: SAFE then Series A (agent-verified)
 
 **Setup**
 
@@ -30,7 +43,7 @@ Size the pool from a **hiring plan**, not a default percentage.
 - SAFE: **$1,000,000** at **$10,000,000 post-money cap**.
 - Series A: **$5,000,000** at **$20,000,000 pre-money**; pool must be **10% post-money** with increase in pre (shuffle).
 
-### Step 1 — SAFE conversion (post-money SAFE)
+### <img src="../assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Step 1 — SAFE conversion (post-money SAFE)
 
 - SAFE % of cap before Series A = $1M ÷ $10M = **10%**.
 - Cap table before Series A includes existing pool; excludes Series A money and **new** pool shares.

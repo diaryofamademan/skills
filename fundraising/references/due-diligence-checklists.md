@@ -1,8 +1,27 @@
-# Due diligence checklists (paraphrased)
+# <img src="../assets/icons/check-list.svg" width="20" height="20" alt="" /> Due diligence checklists (paraphrased)
 
 Checklists for startup data rooms, LP fund DDQ/ODD, and sell-side M&A diligence.
 
 **Not legal or tax advice.** **Lawyer review** on legal/IP/employment; **CPA review** on financials, tax, QoE.
+
+```mermaid
+flowchart LR
+  subgraph startup ["Startup data room"]
+    S1["Corporate + cap table"]
+    S2["Financials + metrics"]
+    S3["IP + commercial + HR"]
+  end
+  subgraph lp ["LP fund"]
+    D1["ILPA DDQ 2.0 — 20 topics"]
+    D2["Appendix document pack"]
+    D3["Operational DD themes"]
+  end
+  subgraph ma ["M&A sell-side"]
+    M1["QoE + add-backs"]
+    M2["Legal / tax / commercial"]
+    M3["Confirmatory for buyer"]
+  end
+```
 
 **Parsed for v3.1.0:** [ILPA DDQ 2.0 PDF](https://ilpa.org/wp-content/uploads/2021/11/ILPA-DDQ-2.0.pdf) (section list, appendix document pack, representative question themes).
 
@@ -10,7 +29,7 @@ Sources: [CRV — Series A data room](https://www.crv.com/content/series-a-fundi
 
 ---
 
-## Startup data room (Series A–style)
+## <img src="../assets/icons/folder-search.svg" width="20" height="20" alt="" /> Startup data room (Series A–style)
 
 Build **1–2 quarters** before raising. Numbered folders, dated filenames, master index. **Stage access:** deck early; cap table detail, customer contracts, HR files only for serious diligence.
 
@@ -21,7 +40,7 @@ Build **1–2 quarters** before raising. Numbered folders, dated filenames, mast
 5. **IP:** assignments from every founder, employee, contractor—gaps are deal-stoppers.
 6. **Commercial & HR:** material contracts (flag change-of-control), employment/contractor files, litigation/compliance.
 
-## LP fund — ILPA DDQ 2.0 (November 2021 questionnaire)
+## <img src="../assets/icons/check-list.svg" width="20" height="20" alt="" /> LP fund — ILPA DDQ 2.0 (November 2021 questionnaire)
 
 Pre-fill before LP outreach. Twenty core **topics** (each mixes yes/no and narrative questions):
 
@@ -54,7 +73,7 @@ Pre-fill before LP outreach. Twenty core **topics** (each mixes yes/no and narra
 
 **Operational due diligence (ODD) themes** (ILPA ODD course excerpt): governance, key-person/succession, compliance, fund admin & auditor, valuation independence, cash controls, cybersecurity, business continuity.
 
-## M&A seller-side diligence
+## <img src="../assets/icons/folder-search.svg" width="20" height="20" alt="" /> M&A seller-side diligence
 
 Post-LOI diligence often **30–90 days**; a material share of LOIs fail—**financial inconsistencies** are a top cause. Disclose early.
 

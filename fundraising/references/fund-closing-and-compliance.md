@@ -1,8 +1,24 @@
-# Fund closing and compliance (paraphrased)
+# <img src="../assets/icons/security-check.svg" width="20" height="20" alt="" /> Fund closing and compliance (paraphrased)
 
 Fund closes, Reg D exemptions, qualified purchasers, placement agents, and marketing compliance.
 
 **Not legal or tax advice.** **Lawyer review** and compliance sign-off on all offerings and marketing; **CPA review** on equalization and fees.
+
+```mermaid
+flowchart TB
+  FC["First close — minimum commitments"]
+  SC["Subsequent closes within ~12 months"]
+  EQ["Equalization: catch-up capital + interest + true-up"]
+  FC --> SC --> EQ
+  subgraph regd ["Reg D path"]
+    B506["506(b) — no general solicitation"]
+    C506["506(c) — verify accredited + solicitation OK"]
+  end
+  SC --> B506
+  SC --> C506
+  B506 --> FD["Form D within 15 days of first sale"]
+  C506 --> FD
+```
 
 **Parsed for v3.1.0:** [Investment Company Act §80a-2(a)(51)](https://www.law.cornell.edu/uscode/text/15/80a-2) (qualified purchaser); [§80a-3(c)(1) and (c)(7)](https://www.law.cornell.edu/uscode/text/15/80a-3) (3(c)(1) vs 3(c)(7) exemptions); ILPA Principles 3.0 **Placement Agent Fees** section.
 
@@ -10,7 +26,7 @@ Sources: [SEC Rule 506(b)](https://www.sec.gov/resources-small-businesses/exempt
 
 ---
 
-## Closes and equalization
+## <img src="../assets/icons/bank.svg" width="20" height="20" alt="" /> Closes and equalization
 
 - **First close:** investing begins at minimum commitments.
 - **Subsequent closes:** new LPs treated as if joined at first close; final close often within ~**12 months** (ILPA).
@@ -27,11 +43,11 @@ Sources: [SEC Rule 506(b)](https://www.sec.gov/resources-small-businesses/exempt
 
 Rates/mechanics from **LPA** — **CPA review**.
 
-## Placement agents
+## <img src="../assets/icons/handshake.svg" width="20" height="20" alt="" /> Placement agents
 
 Extend pipeline; ILPA practice (excerpt): fees borne by **manager** or fully **offset** against management fee. Verify **broker-dealer** registration where required — **lawyer review**.
 
-## Regulation D (US private funds / startups)
+## <img src="../assets/icons/security-check.svg" width="20" height="20" alt="" /> Regulation D (US private funds / startups)
 
 | Rule | Highlights |
 | --- | --- |
@@ -63,7 +79,7 @@ The SEC may adopt implementing rules; **look-through** applies to certain feeder
 
 Most emerging GP funds use **506(b)** or **506(c)** **Reg D** offerings into a **3(c)(1)** or **3(c)(7)** vehicle — the securities exemption and the Investment Company Act exemption are separate analyses (**lawyer review**).
 
-### Placement agents (ILPA Principles 3.0, paraphrased)
+### <img src="../assets/icons/handshake.svg" width="20" height="20" alt="" /> Placement agents (ILPA Principles 3.0, paraphrased)
 
 - Disclose GP/placement-agent economics in diligence materials.
 - **Placement agent fees** should be borne by the **fund manager**; **placement expenses** by the **fund**.

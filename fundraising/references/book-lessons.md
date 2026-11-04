@@ -1,4 +1,4 @@
-# Book lessons (paraphrased)
+# <img src="../assets/icons/book-open-01.svg" width="20" height="20" alt="" /> Book lessons (paraphrased)
 
 Paraphrased notes for the **`fundraising`** skill. Not a substitute for reading the books. No book text or unauthorized PDFs are stored in this repo.
 
@@ -11,9 +11,33 @@ Paraphrased notes for the **`fundraising`** skill. Not a substitute for reading 
 
 Other titles below are attributed by book and author; lessons were paraphrased from maintainer research and public summaries (2026-11-04) without committing book text or unauthorized PDFs.
 
+```mermaid
+mindmap
+  root((Book lessons))
+    Ringer
+      Qualify out
+      Delay kills deals
+      Cash in bank
+    Calacanis Angel
+      Lead sets price
+      Manufactured scarcity
+    Positioning
+      Own one concept
+      Be first in niche
+    Schwartz
+      Channel desire
+      Match awareness
+    Thiel
+      Concrete plan
+      Deliberate heat
+    Klaff Pitch Anything
+      Frame control
+      Prize frame
+```
+
 ---
 
-## Winning Through Intimidation — Robert J. Ringer
+## <img src="../assets/icons/book-open-01.svg" width="20" height="20" alt="" /> Winning Through Intimidation — Robert J. Ringer
 
 1. **Posture and leverage.** Counterparties treat you according to the frame you set at first contact; open as a peer with options, not a supplicant. *(credibility; all tracks)*
 2. **Image, agreements, performance.** Professional presentation, documented terms, and real delivery reinforce each other; polish without substance fails. *(credibility; pitch)*

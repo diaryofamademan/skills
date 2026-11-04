@@ -1,8 +1,28 @@
-# Deal terms (paraphrased)
+# <img src="../assets/icons/money-01.svg" width="20" height="20" alt="" /> Deal terms (paraphrased)
 
 Plain-English guides to standard startup, fund, and M&A terms — paraphrased from official forms, not a substitute for counsel.
 
 **Not legal, tax, or investment advice.** Flag **lawyer review** on all binding terms; **CPA review** on tax, waterfall, and working-capital pegs.
+
+```mermaid
+flowchart TB
+  subgraph startup ["Startup"]
+    SAFE["YC post-money SAFE"]
+    NVCA["NVCA term sheet → priced round"]
+    SEED["Series Seed term sheet"]
+  end
+  subgraph fund ["GP / LP fund"]
+    LPA["ILPA Model LPA themes"]
+    CARRY["Fee / carry waterfall"]
+  end
+  subgraph ma ["M&A"]
+    LOI["LOI economics"]
+    PA["Purchase agreement + escrow / WC peg"]
+  end
+  SAFE --> NVCA
+  LPA --> CARRY
+  LOI --> PA
+```
 
 **Parsed for v3.1.0 (Nov 2026):** YC post-money SAFE docx (cap, discount, MFN, pro rata side letter); [NVCA Model Term Sheet (2020 docx)](https://nvca.org/document/nvca-2020-term-sheet-4/); [Series Seed term sheet (GitHub mirror)](https://github.com/seriesseed/equity/blob/master/Series%20Seed%20-%20Term%20Sheet.md); ILPA Model LPA overview + whole-of-fund and deal-by-deal Word agreements; ILPA Principles 3.0 PDF. **Not parsed:** NVCA Oct 2025 standalone term sheet (not linked on the model-docs page; 2020 term sheet used); ILPA Excel reporting workbooks (definitions PDF used instead); [seriesseed.com](https://seriesseed.com) (unreachable — GitHub mirror).
 
@@ -10,7 +30,7 @@ Sources: [YC documents](https://www.ycombinator.com/documents); [YC Post-Money S
 
 ---
 
-## YC post-money SAFE (startup)
+## <img src="../assets/icons/coins-01.svg" width="20" height="20" alt="" /> YC post-money SAFE (startup)
 
 - **Forms:** cap-only, discount-only, uncapped MFN; optional **Pro Rata Side Letter** (capped SAFEs only; converts with priced round).
 - **Post-money cap** counts all SAFE money + existing pool; excludes priced-round money and **new** pool created in that round. SAFEs do not dilute each other; they dilute with Series A and pool increase.
@@ -32,7 +52,7 @@ Sources: [YC documents](https://www.ycombinator.com/documents); [YC Post-Money S
 | **MFN (MFN-only SAFE)** | If the company issues a later SAFE on better terms, this holder may elect to swap to that whole package (typically once). Liquidity payouts respect MFN timing. | Log each SAFE tranche; **lawyer review** before MFN elections. |
 | **Pro rata side letter** | Separate agreement: holder may buy their **pro rata share** of the priced round (ratio of their post-conversion SAFE shares to company capitalization). Expires at priced-round close, liquidity, or dissolution. Amendments need company + majority of pro rata SAFE holders (or that investor alone for investor-only tweaks). | Founders: model dilution if all pro rata holders exercise. |
 
-## NVCA model term sheet — clause guide (2020 docx, paraphrased)
+## <img src="../assets/icons/agreement-01.svg" width="20" height="20" alt="" /> NVCA model term sheet — clause guide (2020 docx, paraphrased)
 
 The NVCA term sheet maps to its model charter, stock purchase, investors’ rights, ROFR/co-sale, and voting agreements. Below: plain meaning and what usually negotiates.
 

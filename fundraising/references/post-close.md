@@ -1,8 +1,27 @@
-# Post-close operations (paraphrased)
+# <img src="../assets/icons/mail-01.svg" width="20" height="20" alt="" /> Post-close operations (paraphrased)
 
 Investor updates, LP reporting, capital calls, and board rhythm after a close.
 
 **Not legal or tax advice.**
+
+```mermaid
+flowchart TB
+  subgraph startup ["Startup after wire"]
+    U["Monthly or quarterly investor updates"]
+    L["Liquidity / IPO plan alignment"]
+    B["Board rhythm + KPI cadence"]
+  end
+  subgraph lp ["Fund after close"]
+    R["ILPA reporting + performance templates"]
+    CC["Capital call notices — 10+ business days"]
+  end
+  CLOSE["Signed close / wired funds"] --> U
+  CLOSE --> L
+  CLOSE --> R
+  U --> B
+  L --> B
+  R --> CC
+```
 
 **Parsed for v3.1.0:** [Reporting Template Definitions PDF (Jan 2025)](https://ilpa.org/wp-content/uploads/2025/02/Reporting-Template-Definitions.pdf); [Performance Template Definitions — granular v1.1 PDF](https://ilpa.org/wp-content/uploads/2025/04/ILPA-Performance-Template-Definitions-Granular-Methodology-v1.1.pdf); [Combined ILPA templates overview PDF](https://ilpa.org/wp-content/uploads/2025/09/Combined-Overview-ILPA-Templates.pdf). **Not parsed:** Excel workbook files (ILPA distributes via template hub; definitions PDFs used for field meanings).
 
@@ -10,9 +29,11 @@ Sources: [Yonder — investor update template](https://yonder.vc/resources/inves
 
 ---
 
-## Startup investor updates
+## <img src="../assets/icons/mail-01.svg" width="20" height="20" alt="" /> Startup investor updates
 
 **Cadence:** **monthly** (same day) pre–Series A; **quarterly** often post–Series A. ~**one page**. Silence reads as distress.
+
+**Liquidity alignment (Kalanick, Senra podcast, 2026-08-16):** Proactively share **realistic IPO, secondary, or exit timing** with major investors and board members—misaligned liquidity expectations can turn passive capital into **activist pressure**. Ask what they need from you (reporting rhythm, risk reduction, path to liquidity) instead of assuming silence means agreement. See [`interview-lessons.md`](./interview-lessons.md).
 
 **Template**
 
@@ -26,7 +47,7 @@ Sources: [Yonder — investor update template](https://yonder.vc/resources/inves
 
 Editorial, frank tone (see Schwartz in `SKILL.md`) improves trust.
 
-## LP reporting and capital calls (ILPA)
+## <img src="../assets/icons/chart-line.svg" width="20" height="20" alt="" /> LP reporting and capital calls (ILPA)
 
 - **Quarterly reporting:** [ILPA Reporting Template v2.0](https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-reporting-template/) (fees, expenses, carry)—funds launching on/after **2026-01-01** or still in investment period in Q1 2026 use v2.0; older vintages may use the 2016 template. Companion **Performance** and **Capital Call & Distribution** templates live on the [ILPA Templates Hub](https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/).
 - **Capital call notices:** each LP amount/%, purpose, fee calculation (with offsets), carry build-up, projected calls/distributions.
@@ -34,7 +55,7 @@ Editorial, frank tone (see Schwartz in `SKILL.md`) improves trust.
 
 Agent drafts only; **human approval** before send (see guardrails).
 
-### ILPA Reporting Template — field groups (Definitions PDF, paraphrased)
+### <img src="../assets/icons/chart-line.svg" width="20" height="20" alt="" /> ILPA Reporting Template — field groups (Definitions PDF, paraphrased)
 
 Report in three lenses where applicable: **single LP**, **total fund (incl. GP)**, and **GP share of fund**.
 
@@ -47,7 +68,7 @@ Report in three lenses where applicable: **single LP**, **total fund (incl. GP)*
 
 Full definitions: [Reporting-Template-Definitions.pdf](https://ilpa.org/wp-content/uploads/2025/02/Reporting-Template-Definitions.pdf).
 
-### ILPA Performance Template — field groups (Granular v1.1 definitions, paraphrased)
+### <img src="../assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> ILPA Performance Template — field groups (Granular v1.1 definitions, paraphrased)
 
 Two methodologies (**granular** vs **gross-up**); most funds pick one consistently.
 

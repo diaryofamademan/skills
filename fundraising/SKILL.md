@@ -1,7 +1,7 @@
 ---
 name: fundraising
 description: "Use when raising capital or selling a business: startup seed/venture rounds, GP fund raises from LPs, or company M&A/strategic exits—shared competitive process (pipeline, ABC, lead/anchor, second offer, deadline close) plus track-specific playbooks from Startup Seed Raising Skilzzz, curated X posts, and the Fundraising YouTube playlist."
-version: 3.1.0
+version: 3.3.0
 author: Open skills contributors
 license: MIT
 metadata:
@@ -9,7 +9,7 @@ metadata:
   source_article: https://swooshing.wordpress.com/2009/03/19/startup-seed-raising-skillzzz/
 ---
 
-# fundraising
+# <img src="assets/icons/money-01.svg" width="20" height="20" alt="" /> fundraising
 
 > **How to read this**
 >
@@ -20,7 +20,33 @@ metadata:
 
 **Not legal, tax, or investment advice.** This skill is operational guidance for founders and agents. Binding terms, offerings, tax, and wires require **lawyer review** and **CPA review** where noted in references.
 
-## Table of contents
+```mermaid
+flowchart LR
+  subgraph tracks ["Pick one primary track"]
+    ST["Startup seed / venture"]
+    LP["GP fund from LPs"]
+    MA["Company M&A / exit"]
+  end
+  subgraph core ["Shared core"]
+    A["TheList"] --> B["Qualify"]
+    B --> C["ABC / momentum"]
+    C --> D["Lead or anchor"]
+    D --> E["Second offer + auction"]
+    E --> F["Close deadline"]
+  end
+  subgraph after ["After the yes"]
+    F --> G["Term sheet / LOI"]
+    G --> H["Diligence"]
+    H --> I["Definitive docs"]
+    I --> J["Wire / close"]
+    J --> K["Post-close"]
+  end
+  ST --> A
+  LP --> A
+  MA --> A
+```
+
+## <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Table of contents
 
 - [End-to-end references](#end-to-end-references)
 - [Sources](#sources)
@@ -37,18 +63,19 @@ metadata:
 - [Output standard](#output-standard)
 - [Verification checklist](#verification-checklist)
 
-## End-to-end references
+## <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> End-to-end references
 
 | Topic | File |
 | --- | --- |
-| Term sheets & deal economics | `references/deal-terms.md` |
-| Due diligence & data rooms | `references/due-diligence-checklists.md` |
-| Cap table & dilution math | `references/cap-table-math.md` |
-| M&A process & timelines | `references/ma-process.md` |
-| Fund closes & Reg D / marketing | `references/fund-closing-and-compliance.md` |
-| Post-close reporting & board | `references/post-close.md` |
+| <img src="assets/icons/money-01.svg" width="20" height="20" alt="" /> Term sheets & deal economics | `references/deal-terms.md` |
+| <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> Due diligence & data rooms | `references/due-diligence-checklists.md` |
+| <img src="assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> Cap table & dilution math | `references/cap-table-math.md` |
+| <img src="assets/icons/handshake.svg" width="20" height="20" alt="" /> M&A process & timelines | `references/ma-process.md` |
+| <img src="assets/icons/security-check.svg" width="20" height="20" alt="" /> Fund closes & Reg D / marketing | `references/fund-closing-and-compliance.md` |
+| <img src="assets/icons/mail-01.svg" width="20" height="20" alt="" /> Post-close reporting & board | `references/post-close.md` |
+| <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> Podcast / interview lessons | `references/interview-lessons.md` |
 
-## Sources
+## <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Sources
 
 | Layer | Credit | Local |
 | --- | --- | --- |
@@ -65,6 +92,7 @@ metadata:
 | GTM Engine of Fundraising | JD St-Martin & Jonathan Alden — [Vessel guide](https://vessel.co/resources/blog/the-go-to-market-engine-of-fundraising-complete-2026-guide-to-applying-b2b-saas-model-to-lp-relationships) (vendor content) | `references/article-lessons.md` |
 | *Never Split the Difference* | Chris Voss — [Runn summary](https://www.runn.io/blog/never-split-the-difference-summary) | `references/article-lessons.md` |
 | *Pitch Anything* | Oren Klaff — [Deven Davis summary](https://www.devendavis.com/book-summaries/pitch-anything); [blas.com notes](https://blas.com/pitch-anything/) | `references/book-lessons.md` |
+| Fundraising process & IR (2026) | Travis Kalanick — [David Senra podcast, 2026-08-16](https://www.davidsenra.com/episode/travis-kalanick) | `references/interview-lessons.md` |
 | End-to-end process (terms, DD, math, M&A, fund compliance, post-close) | Paraphrased references below | `references/deal-terms.md`, `due-diligence-checklists.md`, `cap-table-math.md`, `ma-process.md`, `fund-closing-and-compliance.md`, `post-close.md` |
 | Official forms (v3.1.0 parse) | YC SAFE docx; NVCA 2020 term sheet; Series Seed GitHub; ILPA Model LPA/DDQ/reporting defs; 15 U.S.C. 80a-2/80a-3 | See `references/` headers and URLs below |
 | Glossary | In-skill jargon | `references/glossary.md` |
@@ -121,23 +149,27 @@ metadata:
 - https://www.law.cornell.edu/uscode/text/15/80a-2
 - https://www.law.cornell.edu/uscode/text/15/80a-3
 
-**Living sources:** Periodically refresh (1) the curated X post compilation, (2) YouTube **Fundraising** playlist **summaries**, (3) `references/book-lessons.md`, and (4) `references/article-lessons.md`; update attributed tables here and bump `version` (see `CHANGELOG.md`).
+**Living sources:** Periodically refresh (1) the curated X post compilation, (2) YouTube **Fundraising** playlist **summaries**, (3) `references/book-lessons.md`, (4) `references/article-lessons.md`, and (5) `references/interview-lessons.md`; update attributed tables here and bump `version` (see `CHANGELOG.md`).
+
+**Diagrams and icons (maintainers and agents):** Every skill file, sub-skill, and reference under this folder must include at least one GitHub-renderable `mermaid` diagram near the top that explains that file’s content, plus inline **Hugeicons free** (MIT) SVG icons from `assets/icons/` per [`assets/icons/README.md`](assets/icons/README.md). Never use Hugeicons Pro (`@hugeicons-pro/*`). When a doc is added or substantially changed, update its diagram and icons in the same change. Validate diagrams with `@mermaid-js/mermaid-cli` (`mmdc`) and verify every `<img src>` resolves to a committed file before opening a PR. Applies to any human or agent editor, in any tooling.
 
 **Optional — Web3:** Token warrants, SAFT, and crypto-native investor vetting—skip for purely equity processes.
 
-## When to use
+## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> When to use
 
 Use this skill when a **founder**, **GP**, **founding team**, or delegated agent should:
 
-- Run any **capital process**: startup seed/angel/venture, **first-time or follow-on fund** LP fundraising, or **company sale / recap / strategic exit**.
-- Build **TheList** (target universe), qualify prospects fast, create **honest momentum and competition**, secure a **lead or anchor**, race for a **second term sheet / LOI / anchor LP**, and **close on a deadline**.
-- Prepare pitches, FAQs, fund decks, teasers/CIMs, data rooms, and **pipeline reports** with decisions flagged for approver sign-off.
+| | |
+| --- | --- |
+| <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> <img src="assets/icons/bank.svg" width="20" height="20" alt="" /> <img src="assets/icons/handshake.svg" width="20" height="20" alt="" /> | Run any **capital process**: startup seed/angel/venture, **first-time or follow-on fund** LP fundraising, or **company sale / recap / strategic exit**. |
+| <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> | Build **TheList**, qualify fast, create **honest momentum**, secure **lead/anchor**, race for a **second term sheet / LOI / anchor LP**, **close on a deadline**. |
+| <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> <img src="assets/icons/folder-search.svg" width="20" height="20" alt="" /> | Prepare pitches, FAQs, decks, teasers/CIMs, data rooms, and **pipeline reports** (decisions flagged for approver). |
 
 Do **not** use for: generic sponsorship or partnership sales, or strategy reviews with no active raise or exit.
 
-Pick **one primary track** (startup, LP fund, or M&A) per engagement; apply the **shared core** to all three.
+Pick **one primary track** (<img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> startup, <img src="assets/icons/bank.svg" width="20" height="20" alt="" /> LP fund, or <img src="assets/icons/handshake.svg" width="20" height="20" alt="" /> M&A) per engagement; apply the **shared core** to all three.
 
-## Agent guardrails: stop and ask the human
+## <img src="assets/icons/security-check.svg" width="20" height="20" alt="" /> Agent guardrails: stop and ask the human
 
 The agent **stops** and gets **explicit human approval** before any of the following (derived from end-to-end references and [FBI IC3 BEC PSA](https://www.ic3.gov/PSA/2023/PSA230609)):
 
@@ -154,20 +186,21 @@ The agent **stops** and gets **explicit human approval** before any of the follo
 11. **Legal or tax interpretation** — non-routine questions go to **lawyer review** or **CPA review**.
 12. **Uncertainty** — when counterparty identity or request legitimacy is unclear, stop.
 
-## Authorization and boundaries
+## <img src="assets/icons/legal-01.svg" width="20" height="20" alt="" /> Authorization and boundaries
 
 - **Draft and research only** until the founder or GP approves a specific outbound (email, DM, deck, data-room grant, term acceptance, or signature).
 - Never commit to valuation, allocation, side letters, token economics, fund terms, or material deal terms without explicit approval of that exact document.
 - Never share another party’s terms, cap table, or diligence notes without permission.
 - Keep external narrative consistent with **approved** positioning; do not volunteer unverified distress or “sunset” storylines without approver and **lawyer review**.
+- Align major investors on **liquidity path** (IPO, secondary, timeline)—proactively, in writing when counsel approves (Kalanick, Senra podcast, 2026-08-16; `references/post-close.md`).
 
 ---
 
-## Shared core process (all tracks)
+## <img src="assets/icons/workflow.svg" width="20" height="20" alt="" /> Shared core process (all tracks)
 
 Distilled from Skilzzz (2009) and aligned with competitive M&A process design. Loop back when the pipeline stalls.
 
-### 1 — Build a large target list (TheList)
+### <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> 1 — Build a large target list (TheList)
 
 1. Map **where capital or buyers concentrate** for your track (see track modules for universe types).
 2. **Short first contact:** goal is a meeting or NDA, not the full deck on cold outreach.
@@ -234,6 +267,7 @@ Counterparties delay without urgency. Every update reflects **verified** motion:
 - **Manufactured scarcity** often fails with angels; anchor urgency in **verified** meetings, term sheets, and commits (Calacanis, *Angel*). Apparent “heat” is usually **built deliberately** through outreach and narrative work (Thiel, *Zero to One*).
 - **Consensus + scarcity (ethical):** credible peer commits and a **real** hard cap or limited allocation compound momentum—use only when true (Kim, *Five Laws*).
 - **Prize frame:** you qualify counterparties; they are not doing you a favor—neediness and validation-seeking kill deals (Klaff). Pair with a full pipeline so walk-away is credible (Klaff; Ringer).
+- **Process over price (Kalanick, Senra podcast, 2026-08-16):** commit to a **competitive process**, not a target pre-money. Accepting the **first term sheet** without alternatives often **extends** the round and invites endless re-trades; verified parallel paths usually **close faster** even in scary markets.
 
 ### 6 — Get the lead / anchor
 
@@ -259,6 +293,19 @@ When the **first** term sheet, LOI, or soft anchor arrives:
 > Hey \[Name\] — checking in on \[Entity\]. Things are heating up with a couple of other parties and we could move quickly from here. Wanted to see where your head is at. Call me back when you can.
 
 5. On terms, **do not split the difference** by default—middle outcomes often satisfy neither side. Prefer **anchoring**, **precise figures**, and **loss aversion** framing over meeting halfway on valuation or price (Voss, *Never Split the Difference*).
+6. **Low clearing anchor:** open with a **pre-money you believe clears** the market (“at least here”), confirm bidder lean-in, then let competition discover the ceiling—avoid negotiating down from an aspirational anchor you have not cleared (Kalanick, Senra podcast, 2026-08-16).
+
+### 7b — Auction mechanics (priced startup rounds; parallel for M&A)
+
+Use when raise size and team bandwidth justify a formal close (Kalanick, Senra podcast, 2026-08-16; detail in `references/interview-lessons.md`; M&A parallel in `references/ma-process.md`):
+
+| Format | When | Mechanics (agent tracks in TheList; human approves all numbers) |
+| --- | --- | --- |
+| **Winner-takes-all** | Single lead owns the round | After low anchor bid, each next bidder gets **prior high bid + fixed increment**; update earlier bidders; **going once / twice** at plateau; one winner takes full allocation. |
+| **Syndicated / demand curve** | Large rounds, many checks | Each bidder submits **$ at several price points**; **sum demand per price** → curve; set clearing price where **demand = raise size**; cut-out names get a **second sheet**; rerun curve **1–2** times; finalize syndicate. |
+| **Parallel rooms** | High meeting volume | Group meetings by **check-size band**; founder in largest-check room; same **core story** everywhere; scale rooms/week to **pitch + deal-team** capacity—not default for seed. |
+
+**Do not** fabricate bids or room counts in external updates; log only **verified** indications and term sheets.
 
 ### 8 — Herd, anti-collusion, sprint to close
 
@@ -278,11 +325,11 @@ Once a term sheet, SAFE sign, anchor commit, or LOI is in motion, shift from sel
 | **Diligence** | Data room (`due-diligence-checklists.md`) | ILPA DDQ + ODD (`due-diligence-checklists.md`) | Confirmatory DD + QoE (`due-diligence-checklists.md`; `ma-process.md`) |
 | **Definitive docs** | NVCA set / charter (`deal-terms.md`) | LPA + subs (`deal-terms.md`; closes in `fund-closing-and-compliance.md`) | Purchase agreement + schedules (`deal-terms.md`) |
 | **Close** | Wire + 409A refresh flags; Form D reminder | First/subsequent close + equalization (`fund-closing-and-compliance.md`) | Funds-flow memo + wire verification (guardrails) |
-| **Post-close** | Investor updates + board (`post-close.md`) | LP reporting + capital calls (`post-close.md`) | Integration handoff; earnout tracking |
+| <img src="assets/icons/mail-01.svg" width="20" height="20" alt="" /> **Post-close** | Investor updates + board (`post-close.md`) | LP reporting + capital calls (`post-close.md`) | Integration handoff; earnout tracking |
 
 ---
 
-## TheList — pipeline tracking
+## <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> TheList — pipeline tracking
 
 One authoritative pipeline (sheet, CRM, or file—name it in reports).
 
@@ -304,7 +351,7 @@ One authoritative pipeline (sheet, CRM, or file—name it in reports).
 
 **Weekly hygiene:** No row without `next_action` within 14 days unless `pass` or `parked_until`.
 
-## Outreach cadence (defaults)
+## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Outreach cadence (defaults)
 
 Tailor **length and lead** to awareness (Schwartz): short note when warm and ready; longer narrative when cold or skeptical.
 
@@ -318,7 +365,7 @@ Tailor **length and lead** to awareness (Schwartz): short note when warm and rea
 
 All outbound requires **approver** sign-off unless a pre-approved template exists for that process.
 
-## Reporting (all tracks)
+## <img src="assets/icons/chart-line.svg" width="20" height="20" alt="" /> Reporting (all tracks)
 
 **Fundraising status** (weekly or on request; immediate on term sheet / LOI / anchor):
 
@@ -332,7 +379,7 @@ All outbound requires **approver** sign-off unless a pre-approved template exist
 
 Use authoritative finance sources for runway, revenue, and fund metrics.
 
-## Agent procedure
+## <img src="assets/icons/workflow.svg" width="20" height="20" alt="" /> Agent procedure
 
 1. Confirm **track**, entity, instrument, target size, timeline, thought partner.
 2. Load or create TheList; dedupe.
@@ -343,12 +390,14 @@ Use authoritative finance sources for runway, revenue, and fund metrics.
 7. **After the yes:** term sheet/LOI review checklist → diligence plan + data room (`references/due-diligence-checklists.md`) → doc timeline with **lawyer review** / **CPA review** flags → close checklist (wires per guardrails; fund: `references/fund-closing-and-compliance.md`) → post-close cadence (`references/post-close.md`). For startup rounds, run pro forma math against `references/cap-table-math.md` before sharing any external cap table.
 8. Report per template above.
 
-## Red flags (cross-track)
+## <img src="assets/icons/security-check.svg" width="20" height="20" alt="" /> Red flags (cross-track)
 
 | Flag | Action |
 | --- | --- |
 | No lead after many first meetings | Revisit narrative, universe fit, geography/hub plan |
 | Single offer, slow second | Emergency second-offer sprint; approver decides walk |
+| Attached to price before process | Reset to low clearing anchor + §7b or second-offer sprint (Kalanick, Senra 2026-08-16) |
+| Investor liquidity surprise / activist tone | Proactive liquidity plan + board alignment (`post-close.md`; interview-lessons) |
 | Terms drifting during docs | Anti-collusion line; counsel |
 | Side terms via back channel | Document; no oral side deals |
 | Endless diligence without offer | Deadline; deprioritize |
@@ -356,7 +405,7 @@ Use authoritative finance sources for runway, revenue, and fund metrics.
 
 ---
 
-## Track — Startup seed / venture
+## <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> Track — Startup seed / venture
 
 **Scope:** Angels, pre-seed/seed, SAFEs and priced rounds, lead + followers. Growth-stage VC process design only when explicitly requested.
 
@@ -364,7 +413,7 @@ Use authoritative finance sources for runway, revenue, and fund metrics.
 
 | Lesson | Use | Source |
 | --- | --- | --- |
-| ~**150** touches → ~**50** first meetings → ~**20** second → ~**2** term sheets | Size TheList and weekly targets | [@twistartups](https://x.com/twistartups/status/2062293805303582751) |
+| <img src="assets/icons/money-01.svg" width="20" height="20" alt="" /> ~**150** touches → ~**50** first meetings → ~**20** second → ~**2** term sheets | Size TheList and weekly targets | [@twistartups](https://x.com/twistartups/status/2062293805303582751) |
 | **120+** serious investor conversations before oversubscription (pre-seed example) | Effort expectations | [@andrew__rea](https://x.com/andrew__rea/status/1787883910652993578) |
 | Parallel **warm intros** and **approved cold** outbound | Top of funnel | [@adcock_brett](https://x.com/adcock_brett/status/1812672042564776073) |
 | Study high-converting cold email (one cited **70.8%** meeting rate—anecdotal) | Email drafts | [@adcock_brett](https://x.com/adcock_brett/status/1812673093086986358) |
@@ -379,6 +428,18 @@ Use authoritative finance sources for runway, revenue, and fund metrics.
 | Large raise + **capital discipline:** S&M payback **<1.5y**, milestone hiring, **Rule of 40**, burn multiple **<2**, quarterly reporting | Diligence updates | [@immad](https://x.com/immad/status/2091749711095226814) |
 | PG **How to Raise Money** (essay link in bookmark) | Deep read | [@benln](https://x.com/benln/status/1832803400582377547) |
 | Skilzzz pointer | Primary source | [@travisk](https://x.com/travisk/status/2118001818227642520) |
+| **Normal market:** long **QED** pitch—story with metrics woven through until “how we win” feels proven | Deck length & depth | Kalanick, [Senra podcast 2026-08-16](https://www.davidsenra.com/episode/travis-kalanick); `references/interview-lessons.md` |
+| **Very bullish cycle:** shorten (~45 min), emphasize **theory of the case**; deep multi-year models can invite doubt | Deck length & depth | Same |
+| **Parallel rooms** by check size; founder in largest-check room | Oversubscribed priced rounds | Same |
+| **Do-no-harm** investor bar (~10% meet; ~1% truly helpful); weakness draws pressure | Partner selection | Same |
+
+### Priced-round process & partner selection (Kalanick, Senra 2026-08-16)
+
+1. Run **shared core §7b** when team can support QED pitches plus auction ops; otherwise stay on Skilzzz second-offer sprint.
+2. **Select for do-no-harm**, not highest price—operators live in the business daily; most capital partners check in quarterly and still want influence.
+3. **Qualify out** investors whose liquidity timeline or governance needs conflict with the plan; document in `confidential_notes`.
+4. Assign **investor-relations owner** (may be exec, not only CEO) for ongoing objection-handling while the CEO runs the process.
+5. After close, maintain **liquidity alignment** cadence (`references/post-close.md`).
 
 ### Instruments
 
@@ -407,6 +468,9 @@ Detail: `references/deal-terms.md`; pro forma: `references/cap-table-math.md`.
 - [ ] Short answers on competition, revenue, pricing, CAC, top failure modes (Calacanis); **distribution** and unit economics (Thiel)
 - [ ] Clear ask (size, instrument, timeline); deck **after** interest
 - [ ] Data room: cap table pro forma, corp docs, contracts, IP, financials, metrics; access log
+- [ ] **Market-aware pitch:** QED depth (normal) vs **theory of the case** (~45 min in very hot cycles) (Kalanick, Senra 2026-08-16)
+- [ ] **Priced round:** low clearing anchor + **§7b** auction path if bandwidth; else second-offer sprint
+- [ ] **Partner screen:** do-no-harm bar; liquidity expectations documented pre-close
 - [ ] **Optional — Web3:** token cap table / warrant summary only with legal blessing
 
 ### Optional — Web3 (startup track)
@@ -419,7 +483,7 @@ Detail: `references/deal-terms.md`; pro forma: `references/cap-table-math.md`.
 
 ---
 
-## Track — Fund raising from LPs
+## <img src="assets/icons/bank.svg" width="20" height="20" alt="" /> Track — Fund raising from LPs
 
 **Scope:** GP fundraising (Fund I through n)—anchors, institutional and individual LPs, fund deck, LP diligence, closing a fund. *General knowledge* fund-structure notes below are labeled as such; operational numbers come from sources. Deeper paraphrases: `references/article-lessons.md` (Kim; St-Martin & Alden on Vessel—**vendor content**, use funnel ideas only).
 
@@ -494,7 +558,7 @@ Apply **shared core** ABC with LPs (ticket size, timeline to sub docs, reference
 
 ---
 
-## Track — Selling the company / M&A
+## <img src="assets/icons/handshake.svg" width="20" height="20" alt="" /> Track — Selling the company / M&A
 
 **Scope:** Lessons from **Fundraising** YouTube playlist (POTOMAC M&A); paraphrased summaries in `references/youtube-fundraising-playlist/`. Company sale, majority recap, strategic or PE exit—not legal/financial execution without sell-side counsel and M&A advisor.
 
@@ -549,18 +613,20 @@ Apply **shared core** phases 5–8 (momentum, lead bidder, second LOI, deadline 
 
 ---
 
-## Output standard
+## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> Output standard
 
 - Lead with **bottom line** and **decisions for approver**.
-- Label **track** and separate **shared core**, **source attributions**, **book** (`references/book-lessons.md`) and **article** (`references/article-lessons.md`) paraphrases, **Straight Line Persuasion Module 7 (paraphrase)**, **general knowledge**, and **Optional — Web3**.
+- Label **track** and separate **shared core**, **source attributions**, **book** (`references/book-lessons.md`), **article** (`references/article-lessons.md`), **interview** (`references/interview-lessons.md`) paraphrases, **Straight Line Persuasion Module 7 (paraphrase)**, **general knowledge**, and **Optional — Web3**.
 - Cite URLs for philosophy; cite pipeline rows for operational facts.
 
-## Verification checklist
+## <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> Verification checklist
 
-- [ ] Active track identified; TheList has stages, amounts, next actions
-- [ ] ABC captured from last meeting on non-pass rows
-- [ ] Urgency claims verified; second-offer plan explicit once first offer exists
-- [ ] No outbound without approval (unless pre-authorized template)
-- [ ] @hosseeb article not cited beyond link unless fetched in full
-- [ ] M&A rows cite YouTube links and ~timestamps
-- [ ] Official-form paraphrases match current URLs in `references/` (refresh after YC/NVCA/ILPA updates)
+| | Check |
+| --- | --- |
+| <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> | Active track identified; TheList has stages, amounts, next actions |
+| <img src="assets/icons/workflow.svg" width="20" height="20" alt="" /> | ABC captured from last meeting on non-pass rows |
+| <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> | Urgency claims verified; second-offer plan explicit once first offer exists |
+| <img src="assets/icons/security-check.svg" width="20" height="20" alt="" /> | No outbound without approval (unless pre-authorized template) |
+| <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> | @hosseeb article not cited beyond link unless fetched in full |
+| <img src="assets/icons/youtube.svg" width="20" height="20" alt="" /> | M&A rows cite YouTube links and ~timestamps |
+| <img src="assets/icons/money-01.svg" width="20" height="20" alt="" /> | Official-form paraphrases match current URLs in `references/` (refresh after YC/NVCA/ILPA updates) |

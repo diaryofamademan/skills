@@ -1,6 +1,39 @@
-# Glossary
+# <img src="../assets/icons/book-01.svg" width="20" height="20" alt="" /> Glossary
 
 Short definitions for jargon used across this skill. Not legal or tax advice — **lawyer review** / **CPA review** for binding meanings.
+
+```mermaid
+mindmap
+  root((Fundraising jargon))
+    Process
+      ABC
+      TheList
+      IOI
+      LOI
+    People
+      GP
+      LP
+      Lead investor
+      Anchor LP
+    Startup equity
+      SAFE
+      Cap table
+      Liquidation preference
+      Anti-dilution
+    Fund LP
+      DDQ
+      LPA
+      Capital call
+      Carry
+    M&A
+      CIM
+      Escrow
+      Exclusivity
+    Compliance
+      Form D
+      Accredited investor
+      Marketing Rule
+```
 
 | Term | Meaning |
 | --- | --- |
@@ -9,7 +42,7 @@ Short definitions for jargon used across this skill. Not legal or tax advice —
 | **Anchor LP** | First institutional or large LP that legitimizes a fund raise. |
 | **Anti-dilution** | Preferred adjustment when a later round prices lower (weighted average vs full ratchet). |
 | **As-converted** | Preferred shares counted as if converted to common (for ownership and votes). |
-| **Cap table** | Ownership table (fully diluted includes options, SAFEs, warrants). |
+| <img src="../assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> **Cap table** | Ownership table (fully diluted includes options, SAFEs, warrants). |
 | **Capital call** | GP notice requiring LPs to fund part of their commitment. |
 | **Carry (carried interest)** | GP share of fund profits after hurdle/catch-up. |
 | **CIM** | Confidential Information Memorandum — sell-side company book for buyers. |

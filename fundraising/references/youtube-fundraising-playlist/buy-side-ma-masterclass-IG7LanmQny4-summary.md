@@ -1,4 +1,4 @@
-# Buy Side M&A MasterClass | The Breakdown, with Paul Giannamore
+# <img src="../../assets/icons/handshake.svg" width="20" height="20" alt="" /> Buy Side M&A MasterClass | The Breakdown, with Paul Giannamore
 
 - **Channel:** POTOMAC M&A  
 - **Speaker:** Paul Giannamore  
@@ -6,7 +6,17 @@
 - **URL:** https://www.youtube.com/watch?v=IG7LanmQny4  
 - **Upload:** 2022-09-14  
 
-## Summary (paraphrased)
+```mermaid
+flowchart TD
+  FMV["Fair market value — standalone"]
+  STRAT["Strategic / investment value to buyer"]
+  FMV --> GAP["Negotiation gap"]
+  STRAT --> GAP
+  GAP --> LOI["Competitive LOIs before exclusivity"]
+  LOI --> DD["Deep diligence — re-trade risk"]
+```
+
+## <img src="../../assets/icons/youtube.svg" width="20" height="20" alt="" /> Summary (paraphrased)
 
 This session explains how **acquirers** think when buying a lower-middle-market business (examples use pest control, but the logic generalizes). Giannamore separates **opportunistic** calls (retirement, distress, inbound tip) from a **formal acquisition program** tied to strategy, sourcing, and execution capability.
 
