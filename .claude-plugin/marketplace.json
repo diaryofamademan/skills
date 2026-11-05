@@ -1,0 +1,32 @@
+{
+  "name": "diaryofamademan-skills",
+  "owner": {
+    "name": "Ian Balina",
+    "url": "https://github.com/diaryofamademan"
+  },
+  "metadata": {
+    "description": "Open agent skills by Ian Balina: playbooks AI agents can run end to end, starting with fundraising.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "fundraising",
+      "description": "Run a capital raise or business sale end to end: startup seed and venture rounds, GP fund raises from LPs, and company M&A or strategic exits, run as one competitive process with human checkpoints.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./fundraising"
+      ],
+      "version": "3.3.0",
+      "license": "MIT",
+      "keywords": [
+        "fundraising",
+        "seed",
+        "venture-capital",
+        "lp",
+        "m-and-a",
+        "term-sheet"
+      ]
+    }
+  ]
+}
