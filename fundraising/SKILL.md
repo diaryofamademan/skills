@@ -1,7 +1,7 @@
 ---
 name: fundraising
 description: "Use when raising capital or selling a business: startup seed/venture rounds, GP fund raises from LPs, or company M&A/strategic exits—shared competitive process (pipeline, ABC, lead/anchor, second offer, deadline close) plus track-specific playbooks from Startup Seed Raising Skilzzz, curated X posts, and the Fundraising YouTube playlist."
-version: 3.3.1
+version: 3.3.2
 author: Open skills contributors
 license: MIT
 metadata:
