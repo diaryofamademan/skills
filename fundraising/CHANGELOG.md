@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 3.3.1 (2026-11-05)
+
+- Restructured SKILL.md to the agent-skills spec size (core playbook in SKILL.md; detailed walkthroughs moved to references/). No content removed.
+
 ## 3.3.0 (2026-11-04)
 
 - Add `references/interview-lessons.md`: paraphrased fundraising, auction, investor-selection, and IR lessons from Travis Kalanick on the David Senra podcast (2026-08-16), with demand-curve / winner-takes-all mermaid flows.
