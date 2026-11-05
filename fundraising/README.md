@@ -64,6 +64,14 @@ flowchart LR
 | Fund closes / Reg D / QP | <img src="assets/icons/security-check.svg" width="20" height="20" alt="" /> [`references/fund-closing-and-compliance.md`](./references/fund-closing-and-compliance.md) |
 | Updates / LP reporting | <img src="assets/icons/mail-01.svg" width="20" height="20" alt="" /> [`references/post-close.md`](./references/post-close.md) |
 | Jargon | <img src="assets/icons/book-01.svg" width="20" height="20" alt="" /> [`references/glossary.md`](./references/glossary.md) |
+| Sources / official URLs | <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> [`references/sources-and-urls.md`](./references/sources-and-urls.md) |
+| Qualify / ABC / lead / herd (full text) | <img src="assets/icons/workflow.svg" width="20" height="20" alt="" /> [`references/qualifying-and-closing.md`](./references/qualifying-and-closing.md) |
+| Credibility / momentum / second offer (full text) | <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> [`references/credibility-and-persuasion.md`](./references/credibility-and-persuasion.md) |
+| Auction mechanics (§7b) | <img src="assets/icons/chart-line.svg" width="20" height="20" alt="" /> [`references/auction-mechanics.md`](./references/auction-mechanics.md) |
+| TheList schema / cadence / reporting / red flags / verification | <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> [`references/pipeline-operations.md`](./references/pipeline-operations.md) |
+| Startup track detail | <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> [`references/startup-track.md`](./references/startup-track.md) |
+| LP fund track detail | <img src="assets/icons/bank.svg" width="20" height="20" alt="" /> [`references/lp-track.md`](./references/lp-track.md) |
+| M&A lesson tables | <img src="assets/icons/handshake.svg" width="20" height="20" alt="" /> [`references/ma-track-lessons.md`](./references/ma-track-lessons.md) |
 
 4. **Stop at guardrails** in `SKILL.md` (outreach, terms, docs, wires, solicitation, eligibility)—human approves every binding step.
 
@@ -71,9 +79,17 @@ flowchart LR
 
 | Path | One line |
 | --- | --- |
-| [`SKILL.md`](./SKILL.md) | Main skill: shared core, tracks, guardrails, agent procedure, sources |
+| [`SKILL.md`](./SKILL.md) | Main skill: core playbook — shared core, track summaries, guardrails, agent procedure (detail in `references/`) |
 | [`CHANGELOG.md`](./CHANGELOG.md) | Version history |
 | [`references/README.md`](./references/README.md) | Index of all reference files |
+| <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> [`references/sources-and-urls.md`](./references/sources-and-urls.md) | Full source credits, official URLs, maintainer notes (from SKILL.md, v3.3.1) |
+| <img src="assets/icons/workflow.svg" width="20" height="20" alt="" /> [`references/qualifying-and-closing.md`](./references/qualifying-and-closing.md) | Full text: qualify, ABC closing notes, lead/anchor, herd/sprint |
+| <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> [`references/credibility-and-persuasion.md`](./references/credibility-and-persuasion.md) | Full text: credibility, momentum, second offer + negotiation notes |
+| <img src="assets/icons/chart-line.svg" width="20" height="20" alt="" /> [`references/auction-mechanics.md`](./references/auction-mechanics.md) | Full text: §7b auction mechanics |
+| <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> [`references/pipeline-operations.md`](./references/pipeline-operations.md) | TheList schema, cadence, reporting, red flags, verification, §1/§9 detail |
+| <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> [`references/startup-track.md`](./references/startup-track.md) | Startup track detail: funnel, narrative, priced rounds, instruments, checklist, Web3 |
+| <img src="assets/icons/bank.svg" width="20" height="20" alt="" /> [`references/lp-track.md`](./references/lp-track.md) | LP track detail: pipeline math, anchors, thesis, diligence/terms, checklist |
+| <img src="assets/icons/handshake.svg" width="20" height="20" alt="" /> [`references/ma-track-lessons.md`](./references/ma-track-lessons.md) | M&A lesson tables (POTOMAC), checklist, after-the-yes steps |
 | <img src="assets/icons/money-01.svg" width="20" height="20" alt="" /> [`references/deal-terms.md`](./references/deal-terms.md) | Official-form paraphrases: SAFE, NVCA TS, Series Seed, ILPA LPA, M&A LOI |
 | <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> [`references/due-diligence-checklists.md`](./references/due-diligence-checklists.md) | Startup VDR, ILPA DDQ 2.0, M&A seller DD |
 | <img src="assets/icons/pie-chart-01.svg" width="20" height="20" alt="" /> [`references/cap-table-math.md`](./references/cap-table-math.md) | Dilution math + worked SAFE → Series A |
@@ -92,7 +108,7 @@ flowchart LR
 - Content is **paraphrased** from public sources (YC, NVCA, ILPA, SEC, practitioner blogs, books, articles, X posts, YouTube summaries).
 - **No copyrighted document text** or pirated PDFs are stored in the repo.
 - Each reference file lists **exact official URLs**; some older blog posts are marked **search excerpt only**.
-- See the **Sources** table in [`SKILL.md`](./SKILL.md) for the full credit list.
+- See the **Sources** table in [`references/sources-and-urls.md`](./references/sources-and-urls.md) for the full credit list.
 
 ## <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> Contributing
 
