@@ -45,7 +45,7 @@ Sources: [Yonder — investor update template](https://yonder.vc/resources/inves
 6. **Asks** (specific); close loop next month.
 7. Thanks / shout-outs.
 
-Editorial, frank tone (see Schwartz in `SKILL.md`) improves trust.
+Editorial, frank tone (see Schwartz in `SKILL.md` §4; full text in [`credibility-and-persuasion.md`](./credibility-and-persuasion.md)) improves trust.
 
 ## <img src="../assets/icons/chart-line.svg" width="20" height="20" alt="" /> LP reporting and capital calls (ILPA)
 
