@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 3.3.2 — 2026-11-05
+
+- Moved the maintainer script `scripts/verify-assets.sh` out of the skill folder to repo-root `scripts/verify-fundraising-assets.sh` (path logic adjusted). Registry security scanners grade bundled executables; the script is repo tooling, not playbook content. No playbook content changed.
+
 ## 3.3.1 (2026-11-05)
 
 - Restructured SKILL.md to the agent-skills spec size (core playbook in SKILL.md; detailed walkthroughs moved to references/). No content removed.
