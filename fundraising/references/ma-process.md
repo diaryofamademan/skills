@@ -47,4 +47,4 @@ Sources: [Praxis Rock — sell-side process](https://praxisrock.com/insights/sel
 - **Winner-takes-all (conceptual parallel):** Some strategic sales behave like a **single-buyer** endgame after sequential improvement of offers; the VC **last bid plus increment** ladder is the startup analog—usually inappropriate for M&A unless the seller explicitly runs a single-asset competitive award.
 - **Negotiated (1–2 buyers):** faster, confidential; mitigate by locking key LOI terms and avoiding premature exclusivity.
 
-Cross-reference: M&A track tables in `SKILL.md`; `references/deal-terms.md` for LOI economics.
+Cross-reference: M&A track lesson tables in [`ma-track-lessons.md`](./ma-track-lessons.md); [`deal-terms.md`](./deal-terms.md) for LOI economics.
