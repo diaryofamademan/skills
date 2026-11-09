@@ -27,6 +27,23 @@
         "m-and-a",
         "term-sheet"
       ]
+    },
+    {
+      "name": "first-principles-thinking",
+      "description": "Reason from first principles instead of by analogy: strip a decision, design, cost, or strategy to fundamental truths with named evidence, price the raw inputs where money is involved, and rebuild a better option from the floor up.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./first-principles-thinking"
+      ],
+      "version": "1.4.0",
+      "license": "MIT",
+      "keywords": [
+        "first-principles",
+        "reasoning",
+        "decision-making",
+        "mental-models"
+      ]
     }
   ]
 }

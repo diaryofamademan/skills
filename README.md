@@ -37,6 +37,7 @@ flowchart TB
 | Skill | What it does | Status |
 | --- | --- | --- |
 | [fundraising](./fundraising/) | Run a **startup** raise, an **LP fund** raise, or an **M&A** sale end to end (shared pipeline, guardrails, track-specific playbooks), plus paraphrased lessons from Travis Kalanick on the [David Senra podcast](https://www.davidsenra.com/episode/travis-kalanick) in `references/interview-lessons.md`. | **v3.3.0** |
+| [first-principles-thinking](./first-principles-thinking/) | Strip a decision, design, cost, or strategy to **fundamental truths** that carry named evidence, price the raw inputs where money is involved, and rebuild a better option from the floor up instead of reasoning by analogy. | **v1.4.0** |
 
 ## How to use
 
