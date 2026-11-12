@@ -1,0 +1,93 @@
+{
+ "tool": "NVIDIA/SkillSpector",
+ "tool_version": "2.12.0",
+ "tool_commit": "3c2c5d7a1ee148d228398070b91d3beaf0d73b11",
+ "created": "2026-11-11",
+ "source": "Scan of diaryofamademan/skills at main on 2026-11-11, triaged by hand the same night. The same two skills were covered by the local library pilot under their local names (ian-fundraising, ian-first-principles-thinking).",
+ "scope": "The two published skills in this repo.",
+ "findings_baselined": 10,
+ "entries": [
+  {
+   "skill": "first-principles-thinking",
+   "set": "skills-repo",
+   "rule": "AE1",
+   "pattern": "Incomplete referenced artifact analysis",
+   "file": "SKILL.md",
+   "severities": [
+    "HIGH"
+   ],
+   "occurrences": [
+    {
+     "line": 17,
+     "finding": "README.md (partial)"
+    }
+   ],
+   "count": 1,
+   "reason": "Coverage gap: the scanner could only partially parse a referenced file. A limit of the scan, not a defect in the skill."
+  },
+  {
+   "skill": "fundraising",
+   "set": "skills-repo",
+   "rule": "AE1",
+   "pattern": "Incomplete referenced artifact analysis",
+   "file": "SKILL.md",
+   "severities": [
+    "HIGH"
+   ],
+   "occurrences": [
+    {
+     "line": 19,
+     "finding": "references/README.md (partial)"
+    },
+    {
+     "line": 25,
+     "finding": "references/README.md (partial)"
+    },
+    {
+     "line": 267,
+     "finding": "references/ma-track-lessons.md (partial)"
+    },
+    {
+     "line": 269,
+     "finding": "references/ma-track-lessons.md (partial)"
+    },
+    {
+     "line": 273,
+     "finding": "references/ma-track-lessons.md (partial)"
+    },
+    {
+     "line": 277,
+     "finding": "references/ma-track-lessons.md (partial)"
+    },
+    {
+     "line": 281,
+     "finding": "references/ma-track-lessons.md (partial)"
+    },
+    {
+     "line": 285,
+     "finding": "references/ma-track-lessons.md (partial)"
+    }
+   ],
+   "count": 8,
+   "reason": "Coverage gap: the scanner could only partially parse a referenced file. A limit of the scan, not a defect in the skill."
+  },
+  {
+   "skill": "fundraising",
+   "set": "skills-repo",
+   "rule": "RA1",
+   "pattern": "Self-Modification",
+   "file": "CHANGELOG.md",
+   "severities": [
+    "HIGH"
+   ],
+   "occurrences": [
+    {
+     "line": 28,
+     "finding": "write skill"
+    }
+   ],
+   "count": 1,
+   "reason": "False positive: prose about writing or updating skills matched as runtime self-modification."
+  }
+ ]
+}

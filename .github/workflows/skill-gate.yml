@@ -1,0 +1,68 @@
+# Skill gate (SkillSpector).
+#
+# On every push to main and every pull request that touches a skill,
+# this workflow scans the published skill directories with SkillSpector
+# at a pinned commit and compares the findings against the triaged
+# baseline in .skill-gate/baseline.json. An unbaselined HIGH or CRITICAL
+# finding fails the check, and a scanner error fails it too: the gate
+# fails closed. This repo holds two skills, so the gate scans all of
+# them on every run. See .skill-gate/GATE.md for the rules and the
+# triage path.
+name: Skill gate
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/SKILL.md"
+      - "fundraising/**"
+      - "first-principles-thinking/**"
+      - ".skill-gate/**"
+      - ".github/workflows/skill-gate.yml"
+  pull_request:
+    paths:
+      - "**/SKILL.md"
+      - "fundraising/**"
+      - "first-principles-thinking/**"
+      - ".skill-gate/**"
+      - ".github/workflows/skill-gate.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  skill-gate:
+    name: Skill gate
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+        with:
+          persist-credentials: false
+
+      - name: Use Python 3.12
+        uses: actions/setup-python@e797f83bcb11b83ae66e0230d6156d7c80228e7c # v6
+        with:
+          python-version: "3.12"
+
+      - name: Install SkillSpector at the pinned commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --quiet https://github.com/NVIDIA/SkillSpector.git "$RUNNER_TEMP/skillspector-src"
+          git -C "$RUNNER_TEMP/skillspector-src" checkout --quiet 3c2c5d7a1ee148d228398070b91d3beaf0d73b11
+          python -m pip install --quiet "$RUNNER_TEMP/skillspector-src"
+          skillspector --version
+
+      - name: Run the gate on every published skill
+        shell: bash
+        run: |
+          set -euo pipefail
+          dirs=()
+          for d in */; do
+            if [ -f "${d}SKILL.md" ]; then
+              dirs+=("${d%/}")
+            fi
+          done
+          echo "Skill directories: ${dirs[*]}"
+          .skill-gate/gate.sh "${dirs[@]}"
