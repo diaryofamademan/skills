@@ -44,6 +44,24 @@
         "decision-making",
         "mental-models"
       ]
+    },
+    {
+      "name": "game-theory-for-decisions",
+      "description": "Decide when the outcome depends on other actors' choices: map the players, payoffs, information, and sequence, solve for the likely responses, then choose the best move or change the game \u2014 negotiations, competition, enforcement, auctions, and cooperation.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./game-theory-for-decisions"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": [
+        "game-theory",
+        "negotiation",
+        "strategy",
+        "decision-making",
+        "mental-models"
+      ]
     }
   ]
 }
