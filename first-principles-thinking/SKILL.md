@@ -1,7 +1,7 @@
 ---
 name: first-principles-thinking
 description: "Use when a decision, design, cost, or strategy looks trapped by convention: strip it to fundamental truths that carry named evidence, price the raw inputs where money is involved, and rebuild a better option from the floor up instead of reasoning by analogy."
-version: 1.5.0
+version: 1.5.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -70,7 +70,7 @@ Rule of thumb: reserve this skill for decisions that are **expensive, hard to re
 12. **Name what the money bought.** State what a charge paid for before you floor it or index it. Price a thing against its own kind. An idiot index against the wrong floor misleads more than no index at all.
 13. **Absence needs the whole record.** A partial source supports "not seen in this source" and nothing stronger. Every absence claim names its source and its scope. One inbox, one ledger, or one dashboard view is a scope, not the world.
 14. **Check the instruments before you call a measurement missing.** Search the credential vault for an API key. Search every mailbox and record the subject touches. A measurement behind a login you hold is not missing. It is unfetched.
-15. **A first-order win is not a verified win.** Every option sets things in motion that are not anyone's move: loops, cycles, adaptation, decay. Run the echo on the rebuild and on the status quo before ranking (Step 6). A chain link needs a mechanism and a confidence label (`follows`, `likely`, `possible`). A consequence without a mechanism is a worry, and it belongs in the assumption list, not the chain. Two questions deep, two horizons, then decide.
+15. **A first-order win is not a verified win.** Every option sets things in motion that are not anyone's move: loops, cycles, adaptation, decay. Ask "and then what?" of the rebuild and of the status quo before ranking (Step 6). A chain link needs a mechanism and a confidence label (`follows`, `likely`, `possible`). A consequence without a mechanism is a worry, and it belongs in the assumption list, not the chain. Two questions deep, two horizons, then decide.
 
 ## The one idea
 
@@ -160,11 +160,11 @@ Put the two options side by side on the same criteria: cost vs the floor, time, 
 - If the rebuild wins only by leaning on a demoted assumption, say exactly which one. That assumption is now the thing to go and measure.
 - If the status quo survives, that is a valid result. Record which assumptions were tested and held, so the next person does not pay to re-test them.
 
-**Then run the echo on both options.** The comparison above is a first-order comparison: both options scored as they stand today. Before ranking, trace what each option sets in motion (full method: [`references/consequence-chains.md`](references/consequence-chains.md)). For the rebuild and for the status quo, write the first-order effect, then ask "and then what?" twice, at two horizons: now, and one cycle later. Hunt the three usual sources by name: feedback loops and where the cycle stands, non-strategic adaptation (the system settling into its new shape), and the status quo's own decay, which the frozen first-order score never shows. Every link carries a mechanism and a label: `follows`, `likely`, or `possible`.
+**Then ask "and then what?" of both options.** The comparison above is a first-order comparison: both options scored as they stand today. Before ranking, trace what each option sets in motion (full method: [`references/consequence-chains.md`](references/consequence-chains.md)). For the rebuild and for the status quo, write the first-order effect, then ask "and then what?" twice, at two horizons: now, and one cycle later. Hunt the three usual sources by name: feedback loops and where the cycle stands, non-strategic adaptation (the system settling into its new shape), and the status quo's own decay, which the frozen first-order score never shows. Every link carries a mechanism and a label: `follows`, `likely`, or `possible`.
 
-- If the echo reverses the first-order ranking, the echo wins, and the trace must show which link did it.
-- If a chain link is a named player's deliberate response, it does not belong in the echo. It belongs in a game map.
-- Scale the depth to the stakes (guardrail 5): two lines for a small reversible choice, the full table for an expensive or one-way one. An option whose echo has not been run is not verified.
+- If the second-order trace reverses the first-order ranking, the trace wins, and it must show which link did it.
+- If a chain link is a named player's deliberate response, it does not belong in this trace. It belongs in a game map.
+- Scale the depth to the stakes (guardrail 5): two lines for a small reversible choice, the full table for an expensive or one-way one. An option that has not been traced is not verified.
 
 ### 7 — Verify and decide
 
@@ -181,7 +181,7 @@ Load [`references/techniques.md`](references/techniques.md) when a step stalls:
 | Methodical doubt (Descartes) | Step 3: a hard reset when the whole frame is suspect |
 | Feynman rebuild / teach test | Step 3 and 7: "What I cannot create, I do not understand" — if you cannot rebuild it or teach it plainly, you do not yet know it |
 | Inversion (Munger) | Step 6: ask what would guarantee failure, then check the rebuild avoids it |
-| Second-level thinking / run the echo (Marks) | Step 6: trace the systemic consequences of both options — loops, cycles, adaptation, decay — two questions deep at two horizons ([`references/consequence-chains.md`](references/consequence-chains.md)) |
+| Second-level thinking (Marks) | Step 6: trace the systemic consequences of both options — loops, cycles, adaptation, decay — two questions deep at two horizons ([`references/consequence-chains.md`](references/consequence-chains.md)) |
 
 ## Output standard
 
@@ -192,7 +192,7 @@ Lead with the **decision and the recommendation**. Then, in this order:
 3. **Fundamental truths** — only claims with named evidence.
 4. **Floor math** (if money is involved) — inputs, prices with sources, the floor, the actual price, the idiot index, and the named gap hypotheses.
 5. **The rebuild** — what was questioned, deleted, simplified, accelerated, automated, in that order.
-6. **Comparison** — rebuild vs status quo on shared criteria, including which demoted assumptions the rebuild still leans on, plus the echo table for both options: first, second, and third order effects at two horizons, every link labeled `follows`, `likely`, or `possible`.
+6. **Comparison** — rebuild vs status quo on shared criteria, including which demoted assumptions the rebuild still leans on, plus the second-order trace for both options: first, second, and third order effects at two horizons, every link labeled `follows`, `likely`, or `possible`.
 7. **Reasoning trace** — the explanation of how the conclusions follow, not just what they are. For each conclusion or recommendation, show its chain in one or two lines: `Conclusion ← T2 + T4, floor lines 1–3, comparison criterion: cost`. Rules for the trace:
    - Every load-bearing conclusion must trace to numbered truths (T), floor-math lines, or a named comparison criterion. If a step in the chain is judgment rather than derivation, label it `judgment` — judgment is allowed, hiding it is not.
    - A conclusion that traces only to demoted assumptions gets flagged in the trace as `rests on A<n> — unproven`, which is exactly the assumption the next measurement should target.
@@ -214,7 +214,7 @@ Before reporting done, verify:
 - [ ] The rebuild followed The Algorithm's order — delete happened before simplify, and automate came last.
 - [ ] At least one thing was deleted, or the report states plainly why nothing could be.
 - [ ] The comparison names the demoted assumptions the rebuild still depends on.
-- [ ] The echo was run on both options, two questions deep at two horizons, with a mechanism and a confidence label on every link — or the report states why the stakes did not justify more than two lines.
+- [ ] Both options were traced two questions deep at two horizons, with a mechanism and a confidence label on every link — or the report states why the stakes did not justify more than two lines.
 - [ ] Regulation, safety, and specialist constraints were treated as inputs, not stripped as assumptions.
 - [ ] The recommendation fits the stakes: no ground-up rebuild proposed for a low-stakes, reversible decision.
 - [ ] Any cited success story passes the survivorship check in the guardrails.

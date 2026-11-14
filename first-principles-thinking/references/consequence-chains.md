@@ -1,4 +1,4 @@
-# <img src="../assets/icons/chart-line.svg" width="20" height="20" alt="" /> Consequence chains — running the echo
+# <img src="../assets/icons/chart-line.svg" width="20" height="20" alt="" /> Consequence chains — asking "and then what?"
 
 A comparison can be correct at first order and wrong in total. Every
 option sets things in motion. Some of those motions are other players'
@@ -50,10 +50,10 @@ order is written down.
 
 ---
 
-## The echo procedure
+## The procedure
 
 Run this inside Step 6 of the core procedure, on **both** options:
-the rebuild and the status quo. The status quo has an echo too, and
+the rebuild and the status quo. The status quo sets things in motion too, and
 it is often the deciding one.
 
 1. **Write the first-order effect.** One line. The direct result of
@@ -86,7 +86,7 @@ The output is a short table:
 
 ## The three hunts
 
-Most damaging echoes come from three places. Hunt them by name.
+The most damaging second-order effects come from three places. Hunt them by name.
 
 ### Feedback loops and cycles
 
@@ -114,7 +114,7 @@ and is it the state the first-order math assumed?
 Doing nothing is also an option with a chain. Assets wear. Prices
 creep. A skill not used fades. A small annual cost with no cap
 compounds into a large one. The first-order comparison almost always
-scores the status quo at today's values, frozen. Its echo is rarely
+scores the status quo at today's values, frozen. What it sets in motion is rarely
 frozen. Write the status quo's chain with the same two questions and
 the same two horizons, or the comparison is rigged in its favor.
 
@@ -127,7 +127,7 @@ goal achieved. Second order: owners convert or under-maintain,
 builders build elsewhere, supply shrinks. Third order: the shortage
 raises prices for everyone not already housed, and the protected
 tenants cannot move without losing the protection. The textbook case
-of a policy whose echo reverses its first order over one cycle.
+of a policy whose second order reverses its first order over one cycle.
 
 **The good company.** First order: the company is excellent, buy.
 Second order: excellence is obvious, so the price already contains
@@ -154,22 +154,22 @@ price to $40 to grow volume.
   low-price customers crowds out the service quality the original
   1,000 were paying for; churn among them rises (`possible`, priced
   only as a direction).
-- **Status quo echo.** Hold $50: volume flat, margin intact, and the
+- **Status quo, traced.** Hold $50: volume flat, margin intact, and the
   chain is short. Nothing compounds against it this cycle.
 
-First order said cut. The echo says hold, and names the assumption
+First order said cut. The trace says hold, and names the assumption
 that would flip it back: if serving cost were near zero, the second
 order reverses. That assumption is now the thing to measure.
 
 ---
 
-## Failure modes of the echo itself
+## How this step fails
 
-- **Echo theater.** A long, vivid chain built to defeat an option the
+- **Chain theater.** A long, vivid chain built to defeat an option the
   analyst already disliked. Test: the chain's labels. Theater runs on
   `possible` links stacked three deep. The procedure caps the chain at
   two questions for this reason.
-- **Asymmetric echo.** Running the echo on the new option and scoring
+- **One-sided tracing.** Tracing the new option and scoring
   the status quo frozen at today's values. The procedure runs both,
   always.
 - **Strategic spillover.** A link in the chain is actually a named
@@ -184,8 +184,8 @@ order reverses. That assumption is now the thing to measure.
 
 ## When to skip the depth
 
-The echo scales with the stakes and the irreversibility, the same
+The depth scales with the stakes and the irreversibility, the same
 rule as the whole skill (guardrail 5). For a small, reversible choice,
-the echo is two lines in the comparison and nothing more. For an
-expensive or one-way choice, an option whose echo has not been run is
+the trace is two lines in the comparison and nothing more. For an
+expensive or one-way choice, an option that has not been traced is
 not verified, whatever its first-order score says.
