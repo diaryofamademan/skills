@@ -80,6 +80,27 @@
         "narrative",
         "crisis-communications"
       ]
+    },
+    {
+      "name": "write-in-your-voice",
+      "source": "./write-in-your-voice",
+      "description": "Build a working voice for a person from how they actually speak, then draft in it: a tiered source bank from their speech, drafts composed from their own sentences, word and shape gates, and a kill-rate ledger.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ian Balina"
+      },
+      "homepage": "https://github.com/diaryofamademan/skills/tree/main/write-in-your-voice",
+      "license": "MIT",
+      "category": "writing",
+      "keywords": [
+        "voice",
+        "writing",
+        "founder",
+        "content",
+        "speech",
+        "style",
+        "drafting"
+      ]
     }
   ]
 }

@@ -1,0 +1,23 @@
+# Drafting and gates — the detail
+
+## Procedure B, worked slowly
+
+**Sourcing.** Before drafting, name the move the piece has to make (announce, explain, warn, tell the story of a result). Search the bank for passages where the person makes that move, on this subject if possible, on any subject if not: the cadence transfers even when the topic does not. Quote 2–3 passages in the working notes. This is not research decoration; the draft's sentences will be built out of these.
+
+**Composing.** Lay the source sentences in hook-first order (the person's own question or verdict first, their explanation second, the payoff third, the action last). Tighten: cut filler, fix transcription errors, split a run-on at the point the person would breathe. Do not upgrade their words. If a line needs a word they never use, the line is wrong, not the vocabulary. Connective text between sourced lines stays minimal, plain, and in their operational verb set (the verbs they use when they direct work: check, fix, send, look at, make sure).
+
+**The no-source case.** When the bank has nothing on the move, return the dictation prompt, tuned to the piece: "Tell it like you're warning a friend: what's the moment this is for, what's the dumbest way people handle that moment, and what do you do instead?" Thirty seconds of their speech becomes tier 2 material and the draft assembles from it. This feels slower than composing. It is faster than the compose-reject cycle it replaces, and every use grows the bank.
+
+## The word gate
+
+Build it from the spoken corpus: count the person's words, keep the attested set, and maintain a short never-use list from their own rejections (every person has words they have told a drafter never to put in their mouth; write those down the first time they say it). Run drafts against the attested set mechanically where possible. Treat flags as questions, not verdicts: source names and quoted terms flag legitimately. The gate's job is to catch imported vocabulary, the words a model reaches for that the person would never say out loud.
+
+## The shape gate, check by check
+
+1. **Parallelism scan.** Read for mirrored pairs ("not X, but Y" constructions used as rhythm), balanced two-part sentences, and rule lists recited in parallel prose. One deliberate contrast is a choice; a draft built out of them is a lecture. Rewrite flags into the person's shapes: a question, a receipt, a plain statement.
+2. **Press-release test.** Cover everything after the first line. Could the first line run in a company announcement or a news summary without changing a word? "New open-source skill:" fails. "Ever been in a high-stakes deal where every party at the table is optimizing for something different?" passes: it is a question only a person asks another person.
+3. **Read-aloud check.** Read the draft aloud, then read two tier 1 passages aloud. Compare: Does "I" do things in the draft, or narrate? Are the sentence lengths varied the way the person's are (runs and fragments), or uniform medium sentences? Would the person say any given line across a table to someone? A line they would not say out loud dies, however good it looks on the page.
+
+## The priority rule, and why it exists
+
+Drafts fail quietly when a task-level assumption outranks the voice: a "launch register" copied from a previous package, a house capitalization style, a format a platform team prefers. Each is a reasonable default that produces text in nobody's voice. The rule: on any conflict between a format default and the bank-evidenced voice, the voice wins, unless the person names the exception for that specific piece. Write the rule into the drafting workflow, not just the style guide; the failure mode is a workflow applying its defaults before the voice is ever consulted.
