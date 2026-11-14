@@ -1,6 +1,6 @@
 # References index — Write in Your Voice
 
-These references support **Write in Your Voice**, version **1.0.0**. The main `../SKILL.md` holds the two procedures and the gates. These files carry the depth: the bank build in full, the production build it was learned from, the draft pair that proves why the gates are shaped the way they are, and the drafting detail.
+These references support **Write in Your Voice**, version **1.1.0**. The main `../SKILL.md` holds the two procedures and the gates. These files carry the depth: the bank build in full, the production build it was learned from, the draft pair that proves why the gates are shaped the way they are, and the drafting detail.
 
 Read the main skill first. Open a reference when the work needs depth. Do not load every file by default.
 

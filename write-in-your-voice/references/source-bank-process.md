@@ -39,7 +39,7 @@ Tag every kept passage with date, source, and format (hosted video, solo talk, w
 
 ## Step 4 — Layer the bank in a fixed order
 
-Write the tiers into the bank file itself, with the rule stated in the header, so no future drafter has to remember it:
+Write the tiers into the bank file itself, with the rule stated in the header, so no future drafter has to remember it. The header carries one more thing: the person's **channel conventions** — the register rules that differ by channel (capitalization, formality, length habits), recorded per channel from the person's own standing instructions and corrections. A bank without them produces correct-voice drafts in the wrong register for the channel; the conventions belong in the bank because that is the file every drafter opens.
 
 - **Tier 1 — Spoken passages.** The primary voice evidence.
 - **Tier 2 — Dictated explanations.** Things the person dictated for content, verbatim, before any edit.

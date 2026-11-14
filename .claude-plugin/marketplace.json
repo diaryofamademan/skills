@@ -85,7 +85,7 @@
       "name": "write-in-your-voice",
       "source": "./write-in-your-voice",
       "description": "Build a working voice for a person from how they actually speak, then draft in it: a tiered source bank from their speech, drafts composed from their own sentences, word and shape gates, and a kill-rate ledger.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Ian Balina"
       },
