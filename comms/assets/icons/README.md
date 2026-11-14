@@ -21,3 +21,5 @@ Use these SVGs via relative `<img src="…" width="20" height="20" alt="">` in s
 | `legal-01.svg` | Limits and boundaries; counsel |
 | `alert-01.svg` | Crisis patterns and warnings |
 | `mail-01.svg` | Owned channels; the newsletter |
+| `link-01.svg` | Folder map; links between documents |
+| `calendar-03.svg` | Version and dates |

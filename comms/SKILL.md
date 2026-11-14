@@ -1,7 +1,7 @@
 ---
 name: comms
 description: Founder communications — how a founder names the moment, takes the narrative personally, and says it directly. Covers announcements, launches, crises, and everyday content. Built on Lulu Cheng Meservey's Go Direct doctrine, with narrative structure from Andy Raskin, a positioning diagnostic from Al Ries, distribution from Gary Vaynerchuk, and a plain-writing gate from Paul Graham.
-version: 1.0.0
+version: 1.0.1
 ---
 
 # <img src="assets/icons/megaphone-01.svg" width="20" height="20" alt="" /> comms
