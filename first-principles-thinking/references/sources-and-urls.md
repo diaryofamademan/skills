@@ -43,6 +43,8 @@ flowchart TB
 | Shane Parrish & Rhiannon Beaubien, *The Great Mental Models*, Vol. 1 (2019) | The first-principles chapter the article draws on; first principles paired with inversion among general thinking tools | `techniques.md` | Book — no URL; paraphrased |
 | Tim Urban, "The Cook and the Chef: Musk's Secret Sauce", Wait But Why (Nov 2015) | Cook (analogy) vs chef (first principles); the Want box and Reality box; the three epiphanies; the cognitive-cost honesty | `cook-and-chef.md` | https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html |
 | James Clear, "First Principles: Elon Musk on the Power of Thinking for Yourself" (2017) | Deconstruct → reconstruct; "optimize the function, ignore the form"; John Boyd's snowmobile recombination; first principles vs continuous improvement as the fork | `worked-examples.md`, `cook-and-chef.md`, `anti-patterns.md` | https://jamesclear.com/first-principles |
+| Howard Marks, *The Most Important Thing* (Columbia Business School Publishing, 2011) | Second-level thinking: the first-order reading is shared by everyone and already priced in; the decision lives one level down, in consequences, cycles, and what the price already assumes. Also the treatment of cycles and of risk as permanent loss rather than volatility | `consequence-chains.md`, `SKILL.md` §6 (run the echo) | Book — no URL; paraphrased, no text reproduced |
+| Howard Marks, Oaktree memos (1990–present) | The cycle discipline in practice: where we stand in the swing, what conditions the current chain depends on, and how the same move fares at different points in a cycle | `consequence-chains.md` | https://www.oaktreecapital.com/insights |
 
 ## Tier 3 — Supporting techniques and examples
 

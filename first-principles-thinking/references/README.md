@@ -9,6 +9,7 @@ flowchart TB
   SKILL --> ALGO["the-algorithm.md"]
   SKILL --> COOK["cook-and-chef.md"]
   SKILL --> TECH["techniques.md"]
+  SKILL --> ECHO["consequence-chains.md"]
   SKILL --> WORK["worked-examples.md"]
   SKILL --> ANTI["anti-patterns.md"]
   SKILL --> SRC["sources-and-urls.md"]
@@ -20,6 +21,7 @@ flowchart TB
 | <img src="../assets/icons/workflow.svg" width="20" height="20" alt="" /> [the-algorithm.md](./the-algorithm.md) | The five-step rebuild order in detail: question requirements (named owner), delete (add back ≥10% or you did not delete enough), simplify, accelerate, automate last; idiot index; corollaries |
 | <img src="../assets/icons/chef.svg" width="20" height="20" alt="" /> [cook-and-chef.md](./cook-and-chef.md) | Cook (analogy, recipe) vs chef (first principles, raw ingredients); Want box vs Reality box; knowledge as a semantic tree; when analogy is the right tool |
 | <img src="../assets/icons/search-01.svg" width="20" height="20" alt="" /> [techniques.md](./techniques.md) | The stripping toolbox: Socratic questioning (6 steps), Five Whys, Descartes' methodical doubt, Feynman's rebuild/teach test, Munger's inversion |
+| <img src="../assets/icons/chart-line.svg" width="20" height="20" alt="" /> [consequence-chains.md](./consequence-chains.md) | Running the echo: second-level thinking (Marks), the two-questions-two-horizons procedure, the three hunts (loops and cycles, non-strategic adaptation, status-quo decay), and the echo's own failure modes |
 | <img src="../assets/icons/puzzle.svg" width="20" height="20" alt="" /> [worked-examples.md](./worked-examples.md) | Full-procedure worked examples beyond rockets: media distribution, a one-principle business, a recombined machine — plus a fill-in vendor-quote decomposition template |
 | <img src="../assets/icons/alert-01.svg" width="20" height="20" alt="" /> [anti-patterns.md](./anti-patterns.md) | How the method fails: contrarianism dressed as first principles, decomposing to atoms, low-stakes misuse, survivorship bias, optimizing what should be deleted |
 | <img src="../assets/icons/link-01.svg" width="20" height="20" alt="" /> [sources-and-urls.md](./sources-and-urls.md) | Full source credit table: primary interviews and books, syntheses, and supporting techniques, with URLs |

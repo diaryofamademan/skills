@@ -1,5 +1,34 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 1.5.0 — 2026-11-13
+
+Second-order thinking, folded in from Howard Marks rather than shipped
+as a separate skill. The strategic half of second-order effects (a
+player's response to your move) already lives in the companion
+game-theory skill. The systemic half — consequences that are nobody's
+move — lived nowhere. It lives here now.
+
+- **Step 6 gains "run the echo."** After the first-order comparison,
+  both options (rebuild and status quo) are traced two questions deep
+  ("and then what?" twice) at two horizons (now, one cycle later).
+  Three hunts by name: feedback loops and cycle position, non-strategic
+  adaptation, and the status quo's own decay. If the echo reverses the
+  ranking, the echo wins and the trace shows which link did it.
+- **Guardrail 15 — a first-order win is not a verified win.** Every
+  chain link needs a mechanism and a confidence label (`follows`,
+  `likely`, `possible`). A consequence without a mechanism is a worry
+  and goes in the assumption list.
+- **New reference: `consequence-chains.md`.** Second-level thinking
+  (Marks, *The Most Important Thing*, 2011, and the Oaktree memos),
+  the echo procedure and output table, the three hunts, two classic
+  public chains (rent control; the good company whose price already
+  contains its quality), a fictional worked mini-example with numbers,
+  and the echo's own failure modes (echo theater, asymmetric echo,
+  strategic spillover, infinite regress).
+- **Output standard and checklist updated.** Comparison now carries the
+  echo table for both options; the checklist verifies the echo ran, or
+  states why the stakes justified only two lines.
+
 ## 1.4.0 — 2026-11-08
 
 Four field lessons from a live cost analysis, each learned by a wrong line in the first draft:
