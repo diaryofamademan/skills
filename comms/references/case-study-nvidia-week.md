@@ -1,0 +1,23 @@
+# Case study — Nvidia and the week its founder left (November 2026)
+
+A worked grading of a real crisis against this skill's procedure and guardrails. All facts are from public reporting: the Wall Street Journal, CNN, Barron's, and Bloomberg, November 9–13, 2026. The case matters because almost every move in it is one this skill has a named rule for — and because the company involved had every communications resource money can buy.
+
+## The facts
+
+Reports had linked Nvidia founder-CEO Jensen Huang to Alice Huang, an executive at Megaspeed, a major Nvidia customer, whom US officials were investigating as a suspected Chinese intelligence asset (New York Times, October 2025). On Sunday November 8, Nvidia's board said it would investigate whether Huang had been the target of a foreign intelligence effort and expressed confidence in his leadership. The same day, Huang wrote to staff admitting an extramarital affair and apologizing for violating his family's and employees' trust; he did not name the other party. On Tuesday the board hired outside counsel — a Wachtell, Lipton partner and former federal prosecutor — to run an independent investigation. On Wednesday the Times reported a second relationship, with Kimberly Powell, Nvidia's VP of healthcare, who reported directly to Huang. The board met that night. On Thursday, 42 minutes before the market opened, Nvidia announced Huang's resignation, CFO Colette Kress as interim CEO, and the creation of a board chair role. The announcement did not mention the affairs. The stock fell about 10% that day and roughly 12.75% on the week, erasing about $573B of value. Earnings followed on November 17 with Kress fronting them, and congressional testimony loomed in December.
+
+## The grading
+
+**Sunday, the board's confidence: fails guardrail 3 (confidence is debt).** The board stated full confidence while facts were still arriving. The loan came due Thursday, and every subsequent story quoted Sunday's confidence beside Thursday's exit — which converted a personnel scandal into a governance story: what did the board know, and when? The process-only alternative costs nothing: "an independent review is underway" pre-judges nothing and never has to be retracted.
+
+**Sunday, the founder's letter: fails guardrail 2 (a partial admission schedules the second scandal).** The admission took the sympathetic half immediately (a private failing, an apology) and left the damaging half (the counterparty was a suspected foreign intelligence asset at a major customer) for others to publish. Each omitted element was printed within days, at higher cost, because his own statement had defined the omissions as things he chose to hide. One story became three.
+
+**Tuesday, the outside investigation: passes.** A statement about a process belongs to whoever owns the process (step 2), and hiring a credible outsider is the witness mechanism (step 3) working as designed. Its flaw was sequence, not substance: announced after the confidence statement, it read as escalation rather than process.
+
+**Thursday, the exit statement: mixed.** The timing owned the market open instead of leaking into it, the succession facts were complete, and the interim CEO's promise to employees carried a date. But the statement never mentioned the reason every reader already knew. A text whose central fact is absent teaches the audience to read the company as a committee (guardrail 4) and abandons the fight over the replacement position (step 3), which the press filled within hours: "ousted," "fall from grace." One sentence — that the conduct fell short of the standard the board requires — was the minimum unit of candor that would have let the rest of the statement be believed.
+
+**The structural failure: guardrail 11.** Huang held roughly 60 direct reports and did not believe in succession planning. The company's position in the public mind was one man, with no second name the audience could picture in the role. When the position vacated, no retelling was available. The stock's week is the price of a position with no understudy, and it is why the rule belongs to everyday mode: the second name is built years before a crisis needs it.
+
+## What the case proves about the skill
+
+The doctrine did not need the facts explained to it. Confidence debt, the staged admission, the abandoned replacement position, the missing understudy — the failures arrived in the order the guardrails are written, and the counterfactual is measurable in kind if not in dollars: run from Sunday under this procedure, the week is a founder scandal. Run as it was, it became a board-credibility story with a congressional tail. The distance between those two stories is the entire value of the discipline.

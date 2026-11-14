@@ -62,6 +62,24 @@
         "decision-making",
         "mental-models"
       ]
+    },
+    {
+      "name": "comms",
+      "description": "Founder communications as a decision procedure: name the moment, decide who speaks, diagnose the position you hold, build the narrative, say it plainly and direct, and hold response discipline across announcements, launches, crises, and everyday content.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./comms"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": [
+        "communications",
+        "public-relations",
+        "founder",
+        "narrative",
+        "crisis-communications"
+      ]
     }
   ]
 }
