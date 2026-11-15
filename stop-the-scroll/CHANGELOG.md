@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 — 2026-11-15
+
+The sea-of-100 test extended to the story post, from the same launch's analogy pass: the story must stand out in a sea of 100 stories, and a boring story is raw material to make exciting, not an excuse. The four-part treatment is recorded in the procedure, the checklist, and the patterns reference (name the character, one concrete detail, the stuck beat on its own short line, the backwards turn ending on an image), worked on the hike story from The Goal. No other changes.
+
 ## 0.1.2 — 2026-11-15
 
 The stand-alone rule extended from the hook and the call to action to every load-bearing post, the story explicitly, from the author's analogy pass on the fix-the-bottleneck launch: a story post that leans on the thread for its setup is rewritten with the setup inside the post. The thread architecture is now stated in the procedure and the patterns reference: hook, story, the author's example, stat, big win, call to action, with transitions carried by bridge lines inside the posts. No other changes.

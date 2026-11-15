@@ -12,6 +12,8 @@ Each principle states the rule, why it exists, the failure it prevents, and the 
 
 The stand-alone rule extends past the hook, to every load-bearing post — the story explicitly. A story post must carry its own setup inside the post; an opening that leans on the thread around it ("The book tells it as a hike") fails and is rewritten with the setup inside. In the launch this was earned on, two of three candidate stories (an hourglass, a jar) passed as written because each carried its own setup; the hike version did not. The full thread architecture the rule serves — hook, story, the author's example, stat, big win, call to action, transitions carried by bridge lines inside the posts — is mapped in `hook-and-cta-patterns.md`.
 
+The sea-of-100 half of this principle extends to the story as well. The story must stand out in a sea of 100 stories; a boring story is raw material, not an excuse, and the drafter's job is to take a boring story and make it exciting. The treatment that earned this, on the hike story itself, is in `hook-and-cta-patterns.md`: name the character, one concrete detail, the stuck beat on its own short line, and the backwards turn ending on an image.
+
 ## The body
 
 **4. Simple, high-level language for multiple audiences.** No geeky detail, no math nobody outside the field cares about. Why: every layer of specialty detail is a door closing on a class of reader, and the middle's job is to be carried, not to be complete. Failure prevented: the body that becomes a spec sheet and loses the room. Test: read each paragraph and ask what a non-specialist would repeat at dinner. That repeatable sentence is the paragraph's payload; if there is none, rewrite.

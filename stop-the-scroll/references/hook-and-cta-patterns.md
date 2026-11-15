@@ -30,6 +30,15 @@ Three of the posts are load-bearing and must each stand alone with full context:
 
 The beat before the call to action is the **big win**: the end result, the conclusion the piece has been walking toward. The call to action then converts a reader who has just seen the outcome, not one who has only seen the problem.
 
+## Making the story punchy
+
+The story post faces the sea-of-100 test too: it must stand out in a sea of 100 stories. A flat telling of a good story still fails. The treatment, worked out on the hike story from *The Goal* (flat version: one slow kid near the back, the line can only move as fast as he does, they move him to the front):
+
+1. **Name the character.** The kid in *The Goal* is Herbie. A named person sticks in the reader's head where "one slow kid" slides off.
+2. **One concrete detail.** Herbie's pack is stuffed with cans. One picture does the work of a paragraph of explanation about why he is slow.
+3. **Give the stuck beat its own short line.** "Nobody can pass him." The moment the whole story turns on gets a line to itself, at full stop.
+4. **Lean on the backwards turn, and end on an image.** The fix is the opposite of instinct: the slowest kid goes in front, and the fastest kids carry his extra weight. End the post on the picture of the result — the troop walks into camp together — not on a summary of what it means. The meaning is the next post's job.
+
 ## What kills ends, collected
 
 - Opening on the receipt ("I built X") instead of the reader's problem.
