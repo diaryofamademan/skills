@@ -122,6 +122,27 @@
         "ci-cd",
         "goldratt"
       ]
+    },
+    {
+      "name": "one-in-a-hundred",
+      "source": "./one-in-a-hundred",
+      "description": "A content-building procedure: AIDA with the ends hardened. The hook and the call to action are each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ian Balina"
+      },
+      "homepage": "https://github.com/diaryofamademan/skills/tree/main/one-in-a-hundred",
+      "license": "MIT",
+      "category": "writing",
+      "keywords": [
+        "content",
+        "hooks",
+        "cta",
+        "aida",
+        "copywriting",
+        "launches",
+        "social-media"
+      ]
     }
   ]
 }
