@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5 — 2026-11-15
+
+Fifth move added to the story-punch treatment: stakes. A deadline, a cost, or something at risk, stated in the setup, so the story has something that can be lost. Earned on the corrected Herbie draft, which was better but not yet punchy; a clock ("make camp by dark" ... "and they make camp in time") made the same facts read tenser. No other changes.
+
 ## 0.1.4 — 2026-11-15
 
 The story's third test added: the logic pass. Every physical claim in a story post must hold together under a plain reading. Earned by the author's catch on the punchy hike draft, which placed Herbie at the back of the line and then claimed nobody could pass him; the worked example in the patterns reference is corrected to the book's own mechanics (Herbie walks in the middle; the troop arrives when he arrives). The pass is stated in the procedure, the principles file, and the checklist. No other changes.
