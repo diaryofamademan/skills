@@ -1,4 +1,4 @@
-# <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> one-in-a-hundred (open skill)
+# <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> stop-the-scroll (open skill)
 
 **A procedure for building content whose ends do the work.** This skill hardens AIDA where pieces actually die: the hook and the call to action, each built to stand out in a sea of 100 competing pieces and to stand alone with full context, over a middle that is universal, relatable, and about impact.
 

@@ -1,6 +1,6 @@
-# References index — One in a Hundred
+# References index — Stop the Scroll
 
-These references support **one-in-a-hundred**, version **0.1.0**. The main `../SKILL.md` holds the five-step build procedure, the guardrails, and the output contract. These files carry the depth: the thirteen principles in full, the construction patterns for the two ends, the session the doctrine was distilled from, and the credits.
+These references support **stop-the-scroll**, version **0.1.0**. The main `../SKILL.md` holds the five-step build procedure, the guardrails, and the output contract. These files carry the depth: the thirteen principles in full, the construction patterns for the two ends, the session the doctrine was distilled from, and the credits.
 
 ```mermaid
 flowchart TB

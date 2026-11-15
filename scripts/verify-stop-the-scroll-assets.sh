@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Verify one-in-a-hundred skill package: required files, img paths, icon stroke, frontmatter.
+# Verify stop-the-scroll skill package: required files, img paths, icon stroke, frontmatter.
 set -euo pipefail
-ROOT="$(cd "$(dirname "$0")/skill/one-in-a-hundred" && pwd)"
+ROOT="$(cd "$(dirname "$0")/skill/stop-the-scroll" && pwd)"
 cd "$ROOT"
 python3 << 'PY'
 import re, sys
@@ -25,6 +25,6 @@ icons = list(Path("assets/icons").glob("*.svg"))
 nostroke = [i.name for i in icons if "#6E7FD6" not in i.read_text()]
 if nostroke: print("ICONS WITHOUT HOUSE STROKE:", nostroke); sys.exit(1)
 fm = Path("SKILL.md").read_text().split("---")[1]
-assert "name: one-in-a-hundred" in fm and "version: 0.1.0" in fm, "frontmatter mismatch"
+assert "name: stop-the-scroll" in fm and "version: 0.1.0" in fm, "frontmatter mismatch"
 print(f"OK: {len(required)} required files, img paths resolve, {len(icons)} icons at house stroke, frontmatter parses")
 PY
