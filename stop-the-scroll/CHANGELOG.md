@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.7 — 2026-11-15
+
+The callback rule corrected, on the author's word minutes after 0.1.6: the metaphor is the whole image (the tap, the water, the hose, and the kink), not the single striking word. Callbacks draw on the metaphor's full world, and at least one beat states the mapping plainly (the system is the hose; the bottleneck is its kink). The worked examples in the procedure and the patterns reference are updated to the corrected lines. No other changes.
+
 ## 0.1.6 — 2026-11-15
 
 The callback rule added to the thread architecture: when the story sets a metaphor, the method line, the big win, and the call to action each call back to it by name at least once, in the story's vocabulary, rather than switching back to the abstract term. Worked examples from the founding launch's kinked hose are recorded in the patterns reference. No other changes.

@@ -32,9 +32,11 @@ The beat before the call to action is the **big win**: the end result, the concl
 
 ## The callback
 
-When the story sets a strong visual metaphor, the reader carries that picture for the rest of the thread. The later beats must use it. The rule: **the method line, the big win, and the call to action each call back to the metaphor by name at least once, in the story's vocabulary, rather than switching back to the abstract term.** The callback deepens the metaphor each time it lands, and the piece ends inside the story it opened instead of stepping out of it to summarize.
+When the story sets a strong visual metaphor, the reader carries that picture for the rest of the thread. The later beats must use it. The rule: **the method line, the big win, and the call to action each call back to the metaphor at least once, in the story's vocabulary, rather than switching back to the abstract term.** The callback deepens the metaphor each time it lands, and the piece ends inside the story it opened instead of stepping out of it to summarize.
 
-From the founding launch, whose story was a kinked hose: the method line became "Find the kink, the one step everything waits on, and fix it first." The win line became "Weeks of turning the tap up never found it. The skill found the kink in one night" — turning the tap up being the author's weeks of fixing everything else, said in the story's own terms. And the call to action opens "Every system has a kink, one step everything else waits on." The abstract word (bottleneck) still appears where precision needs it; the metaphor carries the beats the reader remembers.
+The metaphor is the whole image, not a single word from it. The founding launch's story is a hose with a kink — but the metaphor is the tap, the water, the hose, and the kink together: the system is the hose, and the bottleneck is its kink. Callbacks that repeat only the one striking word flatten the picture back into a slogan. Draw on the full world, and at least once, state the mapping plainly, out loud.
+
+From that launch: the method line reads "Every system is a hose. Find the kink, the step everything waits on, and fix it first" — the mapping stated in the open. The win line ends "...the skill found the kink in the hose in one night," its first half carrying the tap ("Weeks of turning the tap up never found it" — the author's weeks of fixing everything else, in the story's terms). And the call to action opens "Every system is a hose with a kink in it." The abstract word (bottleneck) still appears where precision needs it; the metaphor carries the beats the reader remembers.
 
 ## Making the story punchy
 
