@@ -1,6 +1,6 @@
-# Skills by Ian Balina
+# Made Man Playbooks
 
-Open playbooks that AI agents can load and run end to end, with human checkpoints.
+Open playbooks by Ian Balina that AI agents can load and run end to end, with human checkpoints.
 
 ## About
 
