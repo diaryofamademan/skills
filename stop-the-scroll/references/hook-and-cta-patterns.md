@@ -30,6 +30,12 @@ Three of the posts are load-bearing and must each stand alone with full context:
 
 The beat before the call to action is the **big win**: the end result, the conclusion the piece has been walking toward. The call to action then converts a reader who has just seen the outcome, not one who has only seen the problem.
 
+## The callback
+
+When the story sets a strong visual metaphor, the reader carries that picture for the rest of the thread. The later beats must use it. The rule: **the method line, the big win, and the call to action each call back to the metaphor by name at least once, in the story's vocabulary, rather than switching back to the abstract term.** The callback deepens the metaphor each time it lands, and the piece ends inside the story it opened instead of stepping out of it to summarize.
+
+From the founding launch, whose story was a kinked hose: the method line became "Find the kink, the one step everything waits on, and fix it first." The win line became "Weeks of turning the tap up never found it. The skill found the kink in one night" — turning the tap up being the author's weeks of fixing everything else, said in the story's own terms. And the call to action opens "Every system has a kink, one step everything else waits on." The abstract word (bottleneck) still appears where precision needs it; the metaphor carries the beats the reader remembers.
+
 ## Making the story punchy
 
 The story post faces the sea-of-100 test too: it must stand out in a sea of 100 stories. A flat telling of a good story still fails. The treatment, worked out on the hike story from *The Goal* (flat version: one slow kid in the line, the line can only move as fast as he does, they move him to the front):

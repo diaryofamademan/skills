@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.1.5
+version: 0.1.6
 author: Open skills contributors
 license: MIT
 metadata:
@@ -112,6 +112,8 @@ The call to action gets the same hardening as the hook:
 
 A thread is built in this order: **hook → story → my example → stat → big win → call to action**, with a transition between each pair of beats. The transitions are bridge lines inside the posts ("My version of that line is..."), not context the reader has to remember from three posts ago. The beat before the call to action is the **big win**: the end result, the conclusion the whole piece has been walking toward, stated plainly. Every load-bearing post — hook, story, call to action — stands alone with full context (principles 3 and 9, extended to the story); the stat obeys the stats rule under principle 5.
 
+When the story sets a metaphor, the later beats **call back to it by name**: the method line, the big win, and the call to action each use the story's vocabulary at least once, rather than switching back to the abstract term. The reader is carrying the picture; the callback deepens it, and the piece ends inside the story it opened. (From the founding launch: the story's kinked hose gave the method line "find the kink, the one step everything waits on, and fix it first," the win line "Weeks of turning the tap up never found it. The skill found the kink in one night," and a call to action opening "Every system has a kink, one step everything else waits on.")
+
 The story must also stop the scroll: the sea-of-100 test applies to it, not just to the ends. A boring story is raw material, not an excuse — the job is to take a boring story and make it exciting. The treatment: **name the character** (a named person sticks where "one slow kid" slides off), **give one concrete detail** (one picture does the work of a paragraph), **give the stuck beat its own short line**, **lean on the backwards turn, ending on an image** of the result rather than a summary of it, and **give the story stakes** — a deadline, a cost, or something at risk, stated in the setup, so the story has something that can be lost. And the story gets a **logic pass** alongside the stand-alone and punchy tests: every physical claim in it must hold together under a plain reading. A reader who stops to question how the story works has stopped scrolling for the wrong reason.
 
 ### 4 — Format
@@ -147,6 +149,7 @@ Before calling a piece done, confirm:
 - [ ] In a thread: the story post carries its own setup and stands alone, transitions are bridge lines inside the posts, and the beat before the call to action is the big win.
 - [ ] The story passes the sea-of-100 test: named character, one concrete detail, the stuck beat on its own short line, a backwards turn, an ending on an image not a summary, and stakes stated in the setup.
 - [ ] The story passes the logic pass: every physical claim in it holds together under a plain reading, with no step a reader would stop to question.
+- [ ] If the story set a metaphor, the method line, the big win, and the call to action each call back to it by name, in the story's vocabulary.
 - [ ] The link is eased into, points to the author's own site, and its preview carries the work's branding.
 - [ ] Paragraphs run one to two sentences, sentences flow within them, one blank line between.
 - [ ] No illustrative example or side comment from the author's direction appears in the copy verbatim.

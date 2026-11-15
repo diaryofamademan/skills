@@ -69,4 +69,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.5 — current. See `CHANGELOG.md`.
+0.1.6 — current. See `CHANGELOG.md`.

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6 — 2026-11-15
+
+The callback rule added to the thread architecture: when the story sets a metaphor, the method line, the big win, and the call to action each call back to it by name at least once, in the story's vocabulary, rather than switching back to the abstract term. Worked examples from the founding launch's kinked hose are recorded in the patterns reference. No other changes.
+
 ## 0.1.5 — 2026-11-15
 
 Fifth move added to the story-punch treatment: stakes. A deadline, a cost, or something at risk, stated in the setup, so the story has something that can be lost. Earned on the corrected Herbie draft, which was better but not yet punchy; a clock ("make camp by dark" ... "and they make camp in time") made the same facts read tenser. No other changes.
