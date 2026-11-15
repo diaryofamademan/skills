@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.1.7
+version: 0.2.0
 author: Open skills contributors
 license: MIT
 metadata:
@@ -60,6 +60,7 @@ Use this skill when a **founder**, **marketer**, **creator**, or delegated agent
 9. **Direction is not copy.** When the author gives an example ("a jab like saying..."), a name, or a side comment while directing the work, that is instruction about the piece, not text for the piece. Illustrative examples are never forced into copy verbatim. This guardrail exists because it was violated four drafts running in the session this skill was distilled from.
 10. **Formatting is part of the build, not a cleanup pass.** Paragraphs of one to two sentences; sentences inside a paragraph flow together; one blank line between paragraphs. One sentence per line is a draft artifact, not a style.
 11. **Write the piece plain.** Short words where they carry the meaning, no hype adjectives doing the work the hook should do, and no claim the author cannot stand behind if the piece is quoted back at them.
+12. **Never spell a formula out as a sentence.** Show it as math (three numbers, named rates, round percentages, readable in one glance) or walk it as plain words. The in-between form, a formula wearing a sentence's clothes, is the one form that is banned.
 
 ## The one idea
 
@@ -97,6 +98,10 @@ The middle is universal, relatable, and about impact:
 - **Simple, high-level language for multiple audiences** (principle 4). No geeky detail, no math nobody outside the field cares about. The specialist reading it should find it true; the generalist should find it clear.
 - **Numbers carry their why** (principle 5). Every metric is followed by its business impact, its second-order effect, who waits and what it costs. Not just the granular goal: what the goal is *for*. And a statistic chosen to carry a point obeys the stats rule: it multiplies or reduces — it increases money, increases efficiency, reduces waste, or increases speed — and it passes three tests: **one visible number** (the eye needs a number to land on; "less than a third of the time" has none), **no reader math** (one number, not two numbers and a ratio to work out), and **a change, not a state** (a cut or a gain with direction beats a static share of a day or of the world).
 - **Things named as what they are** (principle 6). A software factory, not "my agents"; the name a stranger gets instantly. If a term needs a paragraph to explain, the term is wrong.
+- **One everyday word per stage, held constant** (principle 6, extended). In any flow the piece describes, each stage gets one word a customer would use — tries became tasks, landed became shipped — and that word is used at every mention, in every post. If post 3 "ships 3 tasks an hour," post 5 says "only 3 shipped," or the reader cannot connect them.
+- **Use the source's own result, not a summary of it.** When a post reports a test or a result, pull the specifics from the source material itself: the real numbers, the real failure kinds. Vague results read as marketing; the specific diagnosis is what makes a result post credible.
+- **Formulas are shown as math or walked as plain words, never spelled out as sentences.** "Out comes tries, times how many tries work, times how many land" confuses everyone. And simple math, shown as math, can be simpler than words: three numbers, named rates, round percentages — "26 × 25% completion rate × 50% ship rate = 3 tasks shipped." The ban is on math the reader has to work at (bare metrics, conversions, formulas as sentences); math the reader can see in one glance is a clarity tool.
+- **Lead with in vs out when there is a leak.** When a system loses most of what enters it, open with what went in and what made it out: "26 tasks went in. Only 3 shipped." The gap is the story; the stages are just its explanation.
 - **Only what the reader needs to know** (principle 7). Personal facts that do not serve the piece are cut. The author's full story is not the reader's assignment.
 
 ### 3 — Build the call to action
@@ -111,6 +116,8 @@ The call to action gets the same hardening as the hook:
 ### Threads: the architecture
 
 A thread is built in this order: **hook → story → my example → stat → big win → call to action**, with a transition between each pair of beats. The transitions are bridge lines inside the posts ("My version of that line is..."), not context the reader has to remember from three posts ago. The beat before the call to action is the **big win**: the end result, the conclusion the whole piece has been walking toward, stated plainly. Every load-bearing post — hook, story, call to action — stands alone with full context (principles 3 and 9, extended to the story); the stat obeys the stats rule under principle 5.
+
+When the piece's claim is "this sees what others miss," **show smart actors missing the whole picture**; do not just report the failure. The proof is the others missing it, each locally right and globally blind: "Every agent blamed a different bottleneck. Each one fixed what was in front of it. Nobody was looking at the whole hose, so the kink stayed hidden."
 
 When the story sets a metaphor, the later beats **call back to it by name**: the method line, the big win, and the call to action each use the story's vocabulary at least once, rather than switching back to the abstract term. The metaphor is the whole image, not a single word from it: the callbacks draw on its full world, and at least one beat states the mapping plainly, out loud. The reader is carrying the picture; the callback deepens it, and the piece ends inside the story it opened. (From the founding launch: the story's world is a tap, water, a hose, and its kink. The method line: "Every system is a hose. Find the kink, the step everything waits on, and fix it first." The win line ends "...the skill found the kink in the hose in one night." The call to action opens "Every system is a hose with a kink in it.")
 
@@ -150,6 +157,11 @@ Before calling a piece done, confirm:
 - [ ] The story passes the sea-of-100 test: named character, one concrete detail, the stuck beat on its own short line, a backwards turn, an ending on an image not a summary, and stakes stated in the setup.
 - [ ] The story passes the logic pass: every physical claim in it holds together under a plain reading, with no step a reader would stop to question.
 - [ ] If the story set a metaphor, the method line, the big win, and the call to action each call back to it, drawing on the metaphor's whole world, and at least one beat states the mapping plainly.
+- [ ] Results are quoted from the source material itself (real numbers, real failure kinds), not summarized into vagueness.
+- [ ] No formula is spelled out as a sentence; shown math is three numbers, named rates, round percentages.
+- [ ] Each stage of any flow keeps one everyday word at every mention, across every post.
+- [ ] Where the system leaks, the piece leads with in vs out before walking the stages.
+- [ ] If the claim is "this sees what others miss," the piece shows smart actors missing it, each locally right and globally blind.
 - [ ] The link is eased into, points to the author's own site, and its preview carries the work's branding.
 - [ ] Paragraphs run one to two sentences, sentences flow within them, one blank line between.
 - [ ] No illustrative example or side comment from the author's direction appears in the copy verbatim.

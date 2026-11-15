@@ -127,7 +127,7 @@
       "name": "stop-the-scroll",
       "source": "./stop-the-scroll",
       "description": "A content-building procedure: AIDA with the ends hardened. The hook and the call to action are each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle.",
-      "version": "0.1.7",
+      "version": "0.2.0",
       "author": {
         "name": "Ian Balina"
       },

@@ -28,7 +28,17 @@ A statistic chosen to carry a point has a further rule, earned the same night as
 - **No reader math.** One number, not two numbers and a ratio the reader has to work out. "At 95% busy, one slow step makes everything wait 19 times longer" failed: it is true, and it makes people do math, so it does not land.
 - **A change, not a state.** The statistic shows something going up or down. "Juggling five fixes wastes 75% of the day" and "work spends 95% of its life waiting" are shares and states; both lost to the winner: "Companies that fixed the slow step first cut delivery times by 70%." A cut with a direction beats a share of a day or a state of the world.
 
+Three companion rules for numbers and results, earned in the same launch's later rounds:
+
+**Use the source's own result, not a summary of it.** When a post reports a test or a result, pull the specifics from the source material itself — the real numbers, the real failure kinds. A summary ("it found the problem") reads as marketing. In the founding launch, the test post only gained credibility when it carried the actual diagnosis from the method's public case study.
+
+**Never write a formula out as a sentence; simple math shown as math is allowed and often simpler.** "Out comes tries, times how many tries work, times how many land" confused everyone who read it. A formula is shown as math or walked as plain words, never spelled out in between. And shown math, done right, beats a paragraph: three numbers, named rates, round percentages — "26 × 25% completion rate × 50% ship rate = 3 tasks shipped." This refines the no-reader-math test above rather than breaking it: the ban is on math the reader has to work at (bare metrics, numbers needing conversion, formulas as sentences). Math the reader can see in one glance is a clarity tool.
+
+**Lead with in vs out when there is a leak.** When a system loses most of what enters it, the results post opens with what went in and what made it out: "26 tasks went in. Only 3 shipped." The gap is the story; the stages are just its explanation, and they come after.
+
 **6. Name things as what they are.** A software factory, not "my agents"; the name a stranger understands instantly. Why: internal labels import the author's whole context as a prerequisite. A plain name carries its own explanation. Failure prevented: the piece that reads as a dispatch from inside a company the reader does not work at. Test: every named thing in the piece could be understood by a reader who arrived thirty seconds ago.
+
+Extended to flows: **one everyday word per stage, held constant through the whole piece.** The words are the ones a customer would use. In the founding launch's negotiation: tries became tasks, landed became shipped, and "came out" was killed (the 3 did not come out; they shipped). The same word at every mention is what lets the reader connect the posts: if post 3 "ships 3 tasks an hour," post 5 must say "only 3 shipped." A stage renamed mid-piece is a stage the reader has to re-learn, and most will not.
 
 **7. Only what the reader needs to know.** Personal facts that do not serve the piece get cut. Why: every fact in a piece competes for the reader's remaining attention, and facts that serve the author's completeness spend it for nothing. Failure prevented: the launch that is half memoir. Test: for each paragraph, name what the reader gains or what the action gains. No answer, no paragraph.
 

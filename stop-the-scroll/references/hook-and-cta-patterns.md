@@ -30,6 +30,20 @@ Three of the posts are load-bearing and must each stand alone with full context:
 
 The beat before the call to action is the **big win**: the end result, the conclusion the piece has been walking toward. The call to action then converts a reader who has just seen the outcome, not one who has only seen the problem.
 
+## The results post: in vs out, and the actors who missed it
+
+When a thread reports what a system or a test actually did, two moves carry it.
+
+**Lead with in vs out.** If the system loses most of what enters it, open there: "26 tasks went in. Only 3 shipped." The gap is the story. The stages (the leaks, the rates) are the explanation and come after the gap is felt.
+
+**Show smart actors missing the whole picture.** When the piece's claim is "this sees what others miss," reporting the failure flatly ("errors had no names") proves nothing. Show the others missing it, each locally right and globally blind: "Every agent blamed a different bottleneck. Each one fixed what was in front of it. Nobody was looking at the whole hose, so the kink stayed hidden." Note the callback doing double duty: the whole-metaphor image is what the actors were not looking at.
+
+The founding launch's final results post, all moves together: "26 tasks went in. Only 3 shipped. / The leaks: only 1 in 4 tasks got done, and only 1 in 2 of those shipped. / Every agent blamed a different bottleneck. Each one fixed what was in front of it. / Nobody was looking at the whole hose, so the kink stayed hidden." In vs out first, the source's own numbers as the leaks, the blind actors, and the callback to close.
+
+## Draft the load-bearing post in full, three or four ways
+
+A drafting practice, not a principle: when one post carries the argument, draft it three or four **complete** ways and let the author pick. In the founding launch's later rounds, every decision came in one tap once full versions were in front of the author; half-edits and explanations of options stalled. Complete versions make the differences visible and the choice cheap. This applies to the post that carries the argument, not to every post: drafting everything four ways spends the author's attention where it buys nothing.
+
 ## The callback
 
 When the story sets a strong visual metaphor, the reader carries that picture for the rest of the thread. The later beats must use it. The rule: **the method line, the big win, and the call to action each call back to the metaphor at least once, in the story's vocabulary, rather than switching back to the abstract term.** The callback deepens the metaphor each time it lands, and the piece ends inside the story it opened instead of stepping out of it to summarize.

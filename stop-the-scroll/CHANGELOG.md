@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 — 2026-11-15
+
+Six rules from the fix-the-bottleneck launch's later rounds (the results post went through about six more versions after 0.1.7), approved as a batch: (1) use the source's own result, not a summary of it; (2) never write a formula out as a sentence; (3) simple math shown as math is a clarity tool — three numbers, named rates, round percentages ("26 × 25% completion rate × 50% ship rate = 3 tasks shipped") — refining the no-reader-math test to ban only math the reader has to work at; (4) one everyday word per stage of a flow, held constant at every mention across every post; (5) lead with in vs out when there is a leak; (6) show smart actors missing the whole picture, each locally right and globally blind, instead of reporting the failure flatly. Plus a patterns addition: when one post carries the argument, draft it three or four complete ways for the author to pick. The launch's final results post is the worked example in the patterns reference.
+
 ## 0.1.7 — 2026-11-15
 
 The callback rule corrected, on the author's word minutes after 0.1.6: the metaphor is the whole image (the tap, the water, the hose, and the kink), not the single striking word. Callbacks draw on the metaphor's full world, and at least one beat states the mapping plainly (the system is the hose; the bottleneck is its kink). The worked examples in the procedure and the patterns reference are updated to the corrected lines. No other changes.
