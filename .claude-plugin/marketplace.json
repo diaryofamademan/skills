@@ -101,6 +101,27 @@
         "style",
         "drafting"
       ]
+    },
+    {
+      "name": "fix-the-bottleneck",
+      "source": "./fix-the-bottleneck",
+      "description": "A Theory of Constraints procedure for running systems: state the goal as throughput, measure every stage, identify the one constraint, exploit and subordinate before elevating, and re-measure until output moves.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ian Balina"
+      },
+      "homepage": "https://github.com/diaryofamademan/skills/tree/main/fix-the-bottleneck",
+      "license": "MIT",
+      "category": "operations",
+      "keywords": [
+        "bottleneck",
+        "theory-of-constraints",
+        "throughput",
+        "flow",
+        "operations",
+        "ci-cd",
+        "goldratt"
+      ]
     }
   ]
 }
