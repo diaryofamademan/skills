@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.1.1
+version: 0.1.2
 author: Open skills contributors
 license: MIT
 metadata:
@@ -50,7 +50,7 @@ Use this skill when a **founder**, **marketer**, **creator**, or delegated agent
 ## Agent guardrails
 
 1. **Build the ends first.** Draft the hook and the call to action before the body. The body is written to connect two ends that already work, never the other way round.
-2. **Every end must pass two tests before the piece ships.** The sea-of-100 test: would this line stop a scroll among a hundred competing pieces? The stand-alone test: does this line, screenshotted alone, carry the full context a stranger needs? A line that fails either test is rebuilt, not defended.
+2. **Every end must pass two tests before the piece ships.** The sea-of-100 test: would this line stop a scroll among a hundred competing pieces? The stand-alone test: does this line, screenshotted alone, carry the full context a stranger needs? A line that fails either test is rebuilt, not defended. The stand-alone test also applies to every load-bearing post between the ends, the story above all: each carries its own setup, and transitions between posts are bridge lines written inside the posts, never context the reader is asked to remember.
 3. **Talk to the reader, not at them.** The hook addresses the reader's own problem directly, as a question where the material allows. Announcements about the author are not hooks.
 4. **Universal before technical.** Frame the problem so a reader outside the field feels it. If only practitioners can feel the problem, the framing is wrong, not the audience.
 5. **No bare numbers, and statistics pass the stats rule.** Every metric in the piece carries its why: the impact, the second-order effect, who waits and what it costs. A number without its consequence is decoration for insiders. A statistic picked to land a point must multiply or reduce (more money, more efficiency, less waste, more speed), carry one visible number, demand no math from the reader, and show a change rather than a state.
@@ -88,7 +88,7 @@ Three requirements, all from the reader's side of the screen:
 
 - **A direct, personal question about the reader's own problem** (principle 1). Talk to them, not at them. The reader should be answering the question in their head before they decide to keep reading.
 - **The problem framed as a universal problem** (principle 2). Even when the topic is engineering, or finance, or any specialty: the wait, the waste, the thing everything depends on. Non-specialists must be able to feel it.
-- **Built to stand out and stand alone** (principle 3). Sea-of-100: the line competes against the whole feed, not against the author's other drafts. Stand-alone: the line carries its full context; a reader who never sees the rest still gets a complete thought worth having read.
+- **Built to stand out and stand alone** (principle 3). Sea-of-100: the line competes against the whole feed, not against the author's other drafts. Stand-alone: the line carries its full context; a reader who never sees the rest still gets a complete thought worth having read. The stand-alone rule is not only the hook's: it covers every load-bearing post in the piece, the story explicitly — a story post that leans on the thread around it for its setup fails the test and is rewritten with the setup inside the post.
 
 ### 2 — Build the body
 
@@ -107,6 +107,10 @@ The call to action gets the same hardening as the hook:
 - **It stands on its own as its own post** (principle 9): the idea, the name of the thing, and the link, with full context. A reader who sees only this post can act on it completely.
 - **Ease into the link drop** (principle 10). The link arrives as the natural end of the piece's motion, never as a bare label-and-URL landing without a runway.
 - **Link where the relationship lives** (principle 11). To the author's own site, where a reader can leave an email, not to a raw repository. The link's preview card carries the work's icon or branding, not the author's photo: the piece promotes the work.
+
+### Threads: the architecture
+
+A thread is built in this order: **hook → story → my example → stat → big win → call to action**, with a transition between each pair of beats. The transitions are bridge lines inside the posts ("My version of that line is..."), not context the reader has to remember from three posts ago. The beat before the call to action is the **big win**: the end result, the conclusion the whole piece has been walking toward, stated plainly. Every load-bearing post — hook, story, call to action — stands alone with full context (principles 3 and 9, extended to the story); the stat obeys the stats rule under principle 5.
 
 ### 4 — Format
 
@@ -138,6 +142,7 @@ Before calling a piece done, confirm:
 - [ ] Nothing in the piece is there only because it is true or interesting; everything serves the reader or the action.
 - [ ] The call to action is a jab with a point of view, not a generic ask.
 - [ ] The call to action stands alone: idea, name, and link, full context.
+- [ ] In a thread: the story post carries its own setup and stands alone, transitions are bridge lines inside the posts, and the beat before the call to action is the big win.
 - [ ] The link is eased into, points to the author's own site, and its preview carries the work's branding.
 - [ ] Paragraphs run one to two sentences, sentences flow within them, one blank line between.
 - [ ] No illustrative example or side comment from the author's direction appears in the copy verbatim.

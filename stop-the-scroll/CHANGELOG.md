@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 — 2026-11-15
+
+The stand-alone rule extended from the hook and the call to action to every load-bearing post, the story explicitly, from the author's analogy pass on the fix-the-bottleneck launch: a story post that leans on the thread for its setup is rewritten with the setup inside the post. The thread architecture is now stated in the procedure and the patterns reference: hook, story, the author's example, stat, big win, call to action, with transitions carried by bridge lines inside the posts. No other changes.
+
 ## 0.1.1 — 2026-11-14
 
 Principle 5 sharpened with the stats rule, from the author's statistic pick for the fix-the-bottleneck launch the same night: a statistic must multiply or reduce (increase money, increase efficiency, reduce waste, increase speed) and pass three tests — one visible number, no reader math, and a change shown rather than a state. The rejected and winning candidate statistics are recorded as the worked examples in references/the-13-principles.md. No other changes.

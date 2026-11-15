@@ -22,6 +22,14 @@ Construction detail for steps 1 and 3 of the main procedure: the shapes that rec
 
 **The closing restatement (long-form).** On platforms where the piece is read whole (a LinkedIn post, a newsletter), the call to action can end with a one-line restatement of the hook's answer after the link: the link is eased into mid-flow, and the final line returns the reader to the idea. The stand-alone requirement still applies to the block that carries the link.
 
+## Thread architecture
+
+A thread's beats, in order: **hook → story → my example → stat → big win → call to action**. Between each pair of beats sits a transition, and the transition is a bridge line inside a post ("My version of that line is..."), never a fact the reader is expected to remember from earlier in the thread.
+
+Three of the posts are load-bearing and must each stand alone with full context: the hook (principle 3), the story, and the call to action (principle 9). The story is the one most often failed: told as an analogy or an anecdote, it is tempting to open it with a lean on the surrounding thread ("The book tells it as a hike"). That opening borrows its setup from context the screenshot will not carry. The fix is mechanical: rewrite the story post with its setup inside it, the way a story that begins from its own first line needs nothing before it.
+
+The beat before the call to action is the **big win**: the end result, the conclusion the piece has been walking toward. The call to action then converts a reader who has just seen the outcome, not one who has only seen the problem.
+
 ## What kills ends, collected
 
 - Opening on the receipt ("I built X") instead of the reader's problem.

@@ -10,6 +10,8 @@ Each principle states the rule, why it exists, the failure it prevents, and the 
 
 **3. The hook must stand out in a sea of 100, stop the scroll, and stand on its own.** Full context, no thread needed; the hook works as its own post. Why: distribution is screenshot-driven; the hook is the part that travels, and it usually travels alone. Failure prevented: the hook that only makes sense as post 1 of 9, which is read by almost no one. Tests: the sea-of-100 test and the stand-alone test, run as described in `hook-and-cta-patterns.md`.
 
+The stand-alone rule extends past the hook, to every load-bearing post — the story explicitly. A story post must carry its own setup inside the post; an opening that leans on the thread around it ("The book tells it as a hike") fails and is rewritten with the setup inside. In the launch this was earned on, two of three candidate stories (an hourglass, a jar) passed as written because each carried its own setup; the hike version did not. The full thread architecture the rule serves — hook, story, the author's example, stat, big win, call to action, transitions carried by bridge lines inside the posts — is mapped in `hook-and-cta-patterns.md`.
+
 ## The body
 
 **4. Simple, high-level language for multiple audiences.** No geeky detail, no math nobody outside the field cares about. Why: every layer of specialty detail is a door closing on a class of reader, and the middle's job is to be carried, not to be complete. Failure prevented: the body that becomes a spec sheet and loses the room. Test: read each paragraph and ask what a non-specialist would repeat at dinner. That repeatable sentence is the paragraph's payload; if there is none, rewrite.
