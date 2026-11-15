@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 — 2026-11-15
+
+The story's third test added: the logic pass. Every physical claim in a story post must hold together under a plain reading. Earned by the author's catch on the punchy hike draft, which placed Herbie at the back of the line and then claimed nobody could pass him; the worked example in the patterns reference is corrected to the book's own mechanics (Herbie walks in the middle; the troop arrives when he arrives). The pass is stated in the procedure, the principles file, and the checklist. No other changes.
+
 ## 0.1.3 — 2026-11-15
 
 The sea-of-100 test extended to the story post, from the same launch's analogy pass: the story must stand out in a sea of 100 stories, and a boring story is raw material to make exciting, not an excuse. The four-part treatment is recorded in the procedure, the checklist, and the patterns reference (name the character, one concrete detail, the stuck beat on its own short line, the backwards turn ending on an image), worked on the hike story from The Goal. No other changes.

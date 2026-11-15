@@ -32,12 +32,14 @@ The beat before the call to action is the **big win**: the end result, the concl
 
 ## Making the story punchy
 
-The story post faces the sea-of-100 test too: it must stand out in a sea of 100 stories. A flat telling of a good story still fails. The treatment, worked out on the hike story from *The Goal* (flat version: one slow kid near the back, the line can only move as fast as he does, they move him to the front):
+The story post faces the sea-of-100 test too: it must stand out in a sea of 100 stories. A flat telling of a good story still fails. The treatment, worked out on the hike story from *The Goal* (flat version: one slow kid in the line, the line can only move as fast as he does, they move him to the front):
 
 1. **Name the character.** The kid in *The Goal* is Herbie. A named person sticks in the reader's head where "one slow kid" slides off.
 2. **One concrete detail.** Herbie's pack is stuffed with cans. One picture does the work of a paragraph of explanation about why he is slow.
 3. **Give the stuck beat its own short line.** "Nobody can pass him." The moment the whole story turns on gets a line to itself, at full stop.
 4. **Lean on the backwards turn, and end on an image.** The fix is the opposite of instinct: the slowest kid goes in front, and the fastest kids carry his extra weight. End the post on the picture of the result — the troop walks into camp together — not on a summary of what it means. The meaning is the next post's job.
+
+Then run the **logic pass**, the third story test, earned by the first punchy draft of this very story: it placed Herbie at the back of the line and then said nobody could pass him. If he is at the back, they already have. In the book, Herbie walks in the middle of the line: the kids behind him pile up, gaps open ahead of him, and the troop arrives when Herbie arrives — which is also the truer picture of a bottleneck in a business, where the slow step is rarely at the end. The rule: every physical claim in the story must hold together under a plain reading. Punch is no license to break the story's own mechanics, because a reader who stops to question how the story works has stopped scrolling for the wrong reason.
 
 ## What kills ends, collected
 

@@ -14,6 +14,8 @@ The stand-alone rule extends past the hook, to every load-bearing post — the s
 
 The sea-of-100 half of this principle extends to the story as well. The story must stand out in a sea of 100 stories; a boring story is raw material, not an excuse, and the drafter's job is to take a boring story and make it exciting. The treatment that earned this, on the hike story itself, is in `hook-and-cta-patterns.md`: name the character, one concrete detail, the stuck beat on its own short line, and the backwards turn ending on an image.
 
+And the story gets a third test alongside stand-alone and punchy: the **logic pass**. Every physical claim in the story must hold together under a plain reading. The founding error: the punchy hike draft placed Herbie at the back of the line and then claimed nobody could pass him — if he is at the back, everyone already has. In the book he walks in the middle: the kids behind him pile up, and the troop arrives when Herbie arrives, which is also the truer picture of a bottleneck anywhere else. A reader who stops to question how the story works has stopped scrolling for the wrong reason.
+
 ## The body
 
 **4. Simple, high-level language for multiple audiences.** No geeky detail, no math nobody outside the field cares about. Why: every layer of specialty detail is a door closing on a class of reader, and the middle's job is to be carried, not to be complete. Failure prevented: the body that becomes a spec sheet and loses the room. Test: read each paragraph and ask what a non-specialist would repeat at dinner. That repeatable sentence is the paragraph's payload; if there is none, rewrite.
