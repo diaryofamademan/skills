@@ -16,6 +16,12 @@ Each principle states the rule, why it exists, the failure it prevents, and the 
 
 **5. Numbers never sit bare; every metric gets its why.** The business impact, the second-order effect, who waits and what it costs — not just the granular goal. Why: a number means nothing to a reader who does not already share the author's context; the why is what makes it evidence. Failure prevented: "3 an hour, goal 10 an hour" as a self-evident drama. Test: for every number in the piece, the sentence that follows it (or the clause attached to it) says why it matters.
 
+A statistic chosen to carry a point has a further rule, earned the same night as the rest, while picking the number for a launch's middle. **Stats multiply or reduce: they increase money, increase efficiency, reduce waste, or increase speed.** Three tests, each with the draft that failed it:
+
+- **One visible number.** The eye needs to look at a number, visually. "Finished in less than a third of the time" failed: there is no number there.
+- **No reader math.** One number, not two numbers and a ratio the reader has to work out. "At 95% busy, one slow step makes everything wait 19 times longer" failed: it is true, and it makes people do math, so it does not land.
+- **A change, not a state.** The statistic shows something going up or down. "Juggling five fixes wastes 75% of the day" and "work spends 95% of its life waiting" are shares and states; both lost to the winner: "Companies that fixed the slow step first cut delivery times by 70%." A cut with a direction beats a share of a day or a state of the world.
+
 **6. Name things as what they are.** A software factory, not "my agents"; the name a stranger understands instantly. Why: internal labels import the author's whole context as a prerequisite. A plain name carries its own explanation. Failure prevented: the piece that reads as a dispatch from inside a company the reader does not work at. Test: every named thing in the piece could be understood by a reader who arrived thirty seconds ago.
 
 **7. Only what the reader needs to know.** Personal facts that do not serve the piece get cut. Why: every fact in a piece competes for the reader's remaining attention, and facts that serve the author's completeness spend it for nothing. Failure prevented: the launch that is half memoir. Test: for each paragraph, name what the reader gains or what the action gains. No answer, no paragraph.

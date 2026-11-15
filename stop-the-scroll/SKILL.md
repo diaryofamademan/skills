@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -53,7 +53,7 @@ Use this skill when a **founder**, **marketer**, **creator**, or delegated agent
 2. **Every end must pass two tests before the piece ships.** The sea-of-100 test: would this line stop a scroll among a hundred competing pieces? The stand-alone test: does this line, screenshotted alone, carry the full context a stranger needs? A line that fails either test is rebuilt, not defended.
 3. **Talk to the reader, not at them.** The hook addresses the reader's own problem directly, as a question where the material allows. Announcements about the author are not hooks.
 4. **Universal before technical.** Frame the problem so a reader outside the field feels it. If only practitioners can feel the problem, the framing is wrong, not the audience.
-5. **No bare numbers.** Every metric in the piece carries its why: the impact, the second-order effect, who waits and what it costs. A number without its consequence is decoration for insiders.
+5. **No bare numbers, and statistics pass the stats rule.** Every metric in the piece carries its why: the impact, the second-order effect, who waits and what it costs. A number without its consequence is decoration for insiders. A statistic picked to land a point must multiply or reduce (more money, more efficiency, less waste, more speed), carry one visible number, demand no math from the reader, and show a change rather than a state.
 6. **Name things as what they are.** Use the name a stranger understands on first reading. Internal labels, pet names for systems, and jargon are translated or cut.
 7. **Need-to-know only.** Personal facts, backstory, and detail that do not serve the reader's understanding or the piece's action are cut, however interesting they are to the author.
 8. **The link is earned, then eased.** The call to action builds to the link in the flow of the piece; the link never lands bare or abrupt. Where the author has a home page that captures the relationship (an email list, an account), link there rather than to a raw repository or file host, and let the link's preview carry the work's own branding.
@@ -95,7 +95,7 @@ Three requirements, all from the reader's side of the screen:
 The middle is universal, relatable, and about impact:
 
 - **Simple, high-level language for multiple audiences** (principle 4). No geeky detail, no math nobody outside the field cares about. The specialist reading it should find it true; the generalist should find it clear.
-- **Numbers carry their why** (principle 5). Every metric is followed by its business impact, its second-order effect, who waits and what it costs. Not just the granular goal: what the goal is *for*.
+- **Numbers carry their why** (principle 5). Every metric is followed by its business impact, its second-order effect, who waits and what it costs. Not just the granular goal: what the goal is *for*. And a statistic chosen to carry a point obeys the stats rule: it multiplies or reduces — it increases money, increases efficiency, reduces waste, or increases speed — and it passes three tests: **one visible number** (the eye needs a number to land on; "less than a third of the time" has none), **no reader math** (one number, not two numbers and a ratio to work out), and **a change, not a state** (a cut or a gain with direction beats a static share of a day or of the world).
 - **Things named as what they are** (principle 6). A software factory, not "my agents"; the name a stranger gets instantly. If a term needs a paragraph to explain, the term is wrong.
 - **Only what the reader needs to know** (principle 7). Personal facts that do not serve the piece are cut. The author's full story is not the reader's assignment.
 
@@ -133,6 +133,7 @@ Before calling a piece done, confirm:
 - [ ] The problem is framed universally; a non-specialist can feel it.
 - [ ] The hook passes the sea-of-100 test and the stand-alone test.
 - [ ] Every number in the body carries its why: impact, second-order effect, who waits, what it costs.
+- [ ] Every statistic passes the stats rule: it multiplies or reduces, shows one visible number, asks no math of the reader, and shows a change, not a state.
 - [ ] Every thing is named as what it is, in words a stranger gets instantly.
 - [ ] Nothing in the piece is there only because it is true or interesting; everything serves the reader or the action.
 - [ ] The call to action is a jab with a point of view, not a generic ask.
