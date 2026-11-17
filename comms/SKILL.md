@@ -1,7 +1,7 @@
 ---
 name: comms
 description: Founder communications — how a founder names the moment, takes the narrative personally, and says it directly. Covers announcements, launches, crises, and everyday content. Built on Lulu Cheng Meservey's Go Direct doctrine, with narrative structure from Andy Raskin, a positioning diagnostic from Al Ries, distribution from Gary Vaynerchuk, and a plain-writing gate from Paul Graham.
-version: 1.0.1
+version: 1.1.0
 ---
 
 # <img src="assets/icons/megaphone-01.svg" width="20" height="20" alt="" /> comms
@@ -109,6 +109,7 @@ After you speak, the reactions become the story. Rules for that phase:
 9. Repetition inside one story is waste; repetition of your position across stories is how a position gets built.
 10. In a crisis, the fight is over which position replaces yours if yours is vacated. Name the replacement early, or your opponents will.
 11. A position held by one person, with no second name the audience can picture in the role, is a single point of failure. Build the second name in everyday mode, long before a crisis needs it.
+12. Correctness is a gate, not a cleanup. No draft is called reviewed until the exact final text has passed a grammar pass: subject-verb agreement, articles, punctuation, hyphenation, parallelism. The other gates judge what a statement does; this one judges whether it is right, and a strategically sound draft carrying a plain agreement error is a draft with a known defect, not a reviewed draft.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> Worked patterns
 

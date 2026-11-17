@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 — 2026-11-16
+
+A grammar gate joins the guardrails (guardrail 12): no draft is called reviewed until the exact final text has passed a grammar pass — subject-verb agreement, articles, punctuation, hyphenation, parallelism. The gate exists because finished copy passed every existing review in this skill carrying a plain agreement error: the gates judged what the text does and how it sounds, and none of them judged whether it was correct. No other method changes.
+
 ## 1.0.1 — 2026-11-14
 
 README rebuilt to the shared layout used by every skill in this repo (What this is, Who it is for, Process at a glance with the procedure diagram, How to use with an agent, Folder map, Sources and credits, Contributing, License, Version). The references index is renamed to references/README.md to match the other skills, and the icon set gains link-01 and calendar-03. No method changes.
