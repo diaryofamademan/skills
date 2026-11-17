@@ -1,7 +1,7 @@
 ---
 name: write-in-your-voice
 description: "Build a working voice for a person from how they actually speak, then draft in it: assemble a tiered source bank from their speech (recordings, transcripts, dictations), compose drafts from their own sentences, and gate the result on shape, not just words. Use when setting up AI drafting for a founder, creator, or executive, when drafts keep coming back 'not my voice,' or when a voice profile built from published posts is not working."
-version: 1.1.0
+version: 1.2.0
 ---
 
 # <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> Write in Your Voice
@@ -17,7 +17,7 @@ Published is not the same as theirs. If any of a person's published posts were g
 State which run you are doing; each has a defined output.
 
 - **Build run** returns the bank: a tiered file (spoken passages, dictated explanations, approved texts, quarantined published posts), each passage tagged with date, source, and format, plus a coverage note naming the subjects and formats the bank does not cover.
-- **Draft run** returns the source passages it composed from (quoted), the draft, and the gate results (word gate, shape gate). If no source covers the move, it returns the dictation prompt instead of a draft, and says why.
+- **Draft run** returns the source passages it composed from (quoted), the draft, and the gate results (word gate, shape gate, grammar check). If no source covers the move, it returns the dictation prompt instead of a draft, and says why.
 - **Review run** (grading an existing draft) returns the gate results with the failing lines quoted, and a verdict: send back to sources, or ready for the person's approval. This skill never publishes; the person approves the exact final text.
 
 ## Procedure A — Build the source bank
@@ -42,6 +42,7 @@ Full detail in `references/source-bank-process.md`; the worked example (a produc
 
 - **Word gate.** Build a working vocabulary from the person's spoken corpus (the words they actually use, counted) plus a never-use list (words they have rejected or never say). Check every draft against it mechanically if you can; a script beats a judgment call. **Account for every flag in the run's return: rewrite it away, or justify it in one line** (a source name, a quoted term, the person's verbatim phrase). No unexamined flags. A count of justified flags is not a failure — the approved draft in the case study carries more flags than the rejected one — but one unjustified flag is. Necessary, and nowhere near sufficient: see the case study, where the rejected draft scored cleaner on the word gate than the approved one.
 - **Shape gate.** Three checks on the exact final text. (1) Parallelism scan: flag mirrored sentence pairs and balanced two-part constructions; people explain in a line, they do not argue in balanced pairs unless that is genuinely their habit on tape. (2) Press-release test: could the opening line run unchanged in a company announcement or a news summary? Openings in a real voice are a reaction, a receipt, a question, or a verdict. (3) Read-aloud check: read the draft next to two bank passages chosen for the piece type and compare person, sentence-length pattern, and cadence. Default to tier 1 spoken passages; for a launch, the strongest anchor is the source behind the most recent approved launch (often a tier 2 dictation), whatever tier it sits in. If it does not sound like the same person, it goes back to the sources, not to another polish pass.
+- **Grammar check.** Beside the word gate, on the exact final text: subject-verb agreement, articles, punctuation, hyphenation, parallelism. Account for every finding exactly as word-gate flags are accounted for — fixed, or justified in one line in the run's return; a draft is not finished with an unexamined grammar finding. The standing justification is the person's own usage: where the bank shows a pattern is theirs — a fragment habit, a dropped article in their attested cadence — it is their voice, not an error, and the check must not correct them into standard prose. What the check exists to catch is what the person would call a mistake themselves: the agreement slip, the wrong article, the broken parallel.
 - **Priority rule.** The voice outranks task-level register assumptions. A house style, a "launch register," a format copied from a previous package: all of these are defaults that yield to the voice on any conflict. The only override is the person naming the exception for that specific piece.
 
 ## Guardrails
