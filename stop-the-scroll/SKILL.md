@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.2.1
+version: 0.2.2
 author: Open skills contributors
 license: MIT
 metadata:
@@ -97,7 +97,7 @@ Three requirements, all from the reader's side of the screen:
 The middle is universal, relatable, and about impact:
 
 - **Simple, high-level language for multiple audiences** (principle 4). No geeky detail, no math nobody outside the field cares about. The specialist reading it should find it true; the generalist should find it clear.
-- **Numbers carry their why** (principle 5). Every metric is followed by its business impact, its second-order effect, who waits and what it costs. Not just the granular goal: what the goal is *for*. And a statistic chosen to carry a point obeys the stats rule: it multiplies or reduces — it increases money, increases efficiency, reduces waste, or increases speed — and it passes three tests: **one visible number** (the eye needs a number to land on; "less than a third of the time" has none), **no reader math** (one number, not two numbers and a ratio to work out), and **a change, not a state** (a cut or a gain with direction beats a static share of a day or of the world).
+- **Numbers carry their why** (principle 5). Every metric is followed by its business impact, its second-order effect, who waits and what it costs. Not just the granular goal: what the goal is *for*. And a statistic chosen to carry a point obeys the stats rule: it multiplies or reduces — it increases money, increases efficiency, reduces waste, or increases speed — and it passes three tests: **one visible number** (the eye needs a number to land on; "less than a third of the time" has none), **no reader math** (one number, not two numbers and a ratio to work out), and **a change, not a state** (a cut or a gain with direction beats a static share of a day or of the world). And every number is written the way a person says it out loud, rounded to the spoken form ("more than 304,000 emails," "$307 billion," "about 3 in 4"): a raw precise count (304,174) or a decimal abbreviation ($307.0B) fails, because a number the reader has to decode works against the scroll instead of with it. Exact figures live in the source notes; the copy carries the number as speech.
 - **Things named as what they are** (principle 6). A software factory, not "my agents"; the name a stranger gets instantly. If a term needs a paragraph to explain, the term is wrong.
 - **One everyday word per stage, held constant** (principle 6, extended). In any flow the piece describes, each stage gets one word a customer would use — tries became tasks, landed became shipped — and that word is used at every mention, in every post. If post 3 "ships 3 tasks an hour," post 5 says "only 3 shipped," or the reader cannot connect them.
 - **Use the source's own result, not a summary of it.** When a post reports a test or a result, pull the specifics from the source material itself: the real numbers, the real failure kinds. Vague results read as marketing; the specific diagnosis is what makes a result post credible.
@@ -150,6 +150,7 @@ Before calling a piece done, confirm:
 - [ ] The hook passes the sea-of-100 test and the stand-alone test.
 - [ ] Every number in the body carries its why: impact, second-order effect, who waits, what it costs.
 - [ ] Every statistic passes the stats rule: it multiplies or reduces, shows one visible number, asks no math of the reader, and shows a change, not a state.
+- [ ] Every number is in its spoken form: rounded the way a person says it, no raw precise counts, no decimal abbreviations.
 - [ ] Every thing is named as what it is, in words a stranger gets instantly.
 - [ ] Nothing in the piece is there only because it is true or interesting; everything serves the reader or the action.
 - [ ] The call to action is a jab with a point of view, not a generic ask.

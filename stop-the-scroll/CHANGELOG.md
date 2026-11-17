@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2 — 2026-11-16
+
+The spoken-numbers rule joins principle 5 and the verification checklist: every number is written the way a person says it out loud, rounded to the spoken form ("more than 304,000 emails," "$307 billion," "about 3 in 4"); a raw precise count (304,174) or a decimal abbreviation ($307.0B) fails. The stats rule already demanded one visible number and no reader math, but it never demanded the spoken form, and finished copy printed a raw count of 304,174 behind it. Exact figures live in the source notes; the copy carries the number as speech. No other changes.
+
 ## 0.2.1 — 2026-11-16
 
 A grammar guardrail (guardrail 12) and a matching checklist item: no piece ships without a grammar pass on the exact final text — subject-verb agreement, articles, punctuation, hyphenation, parallelism. The thirteen principles judge whether a piece earns attention; none of them judged whether it is correct, and finished copy passed every principle carrying a plain agreement error. Correctness is now a gate beside them, not a cleanup after them. No other changes.
