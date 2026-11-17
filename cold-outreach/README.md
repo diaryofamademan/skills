@@ -62,7 +62,7 @@ flowchart LR
 
 ## <img src="assets/icons/book-open-01.svg" width="20" height="20" alt="" /> Sources and credits
 
-The evidence base is graded in full in `references/the-evidence.md`. The academic anchors: Sahni, Wheeler and Chintagunta's randomized field experiments on email personalization (*Marketing Science*, 2018); O'Keefe and Jensen's meta-analysis of message framing (*Communication Yearbook*, 2006, with the 2007–2012 updates); and the 2024–2025 loss-aversion meta-analyses (Brown, Imai, Vieider and Camerer; Walasek, Mullett and Stewart; Yechiam and Zeif). The large datasets: Gong's cold email analyses (85 million and 304,174 emails), Belkins' sequence and subject-line studies (7.53 million and 5.5 million emails, 2025), Belkins × Expandi's LinkedIn study (15.1 million contacts, 2025), Smartlead's *State of Cold Email* (850 million emails), and Boomerang's general-email study (5.3 million emails, 2016). The practitioner sources audited: Lavender's cold email tips and benchmark posts, and Dimitar Angelov's "Every Cold Outreach Principle I Know in One Article" (2026). Full table: `references/sources-and-urls.md`. These are paraphrases and adaptations, credited; no source text is reproduced.
+The evidence base is graded in full in `references/the-evidence.md`. The academic anchors: Sahni, Wheeler and Chintagunta's randomized field experiments on email personalization (*Marketing Science*, 2018); O'Keefe and Jensen's meta-analysis of message framing (*Communication Yearbook*, 2006, with the 2007–2012 updates); and the 2024–2025 loss-aversion meta-analyses (Brown, Imai, Vieider and Camerer; Walasek, Mullett and Stewart; Yechiam and Zeif). The large datasets: Gong's cold email analyses (85 million emails, and more than 304,000 in a second study), Belkins' sequence and subject-line studies (about 7.5 million and 5.5 million emails, 2025), Belkins × Expandi's LinkedIn study (about 15 million contacts, 2025), Smartlead's *State of Cold Email* (850 million emails), and Boomerang's general-email study (about 5 million emails, 2016). The practitioner sources audited: Lavender's cold email tips and benchmark posts, and Dimitar Angelov's "Every Cold Outreach Principle I Know in One Article" (2026). Full table: `references/sources-and-urls.md`. These are paraphrases and adaptations, credited; no source text is reproduced.
 
 ## <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> Contributing
 
@@ -74,4 +74,10 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.2 — See `CHANGELOG.md`.
+0.1.3 — See `CHANGELOG.md`.
+
+## Get the skill
+
+The words are the last thing that decides a reply. Get the order right first, and the words get easier.
+
+Cold Outreach is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/cold-outreach](https://ianbalina.com/skills/cold-outreach/)

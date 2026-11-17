@@ -1,8 +1,12 @@
 # Changelog
 
+## 0.1.3 — 2026-11-16
+
+Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. The dataset figures in the README sources section are restated in spoken numbers; the exact figures stay in references/the-evidence.md. No method changes.
+
 ## 0.1.2 — 2026-11-16
 
-Plain-copy rewrite of the public descriptions. Wording only. No method changes.
+Public copy rewritten in plain spoken words; no method changes. The README opening, the marketplace description, and the listing lines were rewritten so a stranger can follow every line: short sentences, no compressed chains, no labels that assume context the reader does not have. Part of the eight-skill plain-copy pass Ian directed on 2026-11-16, after the skill pages were found to read as robotic.
 
 ## 0.1.1 — 2026-11-16
 
