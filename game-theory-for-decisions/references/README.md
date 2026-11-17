@@ -1,6 +1,6 @@
 # References index — Game Theory for Decisions
 
-These references support **Game Theory for Decisions**, version **1.0.1**. The main `../SKILL.md` holds the eight-step procedure. These files
+These references support **Game Theory for Decisions**, version **1.0.2**. The main `../SKILL.md` holds the eight-step procedure. These files
 hold the concepts, canvases, methods, and checks needed to run it well.
 
 Read the main skill first. Open a reference when the decision needs depth.

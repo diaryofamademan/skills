@@ -1,6 +1,6 @@
 # <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> game-theory-for-decisions (open skill)
 
-**A set of steps for decisions where other people get a move too.** This skill turns game theory into a map that an agent or an operator can build, check, and act on. It never invents what the other side wants. And it never treats the predicted outcome as a promise.
+**What will the other side do after you move?** This skill turns game theory into a map that an agent or an operator can build, check, and act on. It never invents what the other side wants. And it never treats the predicted outcome as a promise.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
@@ -114,3 +114,9 @@ MIT — see [`SKILL.md`](./SKILL.md) front matter. Third-party sources remain un
 ## Version
 
 Current skill version: see `version` in [`SKILL.md`](./SKILL.md) front matter. History: [`CHANGELOG.md`](./CHANGELOG.md).
+
+## Get the skill
+
+Your plan is only half the game. The other side moves too, so map their move before you make yours.
+
+Game Theory for Decisions is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/game-theory-for-decisions](https://ianbalina.com/skills/game-theory-for-decisions/)

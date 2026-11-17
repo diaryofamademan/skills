@@ -1,6 +1,6 @@
 # Mechanisms and Auctions
 
-Part of `game-theory-for-decisions`, version 1.0.1.
+Part of `game-theory-for-decisions`, version 1.0.0.
 
 Use this reference when you can design the rules of interaction. Examples include procurement, bidding, internal resource allocation, marketplace ranking, matching, incentive plans, and structured partner selection.
 

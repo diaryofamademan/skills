@@ -1,6 +1,6 @@
 # Repeated Games and Cooperation
 
-Part of `game-theory-for-decisions`, version 1.0.1.
+Part of `game-theory-for-decisions`, version 1.0.0.
 
 Use this reference when the same players will meet again, observe each other again, or affect each other's reputation. It applies to suppliers, customers, partners, competitors, employees, platforms, communities, and internal teams.
 

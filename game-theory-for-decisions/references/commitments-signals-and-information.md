@@ -1,6 +1,6 @@
 # Commitments, Signals, and Information
 
-Part of `game-theory-for-decisions`, version 1.0.1.
+Part of `game-theory-for-decisions`, version 1.0.0.
 
 Use this reference when a decision turns on a promise, a warning, a claim, or missing information. It is most useful during Steps 4, 5, and 7 of the main procedure. Use [`game-mapping.md`](game-mapping.md) first if the players, options, or payoffs are not yet clear.
 
