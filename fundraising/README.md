@@ -4,7 +4,7 @@
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
-An open skill that an AI agent can run, for raising money from start to finish. A person approves before anything goes out, before terms are agreed, before anything is signed, and before money moves.
+Are you running your raise on hope, one meeting at a time? This is an open skill that an AI agent can run: it turns raising money into a process, from start to finish. A person approves before anything goes out, before terms are agreed, before anything is signed, and before money moves.
 
 It covers three tracks:
 
@@ -123,3 +123,9 @@ MIT — see [`SKILL.md`](./SKILL.md) front matter. Third-party sources remain un
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
 Current skill version: see `version` in [`SKILL.md`](./SKILL.md) front matter. History: [`CHANGELOG.md`](./CHANGELOG.md).
+
+## Get the skill
+
+A raise run on hope closes when the market feels like it. Run it as a process instead.
+
+Fundraising is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/fundraising](https://ianbalina.com/skills/fundraising/)
