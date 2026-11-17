@@ -1,6 +1,6 @@
 # <img src="assets/icons/megaphone-01.svg" width="20" height="20" alt="" /> comms (open skill)
 
-**A set of steps for founder communications.** This skill turns "go direct" into steps an agent or an operator can run, check, and act on. It works for the announcement you choose to make, and for the crisis you did not choose. And it works for the everyday posts that decide whether anyone is listening when either one lands.
+**Who tells your company's story when the moment comes?** This skill turns "go direct" into steps an agent or an operator can run, check, and act on. It works for the announcement you choose to make, and for the crisis you did not choose. And it works for the everyday posts that decide whether anyone is listening when either one lands.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
@@ -98,3 +98,9 @@ MIT — see [`SKILL.md`](./SKILL.md) front matter. Third-party sources remain un
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
 Current skill version: see `version` in [`SKILL.md`](./SKILL.md) front matter. History: [`CHANGELOG.md`](./CHANGELOG.md).
+
+## Get the skill
+
+The story is the product. Say it yourself, say it plainly, and say all of it.
+
+Comms is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/comms](https://ianbalina.com/skills/comms/)
