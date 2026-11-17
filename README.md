@@ -43,7 +43,7 @@ flowchart TB
 | [write-in-your-voice](./write-in-your-voice/) | Write in a person's real voice, built from how they actually speak: a tiered source bank from their speech, drafts composed from their own sentences, and a shape gate, not just a word check. | **v1.2.1** |
 | [fix-the-bottleneck](./fix-the-bottleneck/) | Fix the one stage that sets a running system's rate: state the goal as throughput, measure the chain, exploit and subordinate before elevating, and repeat when the constraint moves. | **v0.1.0** |
 | [stop-the-scroll](./stop-the-scroll/) | Build content whose hook and call to action each stand out in a sea of 100 and stand alone with full context: AIDA with the ends hardened, over a universal, impact-led middle. | **v0.2.2** |
-| [cold-outreach](./cold-outreach/) | Write a **cold email or cold DM** that earns replies: test the offer first, build the batch from a **trigger**, check the warm path and the history, research **one true observation**, and ask one question about interest — every rule labeled with the evidence behind it, the claims that failed checking named and excluded, and the draft judged in a separate cold pass. | **v0.1.0** |
+| [cold-outreach](./cold-outreach/) | Write a **cold email or cold DM** that earns replies: test the offer first, build the batch from a **trigger**, check the warm path and the history, research **one true observation**, and ask one question about interest — every rule labeled with the evidence behind it, the claims that failed checking named and excluded, and the draft judged in a separate cold pass. | **v0.1.1** |
 
 ## How to use
 

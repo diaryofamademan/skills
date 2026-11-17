@@ -26,6 +26,6 @@ icons = list(Path("assets/icons").glob("*.svg"))
 nostroke = [i.name for i in icons if "#6E7FD6" not in i.read_text()]
 if nostroke: print("ICONS WITHOUT HOUSE STROKE:", nostroke); sys.exit(1)
 fm = Path("SKILL.md").read_text().split("---")[1]
-assert "name: cold-outreach" in fm and "version: 0.1.0" in fm, "frontmatter mismatch"
+assert "name: cold-outreach" in fm and "version: 0.1.1" in fm, "frontmatter mismatch"
 print(f"OK: {len(required)} required files, img paths resolve, {len(icons)} icons at house stroke, frontmatter parses")
 PY

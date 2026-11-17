@@ -1,6 +1,6 @@
 # <img src="assets/icons/mail-01.svg" width="20" height="20" alt="" /> cold-outreach (open skill)
 
-**A procedure for writing cold email and cold DMs that earn replies, built from graded evidence instead of folklore.** This skill runs the work in the order the evidence says the result is decided: test the offer, build the batch from a trigger, check the warm path and the history, research one true observation — and only then write the short sequence whose first ask is a question about interest.
+**A procedure for writing cold email and cold DMs that earn replies, built from graded evidence, not recycled advice nobody ever tested.** This skill runs the work in the order the evidence says the result is decided: test the offer, build the batch from a trigger, check the warm path and the history, research one true observation — and only then write the short sequence whose first ask is a question about interest.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
@@ -9,7 +9,7 @@ An **open, agent-oriented skill** for the first message to someone with no prior
 Cold outreach advice is mostly vendor marketing: the company selling the email coach publishes the study that proves its rules. This skill takes a different approach. Every rule carries its evidence — whose dataset, how large, what year, and what grade — and the claims that failed checking are named and excluded:
 
 1. What actually decides a reply: the offer, the trigger, the list, or the copy?
-2. Which copy rules survive grading, and which are folklore?
+2. Which copy rules survive grading, and which are just repeated advice nobody ever tested?
 3. How is a sequence built so the follow-ups — where most replies live — each carry something new?
 
 The method was built from the author's own sent outreach across data licensing, advisory, and sponsorship lanes, audited against Lavender's 20 cold email tips, Dimitar Angelov's outbound article, and a graded research pass over the academic literature and the large platform datasets (Gong, Belkins, Smartlead, Smartlead-scale platform data, Boomerang, and the peer-reviewed persuasion literature).
@@ -19,7 +19,7 @@ The method was built from the author's own sent outreach across data licensing, 
 | Reader | What they get |
 | --- | --- |
 | Founders and operators selling to a small, named market | A batch procedure sized for high-value prospects, where research depth beats send count |
-| Anyone burned by cold email folklore | Rules with their evidence shown, contradictions flagged, and the dead claims listed so they stay dead |
+| Anyone burned by cold email advice that was never tested | Rules with their evidence shown, contradictions flagged, and the dead claims listed so they stay dead |
 | Agents drafting outreach for a human approver | An output contract: offer test, batch definition, gate results, the three emails with word counts and checklist verdicts |
 | Senders whose name is the asset | A method that refuses one-shot tricks, because in small markets the game repeats and reputation is spent across prospects |
 
@@ -74,4 +74,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.0 — first build. See `CHANGELOG.md`.
+0.1.1 — See `CHANGELOG.md`.

@@ -1,7 +1,7 @@
 ---
 name: cold-outreach
 description: "Use when writing a first message to someone with no prior relationship — a cold email or cold DM — or judging one: test the offer, build the batch from a trigger, check the warm path and the history first, research one true observation, and write a short sequence whose first ask is a question about interest, with every rule labeled by the evidence behind it."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
