@@ -1,7 +1,7 @@
 ---
 name: first-principles-thinking
 description: "Use when a decision, design, cost, or strategy looks trapped by convention: strip it to fundamental truths that carry named evidence, price the raw inputs where money is involved, and rebuild a better option from the floor up instead of reasoning by analogy."
-version: 1.5.2
+version: 1.5.3
 author: Open skills contributors
 license: MIT
 metadata:

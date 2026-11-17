@@ -1,6 +1,6 @@
 # <img src="assets/icons/idea-01.svg" width="20" height="20" alt="" /> first-principles-thinking (open skill)
 
-**A set of reasoning steps, not an essay.** This skill turns "think from first principles" into steps an agent, or a person, can run, check, and hand to someone else. Every step has to show its evidence.
+**Still deciding by copying what worked last time?** This skill turns "think from first principles" into steps an agent, or a person, can run, check, and hand to someone else. Every step has to show its evidence.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
@@ -93,3 +93,9 @@ MIT — see [`SKILL.md`](./SKILL.md) front matter. Third-party sources remain un
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
 Current skill version: see `version` in [`SKILL.md`](./SKILL.md) front matter. History: [`CHANGELOG.md`](./CHANGELOG.md).
+
+## Get the skill
+
+Copying what worked before can never beat what already exists. Build from what is true instead.
+
+First Principles Thinking is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/first-principles-thinking](https://ianbalina.com/skills/first-principles-thinking/)
