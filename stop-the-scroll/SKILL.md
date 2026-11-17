@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.2.0
+version: 0.2.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -60,6 +60,7 @@ Use this skill when a **founder**, **marketer**, **creator**, or delegated agent
 9. **Direction is not copy.** When the author gives an example ("a jab like saying..."), a name, or a side comment while directing the work, that is instruction about the piece, not text for the piece. Illustrative examples are never forced into copy verbatim. This guardrail exists because it was violated four drafts running in the session this skill was distilled from.
 10. **Formatting is part of the build, not a cleanup pass.** Paragraphs of one to two sentences; sentences inside a paragraph flow together; one blank line between paragraphs. One sentence per line is a draft artifact, not a style.
 11. **Write the piece plain.** Short words where they carry the meaning, no hype adjectives doing the work the hook should do, and no claim the author cannot stand behind if the piece is quoted back at them.
+12. **Correctness is a gate the principles do not cover.** No piece ships without a grammar pass on the exact final text: subject-verb agreement, articles, punctuation, hyphenation, parallelism. The principles judge whether a piece earns attention; none of them judges whether it is right, and a piece can pass every principle while carrying a plain agreement error.
 12. **Never spell a formula out as a sentence.** Show it as math (three numbers, named rates, round percentages, readable in one glance) or walk it as plain words. The in-between form, a formula wearing a sentence's clothes, is the one form that is banned.
 
 ## The one idea
@@ -163,5 +164,6 @@ Before calling a piece done, confirm:
 - [ ] Where the system leaks, the piece leads with in vs out before walking the stages.
 - [ ] If the claim is "this sees what others miss," the piece shows smart actors missing it, each locally right and globally blind.
 - [ ] The link is eased into, points to the author's own site, and its preview carries the work's branding.
+- [ ] The grammar pass ran on the exact final text — agreement, articles, punctuation, hyphenation, parallelism — and every finding is fixed, or the piece does not ship.
 - [ ] Paragraphs run one to two sentences, sentences flow within them, one blank line between.
 - [ ] No illustrative example or side comment from the author's direction appears in the copy verbatim.

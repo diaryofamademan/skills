@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 — 2026-11-16
+
+A grammar guardrail (guardrail 12) and a matching checklist item: no piece ships without a grammar pass on the exact final text — subject-verb agreement, articles, punctuation, hyphenation, parallelism. The thirteen principles judge whether a piece earns attention; none of them judged whether it is correct, and finished copy passed every principle carrying a plain agreement error. Correctness is now a gate beside them, not a cleanup after them. No other changes.
+
 ## 0.2.0 — 2026-11-15
 
 Six rules from the fix-the-bottleneck launch's later rounds (the results post went through about six more versions after 0.1.7), approved as a batch: (1) use the source's own result, not a summary of it; (2) never write a formula out as a sentence; (3) simple math shown as math is a clarity tool — three numbers, named rates, round percentages ("26 × 25% completion rate × 50% ship rate = 3 tasks shipped") — refining the no-reader-math test to ban only math the reader has to work at; (4) one everyday word per stage of a flow, held constant at every mention across every post; (5) lead with in vs out when there is a leak; (6) show smart actors missing the whole picture, each locally right and globally blind, instead of reporting the failure flatly. Plus a patterns addition: when one post carries the argument, draft it three or four complete ways for the author to pick. The launch's final results post is the worked example in the patterns reference.
