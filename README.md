@@ -1,6 +1,6 @@
 # Made Man Playbooks
 
-Open playbooks by Ian Balina that AI agents can load and run end to end, with human checkpoints.
+What could your agent do with a better method? These are open playbooks by Ian Balina that AI agents can load and run end to end, with human checkpoints.
 
 ## About
 
@@ -83,3 +83,7 @@ Suggestions, source links, and fixes are welcome via [GitHub Issues](https://git
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE).
+
+## Get the playbooks in your inbox
+
+Every skill here is free, and new ones drop as I build them. Leave an email at [ianbalina.com/skills](https://ianbalina.com/skills/) and each new skill arrives the day it drops, with the build notes behind it.
