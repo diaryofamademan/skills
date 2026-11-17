@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1 — 2026-11-16
+
+The shape gate gains a fourth check, the numbers check: every figure in a draft is written the way the person says it out loud, rounded to the spoken form ("more than 304,000 emails," "$307 billion," "about 3 in 4"); a raw precise count (304,174) or a decimal abbreviation ($307.0B) fails. The rule already ran in the author's production pipeline but was not written in the gates, and a launch draft printed 304,174 raw behind them. Exact figures live in the source material; the draft carries the number as speech. No other method changes.
+
 ## 1.2.0 — 2026-11-16
 
 A grammar check joins the gates, beside the word gate: on the exact final text, agreement, articles, punctuation, hyphenation, and parallelism are checked, and every finding is accounted for the way word-gate flags are — fixed, or justified in one line in the run's return. The person's own attested habits are the standing justification, never errors to be corrected into standard prose; the check exists for the mistakes the person would call mistakes. The gate exists because finished copy passed the word and shape gates carrying a plain agreement error — both gates judge how a text sounds, and neither judged whether it was correct. No other method changes.
