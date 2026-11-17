@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 3.3.3 — 2026-11-16
+
+Public copy rewritten in plain spoken words; no method changes. The README opening, the marketplace description, and the listing lines were rewritten so a stranger can follow every line: short sentences, no compressed chains, no labels that assume context the reader does not have. Part of the eight-skill plain-copy pass Ian directed on 2026-11-16, after the skill pages were found to read as robotic.
+
 ## 3.3.2 — 2026-11-05
 
 - Moved the maintainer script `scripts/verify-assets.sh` out of the skill folder to repo-root `scripts/verify-fundraising-assets.sh` (path logic adjusted). Registry security scanners grade bundled executables; the script is repo tooling, not playbook content. No playbook content changed.

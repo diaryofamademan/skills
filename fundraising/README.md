@@ -4,7 +4,7 @@
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
-An **open, agent-oriented skill** for running a capital process end to end—with explicit **human checkpoints** before outreach, terms, signatures, or money move.
+An open skill that an AI agent can run, for raising money from start to finish. A person approves before anything goes out, before terms are agreed, before anything is signed, and before money moves.
 
 It covers three tracks:
 
@@ -12,7 +12,7 @@ It covers three tracks:
 2. <img src="assets/icons/bank.svg" width="20" height="20" alt="" /> **GP fund** raises from **LPs**
 3. <img src="assets/icons/handshake.svg" width="20" height="20" alt="" /> **Company M&A** / strategic exit
 
-Each track shares the same competitive core: build a large target list, qualify fast, create real momentum, secure a lead or anchor, race for a second offer, and close on a deadline—then execute **after the yes** (diligence → docs → close → post-close).
+It covers three kinds of raise: a startup round, a fund raised from LPs, and the sale of a company. All three run the same way. Build a large target list. Qualify fast. Create real momentum. Secure a lead or an anchor. Race for a second offer. Close on a deadline. Then do the work after the yes: diligence, documents, close, and the reporting that follows.
 
 ## <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> Who it is for
 
