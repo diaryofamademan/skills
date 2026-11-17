@@ -1,10 +1,10 @@
 # <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> fix-the-bottleneck (open skill)
 
-**A procedure for fixing bottlenecks in a running system.** This skill turns Goldratt's Theory of Constraints into a run an agent or operator can execute and check: state the goal as throughput, measure the chain, find the one constraint the queues point at, and fix the losses in the order that moves total output.
+**How to fix the bottleneck in a running system.** This skill turns Goldratt's Theory of Constraints into steps an agent or an operator can run and check. State the goal as throughput. Measure every stage of the chain. Find the one constraint, the stage the queues point at. Then fix what is lost there, in the order that moves the whole system's output.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
-An **open, agent-oriented skill** for any chain that produces finished output below its target: delivery pipelines, CI/CD, support operations, production lines, agent fleets.
+An open skill that an AI agent can run, for any chain of work that finishes less than its target: delivery pipelines, CI/CD, support work, production lines, agent fleets.
 
 Most improvement effort spreads evenly across a system, or follows whoever complains loudest. The system's rate, though, is set by one stage. This skill exists to find that stage from measurements and concentrate the work there:
 
@@ -73,4 +73,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.0 — first build. See `CHANGELOG.md`.
+0.1.1 — See `CHANGELOG.md`.

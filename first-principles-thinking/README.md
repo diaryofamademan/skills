@@ -1,12 +1,12 @@
 # <img src="assets/icons/idea-01.svg" width="20" height="20" alt="" /> first-principles-thinking (open skill)
 
-**A reasoning procedure, not a philosophy essay.** This skill turns "think from first principles" into steps an agent (or a human) can run, check, and hand over — with evidence required at every step.
+**A set of reasoning steps, not an essay.** This skill turns "think from first principles" into steps an agent, or a person, can run, check, and hand to someone else. Every step has to show its evidence.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
-An **open, agent-oriented skill** for attacking decisions, designs, costs, and strategies that are trapped by convention.
+An open skill that an AI agent can run, for decisions, designs, costs, and plans that are stuck because this is how it has always been done.
 
-Most reasoning is by **analogy** — doing a thing because it resembles what was done before. That is fast and usually fine. It also caps the answer at what already exists. This skill runs the other mode: strip the problem down to the claims that carry real evidence, price the raw inputs when money is involved, and rebuild a better option from that floor.
+Most reasoning copies what came before: do a thing because it looks like what was done last time. That is fast, and usually fine. But it can never beat what already exists. This skill works the other way. Strip the problem down to the claims that have real evidence. Price the raw inputs when money is involved. Then build a better option up from that floor.
 
 Three things make this version different from an essay summary:
 

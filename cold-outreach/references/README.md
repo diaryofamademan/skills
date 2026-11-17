@@ -1,6 +1,6 @@
 # References index — Cold Outreach
 
-These references support **cold-outreach**, version **0.1.1**. The main `../SKILL.md` holds the nine-step procedure, the guardrails, and the output contract. These files carry the depth: the graded evidence under every rule, the two practitioner audits, the lane cards, one worked run, the follow-up and DM material, and the flagged-words list the judge pass sweeps for.
+These references support **cold-outreach**, version **0.1.2**. The main `../SKILL.md` holds the nine-step procedure, the guardrails, and the output contract. These files carry the depth: the graded evidence under every rule, the two practitioner audits, the lane cards, one worked run, the follow-up and DM material, and the flagged-words list the judge pass sweeps for.
 
 ```mermaid
 flowchart TB

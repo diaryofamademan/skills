@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 — 2026-11-16
+
+Plain-copy rewrite of the public descriptions. Wording only. No method changes.
+
 ## 0.1.1 — 2026-11-16
 
 Wording patch, no method changes. The README called the untested advice this skill filters out "folklore"; the author rejected the word as outdated, and it is gone from the README, the marketplace description, and the profile listing. The same point is now made in plain modern words: recycled advice nobody ever tested. The word had also leaked from this framing into launch copy written in the author's voice, where it never belonged; it is now on his voice skill's never-use list.

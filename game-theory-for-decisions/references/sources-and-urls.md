@@ -1,6 +1,6 @@
 # <img src="../assets/icons/link-01.svg" width="20" height="20" alt="" /> Sources and URLs
 
-Full credit table for the **game-theory-for-decisions** skill (v1.0.0). Everything in this skill is **paraphrased** from the sources below.
+Full credit table for the **game-theory-for-decisions** skill (v1.0.1). Everything in this skill is **paraphrased** from the sources below.
 No book chapters, lecture transcripts, or article text are stored in the
 repo. Open this file when verifying an attribution or refreshing a
 paraphrase.

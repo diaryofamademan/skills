@@ -1,12 +1,12 @@
 # <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> write-in-your-voice (open skill)
 
-**A procedure for drafting in a person's real voice, built from how they actually speak.** This skill assembles the evidence base first — a source bank cut from the person's recordings and transcripts — then drafts from their own sentences under a gate that checks shape, not just words.
+**How to draft in a person's real voice, built from how they actually speak.** This skill first builds a bank of the person's own words, cut from their recordings and transcripts. Then it drafts from their own sentences. And it checks the draft's shape, not just its words.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
 An **open, agent-oriented skill** for anyone whose AI drafts keep coming back with "this isn't my voice."
 
-The obvious approach is to feed the model the person's published posts plus a style description. It fails in a specific way: if any of those posts were ghostwritten or AI-generated, the model learns its own voice back to itself, and the style description, however detailed, stays a catalogue the drafter edits toward instead of a source it writes from. This skill starts somewhere else and asks:
+The obvious approach is to feed the model the person's published posts, plus a description of their style. It fails in a way you cannot see. If any of those posts were ghostwritten or written by AI, the model learns its own voice and hands it back. And a style description, however detailed, is only a list the writer edits toward. It is not a source the writer writes from. This skill starts somewhere else, and asks:
 
 1. Where does this person actually talk on the record, and can we get the transcripts?
 2. Which passages show them doing the moves — judging, explaining, warning — rather than doing housekeeping?

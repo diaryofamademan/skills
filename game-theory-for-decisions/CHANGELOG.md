@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 — 2026-11-16
+
+Plain-copy rewrite of the public descriptions. Wording only. No method changes.
+
 ## 1.0.0 — 2026-11-12
 
 First public release. Carries the 0.3.0 fixes:

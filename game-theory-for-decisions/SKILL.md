@@ -1,7 +1,7 @@
 ---
 name: game-theory-for-decisions
 description: "Use when an outcome depends on other actors' choices: map the players, incentives, information, and sequence, find the likely responses, then choose the best move or change the game."
-version: 1.0.0
+version: 1.0.1
 author: Open skills contributors
 license: MIT
 metadata:

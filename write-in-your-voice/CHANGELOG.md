@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.2 — 2026-11-16
+
+Plain-copy rewrite of the public descriptions. Wording only. No method changes.
+
 ## 1.2.1 — 2026-11-16
 
 The shape gate gains a fourth check, the numbers check: every figure in a draft is written the way the person says it out loud, rounded to the spoken form ("more than 304,000 emails," "$307 billion," "about 3 in 4"); a raw precise count (304,174) or a decimal abbreviation ($307.0B) fails. The rule already ran in the author's production pipeline but was not written in the gates, and a launch draft printed 304,174 raw behind them. Exact figures live in the source material; the draft carries the number as speech. No other method changes.

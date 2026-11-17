@@ -1,10 +1,10 @@
 # <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> stop-the-scroll (open skill)
 
-**A procedure for building content whose ends do the work.** This skill hardens AIDA where pieces actually die: the hook and the call to action, each built to stand out in a sea of 100 competing pieces and to stand alone with full context, over a middle that is universal, relatable, and about impact.
+**How to build content whose ends do the work.** Most pieces die at the ends: the hook and the call to action. This skill hardens those two ends of AIDA. Each one is built to stand out among a hundred competing pieces, and to stand alone with nothing around it. The middle between them is written for anyone, and stays about impact.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
-An **open, agent-oriented skill** for any copy that must earn attention in a feed: launch posts and threads, video scripts and outlines, landing pages, announcements.
+An open skill that an AI agent can run, for any copy that has to earn attention in a feed: launch posts and threads, video scripts and outlines, landing pages, announcements.
 
 Most content advice treats a piece as one thing. This skill treats it as three, with different standards for each:
 
@@ -69,4 +69,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.2.1 — current. See `CHANGELOG.md`.
+0.2.3 — current. See `CHANGELOG.md`.

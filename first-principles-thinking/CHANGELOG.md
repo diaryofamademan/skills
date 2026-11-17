@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 1.5.2 — 2026-11-16
+
+- **Wording only, no method change.** Plain-copy rewrite of the public descriptions.
+
 ## 1.5.1 — 2026-11-13
 
 - **Wording fix, no method change.** The second-order pass shipped in

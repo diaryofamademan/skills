@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.3 — 2026-11-16
+
+Plain-copy rewrite of the public descriptions. Wording only. No method changes.
+
 ## 0.2.2 — 2026-11-16
 
 The spoken-numbers rule joins principle 5 and the verification checklist: every number is written the way a person says it out loud, rounded to the spoken form ("more than 304,000 emails," "$307 billion," "about 3 in 4"); a raw precise count (304,174) or a decimal abbreviation ($307.0B) fails. The stats rule already demanded one visible number and no reader math, but it never demanded the spoken form, and finished copy printed a raw count of 304,174 behind it. Exact figures live in the source notes; the copy carries the number as speech. No other changes.

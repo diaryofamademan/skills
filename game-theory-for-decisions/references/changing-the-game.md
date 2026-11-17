@@ -1,6 +1,6 @@
 # Changing the Game
 
-Part of `game-theory-for-decisions`, version 1.0.0.
+Part of `game-theory-for-decisions`, version 1.0.1.
 
 Use this reference after you have found the best response inside the current game and the result is still poor. A best response accepts the players, rules, and scope as fixed. A game-changing move alters one of those features.
 

@@ -1,15 +1,15 @@
 # <img src="assets/icons/megaphone-01.svg" width="20" height="20" alt="" /> comms (open skill)
 
-**A decision procedure for founder communications.** This skill turns "go direct" into a procedure an agent or operator can run, check, and act on — for the announcement you choose to make, the crisis you did not, and the everyday output that decides whether anyone is listening when either one lands.
+**A set of steps for founder communications.** This skill turns "go direct" into steps an agent or an operator can run, check, and act on. It works for the announcement you choose to make, and for the crisis you did not choose. And it works for the everyday posts that decide whether anyone is listening when either one lands.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
-An **open, agent-oriented skill** for announcements, launches, crises, responses, and everyday founder content.
+An open skill that an AI agent can run, for announcements, launches, crises, responses, and the everyday content a founder puts out.
 
 Most communications advice teaches tactics: post more, polish the release, hire the agency. This skill starts with the moment itself and asks:
 
 1. What kind of moment is this, and what is actually at stake?
-2. Who holds the knowledge this enterprise is built on — and is that who is speaking?
+2. Who actually holds the knowledge this company is built on, and is that the person speaking?
 3. What position do we already hold in this audience's mind?
 4. Which claims can the founder make in their own voice, and which ones need a witness?
 5. What happens after we speak — and what will it cost?

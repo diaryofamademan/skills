@@ -1,10 +1,10 @@
 # <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> game-theory-for-decisions (open skill)
 
-**A decision procedure for situations where other people get a move.** This skill turns game theory into a map an agent or operator can build, check, and act on — without inventing payoffs or treating an equilibrium as a prophecy.
+**A set of steps for decisions where other people get a move too.** This skill turns game theory into a map that an agent or an operator can build, check, and act on. It never invents what the other side wants. And it never treats the predicted outcome as a promise.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
-An **open, agent-oriented skill** for negotiations, competition, partnerships, incentives, auctions, and other interdependent decisions.
+An open skill that an AI agent can run, for negotiations, competition, partnerships, pay deals, auctions, and any other decision where someone else's move changes your result.
 
 Most summaries teach labels: Nash equilibrium, Prisoner's Dilemma, zero-sum game. This skill starts with the real decision and asks:
 

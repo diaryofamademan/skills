@@ -1,12 +1,12 @@
 # <img src="assets/icons/mail-01.svg" width="20" height="20" alt="" /> cold-outreach (open skill)
 
-**A procedure for writing cold email and cold DMs that earn replies, built from graded evidence, not recycled advice nobody ever tested.** This skill runs the work in the order the evidence says the result is decided: test the offer, build the batch from a trigger, check the warm path and the history, research one true observation — and only then write the short sequence whose first ask is a question about interest.
+**How to write cold email and cold DMs that earn replies, built from evidence that was checked, not advice nobody ever tested.** This skill runs the work in the order that decides the result. Test the offer. Build the batch from a trigger. Check the warm path and the history. Research one true observation. Only then write the short sequence, whose first ask is a question about interest.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
 An **open, agent-oriented skill** for the first message to someone with no prior relationship, and for the follow-ups that carry most of the replies.
 
-Cold outreach advice is mostly vendor marketing: the company selling the email coach publishes the study that proves its rules. This skill takes a different approach. Every rule carries its evidence — whose dataset, how large, what year, and what grade — and the claims that failed checking are named and excluded:
+Most cold outreach advice is vendor marketing: the company selling the email coaching publishes the study that proves its own rules. This skill takes a different approach. Every rule carries its evidence with it: whose data, how much of it, what year, and how strong it is. And the claims that failed the checking are named and kept out:
 
 1. What actually decides a reply: the offer, the trigger, the list, or the copy?
 2. Which copy rules survive grading, and which are just repeated advice nobody ever tested?
@@ -74,4 +74,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.1 — See `CHANGELOG.md`.
+0.1.2 — See `CHANGELOG.md`.

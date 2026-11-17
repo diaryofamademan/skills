@@ -1,6 +1,6 @@
 # Behavioral Reality Check
 
-Part of `game-theory-for-decisions`, version 1.0.0.
+Part of `game-theory-for-decisions`, version 1.0.1.
 
 Use this reference after a game has been mapped and solved. A formal solution shows what follows from the stated players, payoffs, information, and rationality assumptions. It does not prove that real people will act that way.
 

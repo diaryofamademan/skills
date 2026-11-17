@@ -1,6 +1,6 @@
 # References index — Fix the Bottleneck
 
-These references support **fix-the-bottleneck**, version **0.1.0**. The main `../SKILL.md` holds the seven-step procedure, the guardrails, and the output contract. These files carry the depth: the original method, the math under the map, the accounting that governs trade-offs, the kinds of constraint and their treatments, and one worked case.
+These references support **fix-the-bottleneck**, version **0.1.1**. The main `../SKILL.md` holds the seven-step procedure, the guardrails, and the output contract. These files carry the depth: the original method, the math under the map, the accounting that governs trade-offs, the kinds of constraint and their treatments, and one worked case.
 
 ```mermaid
 flowchart TB
