@@ -143,6 +143,26 @@
         "launches",
         "social-media"
       ]
+    },
+    {
+      "name": "cold-outreach",
+      "source": "./cold-outreach",
+      "description": "A procedure for writing cold email and cold DMs that earn replies, built from graded evidence instead of folklore: test the offer, build the batch from a trigger, check the warm path and history, research one true observation, and ask one question about interest.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ian Balina"
+      },
+      "homepage": "https://github.com/diaryofamademan/skills/tree/main/cold-outreach",
+      "license": "MIT",
+      "category": "sales",
+      "keywords": [
+        "cold-email",
+        "cold-outreach",
+        "outbound",
+        "sales",
+        "copywriting",
+        "evidence"
+      ]
     }
   ]
 }
