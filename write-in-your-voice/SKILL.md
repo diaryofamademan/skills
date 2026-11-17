@@ -1,7 +1,7 @@
 ---
 name: write-in-your-voice
 description: "Build a working voice for a person from how they actually speak, then draft in it: assemble a tiered source bank from their speech (recordings, transcripts, dictations), compose drafts from their own sentences, and gate the result on shape, not just words. Use when setting up AI drafting for a founder, creator, or executive, when drafts keep coming back 'not my voice,' or when a voice profile built from published posts is not working."
-version: 1.2.2
+version: 1.2.3
 ---
 
 # <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> Write in Your Voice

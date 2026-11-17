@@ -77,7 +77,7 @@ flowchart LR
 ## <img src="assets/icons/book-open-01.svg" width="20" height="20" alt="" /> Sources and credits
 
 - This skill is a method, not a summary of a book. It was built in production on the author's own content operation in November 2026, after two launch drafts in three days were rejected on voice while passing every word-level check.
-- Its evidence is the build record, stored in `references/`: the bank statistics (1,149 transcripts, about 224,000 spoken words, 690 passages), the rejected and approved drafts graded side by side, and the kill-rate ledger the method is judged by.
+- Its evidence is the build record, stored in `references/`: the bank statistics (more than 1,100 transcripts, about 224,000 spoken words, 690 passages), the rejected and approved drafts graded side by side, and the kill-rate ledger the method is judged by.
 - The dictation-prompt pattern and the hook-first structure (AIDA) are long-standing public practice in direct response and sales writing, credited here as structure, used on the person's own sentences.
 - Content is **paraphrased**. No copyrighted text is stored in this folder.
 
@@ -94,3 +94,9 @@ MIT — see [`SKILL.md`](./SKILL.md) front matter. Third-party sources remain un
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
 Current skill version: see `version` in [`SKILL.md`](./SKILL.md) front matter. History: [`CHANGELOG.md`](./CHANGELOG.md).
+
+## Get the skill
+
+If the draft does not sound like you, it is not yours, however clean it reads on the screen.
+
+Write in Your Voice is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/write-in-your-voice](https://ianbalina.com/skills/write-in-your-voice/)
