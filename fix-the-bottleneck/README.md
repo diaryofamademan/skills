@@ -1,6 +1,6 @@
 # <img src="assets/icons/target-01.svg" width="20" height="20" alt="" /> fix-the-bottleneck (open skill)
 
-**How to fix the bottleneck in a running system.** This skill turns Goldratt's Theory of Constraints into steps an agent or an operator can run and check. State the goal as throughput. Measure every stage of the chain. Find the one constraint, the stage the queues point at. Then fix what is lost there, in the order that moves the whole system's output.
+**Fixing everything except the one stage that sets the pace?** This skill turns Goldratt's Theory of Constraints into steps an agent or an operator can run and check. State the goal as throughput. Measure every stage of the chain. Find the one constraint, the stage the queues point at. Then fix what is lost there, in the order that moves the whole system's output.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
@@ -73,4 +73,10 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.1 — See `CHANGELOG.md`.
+0.1.2 — See `CHANGELOG.md`.
+
+## Get the skill
+
+An hour saved anywhere but the constraint changes nothing. Find the constraint first, and spend there.
+
+Fix the Bottleneck is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/fix-the-bottleneck](https://ianbalina.com/skills/fix-the-bottleneck/)

@@ -1,7 +1,7 @@
 ---
 name: fix-the-bottleneck
 description: "Use when a running system's output is below target and fixes keep landing without moving it: state the goal as throughput, measure every stage of the chain, identify the one constraint the queues point at, exploit and subordinate before elevating, and repeat when the constraint moves."
-version: 0.1.1
+version: 0.1.2
 author: Open skills contributors
 license: MIT
 metadata:
