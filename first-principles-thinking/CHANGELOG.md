@@ -2,7 +2,7 @@
 
 ## 1.5.2 — 2026-11-16
 
-- **Wording only, no method change.** Plain-copy rewrite of the public descriptions.
+Public copy rewritten in plain spoken words; no method changes. The README opening, the marketplace description, and the listing lines were rewritten so a stranger can follow every line: short sentences, no compressed chains, no labels that assume context the reader does not have. Part of the eight-skill plain-copy pass Ian directed on 2026-11-16, after the skill pages were found to read as robotic.
 
 ## 1.5.1 — 2026-11-13
 
