@@ -1,6 +1,6 @@
 # <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> stop-the-scroll (open skill)
 
-**How to build content whose ends do the work.** Most pieces die at the ends: the hook and the call to action. This skill hardens those two ends of AIDA. Each one is built to stand out among a hundred competing pieces, and to stand alone with nothing around it. The middle between them is written for anyone, and stays about impact.
+**Why does your best post get read and forgotten?** Most pieces die at the ends: the hook and the call to action. This skill hardens those two ends of AIDA. Each one is built to stand out among a hundred competing pieces, and to stand alone with nothing around it. The middle between them is written for anyone, and stays about impact.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> What this is
 
@@ -69,4 +69,10 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.2.3 — current. See `CHANGELOG.md`.
+0.2.4 — See `CHANGELOG.md`.
+
+## Get the skill
+
+Most pieces die at the ends. Build the ends first, and hold the middle to their standard.
+
+Stop the Scroll is free, and it stays free. Get it from its page on my site, and leave an email there to get every update the day it drops: [ianbalina.com/skills/stop-the-scroll](https://ianbalina.com/skills/stop-the-scroll/)

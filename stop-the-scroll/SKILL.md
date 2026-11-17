@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.2.3
+version: 0.2.4
 author: Open skills contributors
 license: MIT
 metadata:
