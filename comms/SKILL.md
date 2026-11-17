@@ -1,7 +1,7 @@
 ---
 name: comms
 description: Founder communications — how a founder names the moment, takes the narrative personally, and says it directly. Covers announcements, launches, crises, and everyday content. Built on Lulu Cheng Meservey's Go Direct doctrine, with narrative structure from Andy Raskin, a positioning diagnostic from Al Ries, distribution from Gary Vaynerchuk, and a plain-writing gate from Paul Graham.
-version: 1.1.0
+version: 1.1.1
 ---
 
 # <img src="assets/icons/megaphone-01.svg" width="20" height="20" alt="" /> comms
@@ -68,6 +68,7 @@ A message that depends on the audience reading your full text has already failed
 Run the plain-writing gate before anything ships:
 
 - Read it aloud. Where it stops sounding like a person talking, it is not finished.
+- Numbers are spoken, not printed. Write every figure the way a person says it out loud, rounded to the spoken form ("more than 304,000 emails," "$307 billion," "about 3 in 4"); a raw precise count (304,174) or a decimal abbreviation ($307.0B) fails the gate. Exact figures live in the source material; the statement carries the number as speech.
 - It must tell the reader something important, something they did not already know, and something true, in words they actually use.
 - Cut every sentence whose purpose is to avoid upsetting somebody. A statement that offends no one informs no one.
 - Keep the edges. An unorthodox founder sanded down into a corporate voice has traded away the only advantage they had.
