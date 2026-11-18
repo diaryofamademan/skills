@@ -163,6 +163,44 @@
         "copywriting",
         "evidence"
       ]
+    },
+    {
+      "name": "positioning",
+      "source": "./positioning",
+      "description": "Decide what a product will be thought of as, on buyer evidence, in a fixed order: what buyers would do instead, what the product uniquely has, what that is worth with proof, who cares most, and the category last. No position ships without named trade-offs. Returns a positioning record a marketing plan can consume directly.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ian Balina"
+      },
+      "homepage": "https://github.com/diaryofamademan/skills/tree/main/positioning",
+      "license": "MIT",
+      "category": "marketing",
+      "keywords": [
+        "positioning",
+        "marketing-strategy",
+        "brand",
+        "go-to-market",
+        "category"
+      ]
+    },
+    {
+      "name": "one-page-marketing-plan",
+      "source": "./one-page-marketing-plan",
+      "description": "Build the whole marketing system on one page: diagnosis first, then nine squares - target, message, media, capture, nurture, convert, experience, lifetime value, referrals - each standing on measured evidence about how buyers behave, with the brand-versus-activation split stated as a hypothesis with a review date.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ian Balina"
+      },
+      "homepage": "https://github.com/diaryofamademan/skills/tree/main/one-page-marketing-plan",
+      "license": "MIT",
+      "category": "marketing",
+      "keywords": [
+        "marketing-plan",
+        "strategy",
+        "brand",
+        "direct-response",
+        "evidence-based-marketing"
+      ]
     }
   ]
 }
