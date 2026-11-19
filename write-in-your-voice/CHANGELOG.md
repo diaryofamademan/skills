@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.5 — 2026-11-19
+
+The word gate hardens on justifications. A flag may now be justified only by the person's own attested speech: their verbatim phrase, their corpus, a term they were quoting. A skill's own house terms — its structural labels and method vocabulary — never justify a flag; when the only defense of a flagged word is the skill's own terminology, the flag stands and the word is rewritten into the person's plain words. Caught on a launch draft that carried two of the skill's house terms, each defended by citing the skill's locked terminology; checked against the author's corpus, one word appears zero times in their speech and the other only as the skill's structural label, never in their words.
+
 ## 1.2.4 — 2026-11-19
 
 The gates now end with the called-in writing pass. After the voice gates, the exact final text runs the work-humanizer skill in rewrite mode as a final register check, then the writing-styles skill's plain rules. The pass is subordinate to the priority rule: any change that fights the source bank loses, because the person's own sentences outrank the pass, always. Facts and figures never change in the pass, and the draft is not finished until the pass has run.
