@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 — 2026-11-19
+
+The output standard now calls in the writing pass. Guardrail 12 states the plain rule, but a run that ships with the rule stated and the pass unrun still reads as a game theorist's memo, and the decision owner skims the verdict the run exists to deliver. The pass runs the work-humanizer skill in rewrite mode over the run's output, then applies the writing-styles skill's plain rules, and the run is not done until the pass has run on the exact text being delivered. Player facts, payoff labels, figures, and quotes never change in the pass.
+
 ## 1.0.2 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. No method changes.

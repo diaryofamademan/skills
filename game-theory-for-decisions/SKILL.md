@@ -1,7 +1,7 @@
 ---
 name: game-theory-for-decisions
 description: "Use when an outcome depends on other actors' choices: map the players, incentives, information, and sequence, find the likely responses, then choose the best move or change the game."
-version: 1.0.2
+version: 1.0.3
 author: Open skills contributors
 license: MIT
 metadata:
@@ -310,6 +310,12 @@ A full run returns these sections, in this order:
 9. **Response plan** — the information calendar, countermoves, triggers, walk-away point, private information, owner, and next action.
 10. **Reasoning trace** — one short sentence per conclusion. Cite the player ID, payoff label, or sequence fact behind it. Mark judgment calls with `judgment`.
 11. **Unknowns that matter** — the smallest evidence that would change the decision.
+
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** Guardrail 12 states the plain rule, but a run that ships with the rule stated and the pass unrun still reads as a game theorist's memo, and the decision owner skims the verdict the run exists to deliver.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the run's output. Player facts, payoff labels, figures, and quotes never change in the pass. What changes is the register.
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+3. **The gate.** The run is not done until the pass has run on the exact text being delivered.
 
 ## Verification checklist
 

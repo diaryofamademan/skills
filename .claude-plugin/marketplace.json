@@ -53,7 +53,7 @@
       "skills": [
         "./game-theory-for-decisions"
       ],
-      "version": "1.0.2",
+      "version": "1.0.3",
       "license": "MIT",
       "keywords": [
         "game-theory",
