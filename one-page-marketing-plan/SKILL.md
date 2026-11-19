@@ -1,7 +1,7 @@
 ---
 name: one-page-marketing-plan
 description: "Use when a business needs its whole marketing system on one page — who it is for, what it says, where it reaches people, how leads are caught, kept, and converted, and what happens after the sale. Runs diagnosis first, then fills Dib's nine squares in order, each square standing on measured evidence about how buyers actually behave, and finishes by stating the brand-versus-activation split as a hypothesis the user's own numbers will judge. Consumes a positioning record when one exists; plans the system that public moments live in."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -140,7 +140,15 @@ Every run returns one page, plus the notes that keep it honest:
 
 **The glance test.** The page is read the way a buyer reads anything: in seconds, once. A reader who gives it one pass comes away with the diagnosis, the nine moves, and the split. If a square needs a second reading, it is rewritten, not explained.
 
-**Write it like a person.** Everything the human reads is written in plain style: short sentences, everyday words, the reasoning explained the way you would say it out loud. Numbers, ratios, and source findings stay exact — evidence never gets paraphrased into softness — but the prose around them stays human. Write bulleted lists loose, a blank line between items, so each point stands on its own. Where a plan will be shown to investors, the hypothesis labels travel with it: the split and the ratios are stated as hypotheses in the plan, and they are never restated as forecasts anywhere the plan is cited.
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** When a marketing plan ships in raw strategy register, the nine squares read as a consultant's grid and the diagnosis and split — the decisions the reader has to judge — hide behind imported terms.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the one-page plan and its evidence notes. Facts, figures, quotes, names, dates, and statuses never change in the pass. What changes is the register.
+
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+
+3. **The gate.** The plan is not done until the pass has run on the exact text being delivered.
+
+Numbers, ratios, and source findings stay exact — evidence never gets paraphrased into softness. Write bulleted lists loose, a blank line between items, so each point stands on its own. Where a plan will be shown to investors, the hypothesis labels travel with it: the split and the ratios are stated as hypotheses in the plan, and they are never restated as forecasts anywhere the plan is cited.
 
 ## Limits and boundaries
 

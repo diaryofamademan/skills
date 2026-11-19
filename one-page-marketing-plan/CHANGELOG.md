@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 — 2026-11-19
+
+The output contract now calls in the writing pass, replacing the one-paragraph write-it-like-a-person rule. When a marketing plan ships in raw strategy register, the nine squares read as a consultant's grid and the diagnosis and split hide behind imported terms. The pass runs the work-humanizer skill in rewrite mode over the one-page plan and its evidence notes, then applies the writing-styles skill's plain rules, and the plan is not done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.
+
 ## 0.1.0 — 2026-11-18
 
 First build. The skill takes a widely used practitioner skeleton — Allan Dib's nine squares, Before, During, After, on one page — and rebuilds what each square stands on, because the skeleton's own evidence is practice-grade and some of its sub-claims are assertion. Every square in this build stands on a named, measured source, labeled with where it was measured. Three layers the skeleton does not have were added around it: a diagnosis step before the grid, a budget layer over the grid, and a chain-in from the positioning skill at the message square.
