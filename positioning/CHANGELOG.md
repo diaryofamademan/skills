@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 — 2026-11-19
+
+The output contract now calls in the writing pass, replacing the one-paragraph write-it-like-a-person rule. When a positioning record ships in raw strategy register, the owned concept reads as internal jargon and the record stops sounding like the buyers it is meant to win. The pass runs the work-humanizer skill in rewrite mode over the positioning record, then applies the writing-styles skill's plain rules, and the record is not done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.
+
 ## 0.1.0 — 2026-11-18
 
 First build. Positioning was built as its own skill rather than a section inside a marketing plan or a messaging guide, because the decision it runs — what position a company owns — is upstream of both: the one-page-marketing-plan skill's message square consumes this skill's record, comms says the position in public, and fundraising borrows it for a raise. A decision three other skills depend on gets its own procedure, its own gate, and its own output contract.

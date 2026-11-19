@@ -1,7 +1,7 @@
 ---
 name: positioning
 description: "Use when a company or product needs to decide what it will be thought of as — before a launch, a repositioning, a new segment, or any moment where the market's current answer is vague, borrowed, or wrong. Works five components in order (competitive alternatives, unique attributes, value with proof, best-fit customers, market category last), then passes the result through a strategy gate of named trade-offs and a parity-versus-difference test, and returns a positioning record: the owned concept, the category, the named alternatives, the best-fit customers, and the trade-offs, in a form a marketing plan can consume directly."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -222,7 +222,15 @@ Measures:             <how landing will be read: retrieval at entry points, conc
 Evidence gaps:        <where the buyer evidence was thin, and what would close it>
 ```
 
-**Write it like a person.** Everything the human reads is written in plain style: short sentences, everyday words, the reasoning explained the way you would say it out loud. Buyer quotes, proof figures, and the statement stay exact — they are evidence — but the prose around them stays human. The owned concept is written in the buyers' vocabulary, not the company's internal terms; if a phrase needs a glossary, it is not the concept. Write bulleted lists loose, a blank line between items, so each point stands on its own.
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** When a positioning record ships in raw strategy register, the owned concept reads as internal jargon and the record stops sounding like the buyers it is meant to win.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the positioning record, including the chain-out block and the supporting record. Facts, figures, quotes, names, dates, and statuses never change in the pass. What changes is the register.
+
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+
+3. **The gate.** The positioning record is not done until the pass has run on the exact text being delivered.
+
+Buyer quotes, proof figures, and the statement stay exact — they are evidence. The owned concept is written in the buyers' vocabulary, not the company's internal terms; if a phrase needs a glossary, it is not the concept. Write bulleted lists loose, a blank line between items, so each point stands on its own.
 
 ## Limits and boundaries
 

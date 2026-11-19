@@ -168,7 +168,7 @@
       "name": "positioning",
       "source": "./positioning",
       "description": "Decide what a product will be thought of as, on buyer evidence, in a fixed order: what buyers would do instead, what the product uniquely has, what that is worth with proof, who cares most, and the category last. No position ships without named trade-offs. Returns a positioning record a marketing plan can consume directly.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Ian Balina"
       },
