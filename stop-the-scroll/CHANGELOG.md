@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.5 — 2026-11-19
+
+What a run returns now calls in the writing pass. When a build or review run ships in raw workshop register, the tests and scores drown the copy itself, and a review reads as a checklist instead of a verdict the author can act on. The pass runs the work-humanizer skill in rewrite mode over the piece in its final form and over the run's returned verdicts and review report, then applies the writing-styles skill's plain rules, and neither is done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.
+
 ## 0.2.4 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. No method changes.

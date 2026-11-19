@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.2.4
+version: 0.2.5
 author: Open skills contributors
 license: MIT
 metadata:
@@ -81,6 +81,14 @@ A **build run** returns:
 4. **The cut list**: material removed under need-to-know, named so the author can restore anything cut in error.
 
 A **review run** returns the piece scored principle by principle (the thirteen in [`references/the-13-principles.md`](references/the-13-principles.md)), each marked pass or fail with the offending line quoted, and the rebuild order: ends before middle, always.
+
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** When a build or review run ships in raw workshop register, the tests and scores drown the copy itself, and a review reads as a checklist instead of a verdict the author can act on.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the piece in its final form and over the run's returned verdicts and review report. Facts, figures, quotes, names, dates, and statuses never change in the pass. What changes is the register.
+
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+
+3. **The gate.** The piece and the run's return are not done until the pass has run on the exact text being delivered.
 
 ## Core procedure
 
