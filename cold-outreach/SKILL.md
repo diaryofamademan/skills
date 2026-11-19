@@ -1,7 +1,7 @@
 ---
 name: cold-outreach
 description: "Use when writing a first message to someone with no prior relationship — a cold email or cold DM — or judging one: test the offer, build the batch from a trigger, check the warm path and the history first, research one true observation, and write a short sequence whose first ask is a question about interest, with every rule labeled by the evidence behind it."
-version: 0.1.3
+version: 0.1.4
 author: Open skills contributors
 license: MIT
 metadata:
@@ -131,6 +131,12 @@ The final follow-up makes **"no" free**, in plain words: a no closes it, no hard
 Score every email against the verification checklist at the end of this skill — as a separate, cold pass, not as the last motion of drafting. A drafter grading their own draft in the same pass reads what they meant, not what is on the page, and the failures that matter most — one formal word, a buried ask, a sentence carrying three ideas — are exactly the ones the drafter cannot see in their own text. So the judging happens apart: the draft is read as if a stranger wrote it, every checklist item checked against the actual lines, failing lines quoted. Where a second reader exists, they judge; where none does, the pass still happens separately, after a break from the drafting.
 
 Return the batch in the output contract's order, with word counts and verdicts, for the operator's approval. Present the batch so approval is cheap: the batch definition and the gate results first, then the emails grouped by recipient, failures flagged at the top. Nothing sends from inside this skill, and a draft the operator has not approved does not exist as far as the prospect is concerned.
+
+**Then run the writing pass, on every email in the batch, before the batch returns. This step calls two sibling skills. It is a procedure, not a style reminder.** The form rules in steps 6 and 7 describe the target register; a batch judged only against them still ships with the drafter's stiffness in it, and one formal word is the failure this skill's own judging names first.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over each email — the first touch and both follow-ups. The observation, the hypothesis, the offer, the proof points, and every figure never change in the pass. What changes is the register.
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them.
+3. **The gate.** No batch returns for approval until the pass has run on the exact final text of every email in it.
 
 ### Judging a sent batch
 

@@ -148,7 +148,7 @@
       "name": "cold-outreach",
       "source": "./cold-outreach",
       "description": "How to write cold email and cold DMs that earn replies, built from evidence that was checked, not advice nobody ever tested. Test the offer. Build the batch from a trigger. Check the warm path and the history. Research one true observation. Ask one question about interest.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "author": {
         "name": "Ian Balina"
       },

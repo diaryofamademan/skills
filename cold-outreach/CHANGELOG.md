@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 — 2026-11-19
+
+Step 8 now calls in the writing pass, on every email in the batch, before the batch returns. The form rules in steps 6 and 7 describe the target register; a batch judged only against them still ships with the drafter's stiffness in it. The pass runs the work-humanizer skill in rewrite mode over each email, then applies the writing-styles skill's plain rules, and no batch returns for approval until the pass has run on the exact final text of every email in it. The observation, the hypothesis, the offer, the proof points, and every figure never change in the pass.
+
 ## 0.1.3 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. The dataset figures in the README sources section are restated in spoken numbers; the exact figures stay in references/the-evidence.md. No method changes.
