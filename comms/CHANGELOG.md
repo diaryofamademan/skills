@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.4 — 2026-11-19
+
+Step 5 now calls in the writing pass. A statement drafted against the plain-writing bullets and shipped without the pass still lands in committee register — the bullets describe the target, they do not move the text there. The pass runs the work-humanizer skill in rewrite mode over the statement, then applies the writing-styles skill's plain rules, and nothing ships until the pass has run on the exact final text. Facts, figures, quotes, and names never change in the pass.
+
 ## 1.1.3 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. No method changes.

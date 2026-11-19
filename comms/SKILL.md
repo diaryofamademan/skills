@@ -1,7 +1,7 @@
 ---
 name: comms
 description: Founder communications — how a founder names the moment, takes the narrative personally, and says it directly. Covers announcements, launches, crises, and everyday content. Built on Lulu Cheng Meservey's Go Direct doctrine, with narrative structure from Andy Raskin, a positioning diagnostic from Al Ries, distribution from Gary Vaynerchuk, and a plain-writing gate from Paul Graham.
-version: 1.1.3
+version: 1.1.4
 ---
 
 # <img src="assets/icons/megaphone-01.svg" width="20" height="20" alt="" /> comms
@@ -72,6 +72,12 @@ Run the plain-writing gate before anything ships:
 - It must tell the reader something important, something they did not already know, and something true, in words they actually use.
 - Cut every sentence whose purpose is to avoid upsetting somebody. A statement that offends no one informs no one.
 - Keep the edges. An unorthodox founder sanded down into a corporate voice has traded away the only advantage they had.
+
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** A statement drafted against the bullets above and shipped without the pass still lands in committee register — the bullets describe the target, they do not move the text there.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the statement. Facts, figures, quotes, and names never change in the pass. What changes is the register.
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result — the bullets above are this step's local summary of them: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+3. **The gate.** Nothing ships until the pass has run on the exact final text. If the statement still reads like a committee wrote it, the pass is not done. Run it again.
 
 ### <img src="assets/icons/rocket-01.svg" width="20" height="20" alt="" /> 6. Go direct
 
