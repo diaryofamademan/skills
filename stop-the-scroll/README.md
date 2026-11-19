@@ -29,9 +29,10 @@ The frame is AIDA, the oldest structure in advertising. The thirteen principles 
 flowchart LR
   A["1. Build the hook<br/>question, universal, stands alone"] --> B["2. Build the body<br/>simple, impact, need-to-know"]
   B --> C["3. Build the CTA<br/>a jab, stands alone, eased link"]
-  C --> D["4. Format<br/>short paragraphs, flowing sentences"]
-  D --> E["5. Check the drafting<br/>direction is not copy"]
-  E --> A
+  C --> D["4. Run the variation round<br/>10 complete variations per post, two tests"]
+  D --> E["5. Format<br/>short paragraphs, flowing sentences"]
+  E --> F["6. Check the drafting<br/>direction is not copy"]
+  F --> A
 ```
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> How to use with an agent

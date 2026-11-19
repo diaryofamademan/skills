@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0 — 2026-11-19
+
+The variation round joins the core procedure as step 4. Every post in a piece — the hook, every load-bearing middle post, and the call to action — gets 10 complete variations, each a whole post built from a different angle, not a word swap. Every variation is judged against the sea-of-100 test and the stand-alone test, the piece is built from the per-post winners, and the reason each winner won is recorded in the build notes so the judgment can be audited. The ends are locked only after the round. Steps 5 and 6 are the old steps 4 and 5, unchanged. The change came from a launch build that drafted one hook per post and kept the first that passed: a single draft was never tested against the sea.
+
 ## 0.2.5 — 2026-11-19
 
 What a run returns now calls in the writing pass. When a build or review run ships in raw workshop register, the tests and scores drown the copy itself, and a review reads as a checklist instead of a verdict the author can act on. The pass runs the work-humanizer skill in rewrite mode over the piece in its final form and over the run's returned verdicts and review report, then applies the writing-styles skill's plain rules, and neither is done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.

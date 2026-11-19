@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.2.5
+version: 0.3.0
 author: Open skills contributors
 license: MIT
 metadata:
@@ -22,9 +22,10 @@ metadata:
 flowchart LR
   A["1. Build the hook<br/>question, universal, stands alone"] --> B["2. Build the body<br/>simple, impact, need-to-know"]
   B --> C["3. Build the CTA<br/>a jab, stands alone, eased link"]
-  C --> D["4. Format<br/>short paragraphs, flowing sentences"]
-  D --> E["5. Check the drafting<br/>direction is not copy"]
-  E --> A
+  C --> D["4. Run the variation round<br/>10 complete variations per post, two tests"]
+  D --> E["5. Format<br/>short paragraphs, flowing sentences"]
+  E --> F["6. Check the drafting<br/>direction is not copy"]
+  F --> A
 ```
 
 ## Sources
@@ -132,12 +133,26 @@ When the story sets a metaphor, the later beats **call back to it by name**: the
 
 The story must also stop the scroll: the sea-of-100 test applies to it, not just to the ends. A boring story is raw material, not an excuse — the job is to take a boring story and make it exciting. The treatment: **name the character** (a named person sticks where "one slow kid" slides off), **give one concrete detail** (one picture does the work of a paragraph), **give the stuck beat its own short line**, **lean on the backwards turn, ending on an image** of the result rather than a summary of it, and **give the story stakes** — a deadline, a cost, or something at risk, stated in the setup, so the story has something that can be lost. And the story gets a **logic pass** alongside the stand-alone and punchy tests: every physical claim in it must hold together under a plain reading. A reader who stops to question how the story works has stopped scrolling for the wrong reason.
 
-### 4 — Format
+### 4 — Run the variation round
+
+Steps 1 to 3 produce first drafts, not finals. Before any post in the piece is locked, every post goes through the round:
+
+- **Ten complete variations per post.** The hook, every load-bearing middle post, and the call to action each get 10 full drafts. A complete variation is a whole post built from a different angle: a different question, a different entry into the story, a different proof, a different jab. Ten versions of one sentence with the words moved around count as one variation, not ten.
+
+- **Judge every variation against the two tests.** Sea-of-100: would this post stop a scroll in a full feed? Stand-alone: does it carry its full context for a reader who sees only this post? A variation that fails either test is out, however good it sounded in the workshop.
+
+- **Build the piece from the winners.** One winner per post. A thread of five or six posts means 50 to 60 candidates. That is the honest cost of the tests: a hook picked from a single draft was never tested against the sea, it was only written.
+
+- **Record why each winner won.** One line per post in the build notes, naming what the winner passed that the others failed. The judgment has to be auditable later. "It felt stronger" is not a reason.
+
+The ends are locked only after the round. A hook or a call to action is never final because it was written first.
+
+### 5 — Format
 
 - **Paragraphs of one to two sentences** (principle 12). Sentences inside a paragraph flow together as prose; never one sentence per line.
 - One blank line between paragraphs. In a thread, each post is a paragraph group, and the hook post and the call-to-action post are each complete on their own (steps 1 and 3).
 
-### 5 — Check the drafting
+### 6 — Check the drafting
 
 - **Direction is not copy** (principle 13). Re-read the author's instructions alongside the draft. Anything the author said *about* the piece (an example jab, a naming aside, a side comment) that appears *in* the piece verbatim is removed, unless the author explicitly marked it as copy.
 - Read the piece aloud once. The ends should sound like the same person who wrote the middle, and the whole should sound like something said, not something typeset.
@@ -163,6 +178,7 @@ Before calling a piece done, confirm:
 - [ ] Nothing in the piece is there only because it is true or interesting; everything serves the reader or the action.
 - [ ] The call to action is a jab with a point of view, not a generic ask.
 - [ ] The call to action stands alone: idea, name, and link, full context.
+- [ ] The variation round ran: 10 complete variations for the hook, every load-bearing middle post, and the call to action, each judged against the sea-of-100 and stand-alone tests, and the reason each winner won is recorded in the build notes.
 - [ ] In a thread: the story post carries its own setup and stands alone, transitions are bridge lines inside the posts, and the beat before the call to action is the big win.
 - [ ] The story passes the sea-of-100 test: named character, one concrete detail, the stuck beat on its own short line, a backwards turn, an ending on an image not a summary, and stakes stated in the setup.
 - [ ] The story passes the logic pass: every physical claim in it holds together under a plain reading, with no step a reader would stop to question.
