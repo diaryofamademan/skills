@@ -1,7 +1,7 @@
 ---
 name: fix-the-bottleneck
 description: "Use when a running system's output is below target and fixes keep landing without moving it: state the goal as throughput, measure every stage of the chain, identify the one constraint the queues point at, exploit and subordinate before elevating, and repeat when the constraint moves."
-version: 0.1.2
+version: 0.1.3
 author: Open skills contributors
 license: MIT
 metadata:
@@ -89,6 +89,14 @@ Every run of this skill returns, in this order:
 6. **Elevate list**: capacity or redesign moves, in Musk's Algorithm order, each with its expected effect on the stage rate and on system throughput.
 7. **The re-measure plan**: the window, the rates that will be re-read, and the done rule — the throughput level that counts as the fix having worked.
 8. **The inertia watch**: the rules and holds written for previous constraints that this run flags for audit at the next repeat.
+
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** When a bottleneck run ships in raw operations register, its rates and stage names bury the one constraint verdict the reader has to act on.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the run's return: the goal, the chain map, the constraint verdict, and the exploit, subordinate, and elevate lists. Facts, figures, quotes, names, dates, and statuses never change in the pass. What changes is the register.
+
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+
+3. **The gate.** The run's return is not done until the pass has run on the exact text being delivered.
 
 ## Core procedure
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 — 2026-11-19
+
+What a run returns now calls in the writing pass. When a bottleneck run ships in raw operations register, its rates and stage names bury the one constraint verdict the reader has to act on. The pass runs the work-humanizer skill in rewrite mode over the run's return — the goal, the chain map, the constraint verdict, and the exploit, subordinate, and elevate lists — then applies the writing-styles skill's plain rules, and the return is not done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.
+
 ## 0.1.2 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. No method changes.
