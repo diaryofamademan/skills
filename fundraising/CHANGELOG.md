@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 3.3.5 — 2026-11-19
+
+The output standard now calls in the writing pass. A pipeline report or draft outbound that ships in process register gets skimmed by the approver, and the decision the report exists to surface gets skimmed with it. The pass runs the work-humanizer skill in rewrite mode over the status report and over every draft outbound, then applies the writing-styles skill's plain rules, and neither is done until the pass has run on the exact text being delivered. Figures, terms, names, and dates never change in the pass.
+
 ## 3.3.4 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. The What this is opening now opens on the reader's situation. No method changes.

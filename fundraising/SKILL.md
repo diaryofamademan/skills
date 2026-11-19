@@ -1,7 +1,7 @@
 ---
 name: fundraising
 description: "Use when raising capital or selling a business: startup seed/venture rounds, GP fund raises from LPs, or company M&A/strategic exits—shared competitive process (pipeline, ABC, lead/anchor, second offer, deadline close) plus track-specific playbooks from Startup Seed Raising Skilzzz, curated X posts, and the Fundraising YouTube playlist."
-version: 3.3.4
+version: 3.3.5
 author: Open skills contributors
 license: MIT
 metadata:
@@ -289,6 +289,12 @@ LOI economics before exclusivity → confirmatory diligence (+ sell-side QoE) �
 - Lead with **bottom line** and **decisions for approver**.
 - Label **track** and separate **shared core**, **source attributions**, **book** (`references/book-lessons.md`), **article** (`references/article-lessons.md`), **interview** (`references/interview-lessons.md`) paraphrases, **Straight Line Persuasion Module 7 (paraphrase)**, **general knowledge**, and **Optional — Web3**.
 - Cite URLs for philosophy; cite pipeline rows for operational facts.
+
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** A pipeline report or draft outbound that ships in process register gets skimmed by the approver, and the decision the report exists to surface gets skimmed with it.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the status report and over every draft outbound — email, DM, intro ask, follow-up. Figures, terms, names, and dates never change in the pass. What changes is the register.
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+3. **The gate.** The report, and any draft outbound in it, is not done until the pass has run on the exact text being delivered.
 
 ## Verification checklist
 
