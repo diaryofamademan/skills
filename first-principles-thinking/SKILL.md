@@ -1,7 +1,7 @@
 ---
 name: first-principles-thinking
 description: "Use when a decision, design, cost, or strategy looks trapped by convention: strip it to fundamental truths that carry named evidence, price the raw inputs where money is involved, and rebuild a better option from the floor up instead of reasoning by analogy."
-version: 1.5.3
+version: 1.5.4
 author: Open skills contributors
 license: MIT
 metadata:
@@ -202,6 +202,12 @@ Lead with the **decision and the recommendation**. Then, in this order:
 9. **The fix list, with owners** — every fix names who can do it and what blocks it. Mark each fix `do-now` (the worker can do it under standing authority) or `decide-first` (name the decider and the one fact or tap they need). A fix with no owner is a wish, not a plan.
 
 Label every number as **measured**, **market-priced**, **documented**, or **estimated**. Never blend them silently. Prices also carry their provenance (`published`, `quoted`, or unobservable without a transaction), statistics always carry their **sample size, source, and date**, and every compared term names the source whose document states it.
+
+**Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** Guardrail 11 states the plain rule, but a finished analysis that ships with the rule stated and the pass unrun still reads as an analyst's memo, and the reader skims the reasoning trace that carries the answer.
+
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the report. Truths, floor math, evidence labels, and figures never change in the pass. What changes is the register.
+2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
+3. **The gate.** The report is not done until the pass has run on the exact text being delivered.
 
 ## Verification checklist
 

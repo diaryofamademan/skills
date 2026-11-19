@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 1.5.4 — 2026-11-19
+
+The output standard now calls in the writing pass. Guardrail 11 states the plain rule, but a finished analysis that ships with the rule stated and the pass unrun still reads as an analyst's memo, and the reader skims the reasoning trace that carries the answer. The pass runs the work-humanizer skill in rewrite mode over the report, then applies the writing-styles skill's plain rules, and the report is not done until the pass has run on the exact text being delivered. Truths, floor math, evidence labels, and figures never change in the pass.
+
 ## 1.5.3 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. No method changes.
