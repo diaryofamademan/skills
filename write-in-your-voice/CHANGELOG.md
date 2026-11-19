@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.4 — 2026-11-19
+
+The gates now end with the called-in writing pass. After the voice gates, the exact final text runs the work-humanizer skill in rewrite mode as a final register check, then the writing-styles skill's plain rules. The pass is subordinate to the priority rule: any change that fights the source bank loses, because the person's own sentences outrank the pass, always. Facts and figures never change in the pass, and the draft is not finished until the pass has run.
+
 ## 1.2.3 — 2026-11-16
 
 Stop-the-scroll pass over the README. The opening now starts from the reader's question instead of describing the skill, and the README closes with a Get the skill block pointing to the skill's page on ianbalina.com, where the email form lives. The source-bank statistics in the README are restated in spoken numbers. No method changes.

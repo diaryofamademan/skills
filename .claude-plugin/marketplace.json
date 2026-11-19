@@ -85,7 +85,7 @@
       "name": "write-in-your-voice",
       "source": "./write-in-your-voice",
       "description": "Build a working voice for a person from how they actually speak, then draft in it. Build a bank of their own words from their speech, kept in a fixed order, most trusted first. Draft from their own sentences. Check the words, and check the shape of the draft too. And keep a record of which drafts the person kills.",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "author": {
         "name": "Ian Balina"
       },
