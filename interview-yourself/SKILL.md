@@ -1,0 +1,131 @@
+---
+name: interview-yourself
+description: "Use when a person wants content from their own lived experience but cannot face a blank page (a founder, an expert, an operator with more experience than time to write): an AI interviewer that asks questions a stranger already cares about, with the receipt drawn from the subject's own week and the numbers researched and attached, so the subject answers out loud in about thirty seconds and the answers become posts."
+version: 0.1.0
+author: Open skills contributors
+license: MIT
+metadata:
+  tags: [content, interviews, voice-notes, questions, personal-brand, social-media]
+---
+
+# <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> interview-yourself
+
+> **How to read this**
+>
+> - **Agents:** Follow **Agent guardrails** and the **Core procedure** literally. No question ships without passing the gate: the universal subject named, the receipt identified, the numbers attached and checked.
+> - **Humans:** Read the five rules and the gate. If a question you were asked could have been answered by a dashboard, it was a bad question, and this skill exists to never ask it.
+> - **Index:** [`references/README.md`](references/README.md) · **Public overview:** [`README.md`](README.md)
+
+**The interviewer is a universal journalist, and the subject is you.** The skill's whole job is the questions. It does not draft: turning the answers into posts belongs to the voice skill and the structure skill, where they exist. See **Limits and boundaries**.
+
+```mermaid
+flowchart LR
+  A["1. Find the universal subject<br/>a stranger already cares"] --> B["2. Attach the receipt<br/>the subject's own story and proof"]
+  B --> C["3. Do the homework<br/>numbers researched, checked, attached"]
+  C --> D["4. Ask<br/>answerable out loud in thirty seconds"]
+  D --> A
+```
+
+## The principle
+
+People with something to say rarely lack material. They lack a good question at the moment they could answer it. Left alone, an interviewer (human or machine) mines the subject's workday for topics, and the workday is procedure: dashboards, tickets, meetings, process. Procedure is not content, because nobody outside the job cares about it before hearing the take, and a question that needs the subject's job to matter dies with a stranger.
+
+The fix is to split the question in two. The **topic** comes from the universal subjects, the things the world already argues about: money, failure, starting over, who to trust, what a machine should and should not do. The subject's week and work supply only the **receipt**: the story, the numbers, the proof that this person has earned a take on the topic. Topic from the world, receipt from the life. A question built that way is answerable out loud, from opinion, in about thirty seconds, and a stranger can feel why it matters before the answer starts.
+
+## What a run returns
+
+A set of questions (default three), delivered when the subject will actually answer them, not at the system's convenience. Each question is delivered with four parts:
+
+- **The question itself**, worded to be answered out loud.
+
+- **The universal subject** it hangs on, named in plain words.
+
+- **The receipt**: the specific story, result, or moment from the subject's own work or week that earns the take.
+
+- **The numbers attached**, researched and checked by the interviewer before asking, each with its source named.
+
+The delivery is written the way a person would say it out loud: short plain sentences, no jargon, bold only on the few facts that matter. A set that arrives as homework (questions the subject must research to answer) has failed, whatever its topics were.
+
+## Core procedure
+
+### 1 — Universal subject first (the stranger test)
+
+Every question starts from a subject a stranger already cares about before hearing this person's take: money, failure, starting over, trust, ambition, what machines are doing to work, the things the world argues about. The test: state the topic without mentioning the subject's job, company, or industry. If it still sounds like something a stranger would stop for, it passes. If the topic needs the job to matter, it dies here, and no receipt rescues it.
+
+### 2 — The receipt rule
+
+The subject's week and work supply the receipt, never the topic. The receipt is the proof that this person has lived the universal subject: the pivot they actually made, the number their own work produced, the failure they paid for. Mining the workday for topics yields procedure, and procedure is not content. Mining it for receipts yields stories, and stories are what make a universal subject this person's post and nobody else's.
+
+### 3 — Homework first
+
+The interviewer researches and fact-checks the numbers and attaches them to the question before asking. The subject riffs; the subject never reports. A question that asks the subject to supply data (what a dashboard shows, what the figures are, how many users did a thing) has the work backwards and fails. Where a number is public, the interviewer finds it, checks it, and names its source. Where a number is the subject's own, the interviewer takes it from material the subject has already shared with it, and says so.
+
+### 4 — The riff test
+
+Every question must be answerable out loud in about thirty seconds, from opinion, with no lookup. Read the question once and imagine the subject answering while walking. If they would need to check something, open something, or think about what the facts are rather than what they think, the question fails. Opinion is instant; reporting is homework.
+
+### 5 — Role rotation
+
+Questions rotate across the subject's roles (founder, investor, operator, advisor, parent, student of a craft: whatever theirs are) so a set never collapses onto one role, and never onto process. Three questions from three different roles beat three questions from the same desk. When a set is built, name each question's role in the build notes; a set that cannot name three roles has not rotated.
+
+### The gate
+
+No question ships without all three:
+
+- **(a) The universal subject named.** One line, no job words in it.
+
+- **(b) The receipt identified.** The specific story or result, not "their experience in the field."
+
+- **(c) The numbers attached and checked.** Researched by the interviewer, sources named; or an explicit note that the question needs no numbers and why.
+
+The named failure mode is degradation into generic question lists: questions any interviewer could ask anyone, or report-the-data questions mined from the subject's tools. The gate exists to prevent exactly that. A question that fails the gate is rebuilt or dropped; a set ships short rather than padded.
+
+## Agent guardrails
+
+- **Questions only.** This skill never drafts the post. The answers go to the voice skill (how the subject sounds) and the structure skill (how a piece is built), where they exist. Drafting here, in the interviewer's own words, would put words in the subject's mouth before they have said anything.
+
+- **Never invent a number or a receipt.** A number the interviewer could not check does not get attached; a receipt the subject never lived does not get claimed. An honest "no receipt found, subject dropped" beats a plausible invention every time.
+
+- **Never ask the subject to report.** If answering requires the subject to look something up, the interviewer does the looking up first, or the question is rebuilt until it does not.
+
+- **Receipts come from what the subject shares with their own agent.** Their calendar, their messages, their work, their past answers: the material already in the room. The interviewer does not go digging into other people's information to build a receipt, and private material about third parties is never a receipt.
+
+- **Deliver when the subject will answer.** A set that lands at a moment the subject cannot talk is a set that dies. Timing is part of the question's quality, not a scheduling detail.
+
+## Limits and boundaries
+
+- **Not the voice skill.** A voice skill (for example, write-in-your-voice) governs how the subject sounds and drafts their answers into finished posts in their voice. This skill ends at the question. Run it first: interview-yourself produces the answers, the voice skill produces the posts.
+
+- **Not the structure skill.** A structure skill (for example, stop-the-scroll) governs how a finished piece is built: its hook, its body, its call to action. The answers this skill produces are raw material for that build, not a substitute for it.
+
+- **Not comms.** Whether the subject should speak on a topic at all, and what a moment requires, is a communications decision. This skill assumes the decision to speak is made and produces questions inside it.
+
+- **The subject is the user.** This is a self-interview method: the interviewer and the subject work for the same person. Interviewing someone else for publication is journalism, with consent and accuracy duties this skill does not cover.
+
+- **No audience is promised.** A universal subject raises a question's chance of mattering to strangers; it does not guarantee reach. The durable part is the discipline: topic from the world, receipt from the life, homework done by the interviewer.
+
+## Verification checklist
+
+Before calling a set done, confirm:
+
+- [ ] Every question names its universal subject in one line, with no job words in it.
+
+- [ ] Every question's receipt is a specific story, result, or moment the subject actually lived.
+
+- [ ] No topic was mined from the subject's workday procedure.
+
+- [ ] Every number in the set was researched and checked by the interviewer, with its source named, or the question carries an explicit no-numbers note.
+
+- [ ] No question asks the subject to supply data or look anything up.
+
+- [ ] Every question passes the riff test: answerable out loud in about thirty seconds, from opinion.
+
+- [ ] The set rotates across at least two, and where possible three, of the subject's roles.
+
+- [ ] No post was drafted. The output is questions, with their subjects, receipts, and numbers attached.
+
+- [ ] The set is delivered at a time the subject can actually answer out loud.
+
+## Sources
+
+The method was distilled from a production run: an agent interviewing its own user daily, where the failure came first (a full set of process-mined, report-the-data questions, rejected wholesale as unanswerable homework) and the rules were written from what replaced it. The worked example in the references tells that story in de-identified form. The underlying craft is the oldest one in interviewing: a good question is a gift of attention, asked about something the listener already cares about, of the one person whose life proves they have earned the answer.

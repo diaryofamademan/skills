@@ -201,6 +201,25 @@
         "direct-response",
         "evidence-based-marketing"
       ]
+    },
+    {
+      "name": "interview-yourself",
+      "description": "An AI interviewer that asks questions a stranger already cares about, with the receipt from your own week and the numbers attached, so your answers out loud become posts.",
+      "source": "./interview-yourself",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ian Balina"
+      },
+      "homepage": "https://ianbalina.com/skills/interview-yourself/",
+      "license": "MIT",
+      "category": "content",
+      "keywords": [
+        "interviews",
+        "content",
+        "voice-notes",
+        "questions",
+        "personal-brand"
+      ]
     }
   ]
 }
