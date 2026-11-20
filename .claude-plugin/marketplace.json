@@ -206,7 +206,7 @@
       "name": "interview-yourself",
       "description": "An AI interviewer that asks questions a stranger already cares about, with the receipt from your own week and the numbers attached, so your answers out loud become posts.",
       "source": "./interview-yourself",
-      "version": "0.1.0",
+      "version": "0.1.3",
       "author": {
         "name": "Ian Balina"
       },

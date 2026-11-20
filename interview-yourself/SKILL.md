@@ -1,7 +1,7 @@
 ---
 name: interview-yourself
 description: "Use when a person wants content from their own lived experience but cannot face a blank page (a founder, an expert, an operator with more experience than time to write): an AI interviewer that asks questions a stranger already cares about, with the receipt drawn from the subject's own week and the numbers researched and attached, so the subject answers out loud in about thirty seconds and the answers become posts."
-version: 0.1.0
+version: 0.1.3
 author: Open skills contributors
 license: MIT
 metadata:
@@ -44,7 +44,7 @@ A set of questions (default three), delivered when the subject will actually ans
 
 - **The numbers attached**, researched and checked by the interviewer before asking, each with its source named.
 
-The delivery is written the way a person would say it out loud: short plain sentences, no jargon, bold only on the few facts that matter. A set that arrives as homework (questions the subject must research to answer) has failed, whatever its topics were.
+The delivery is written the way a person would say it out loud: short plain sentences, no jargon, bold only on the few facts that matter. **The question is delivered clean: the question itself, standing on its own, short enough to answer while walking.** The subject, the receipt, and the numbers are the interviewer's working record, kept with the set and shown when the subject asks why a question earned its place. They are never wrapped around the question as apparatus. A question that arrives buried in its own paperwork has failed the riff test before it is read, whatever its topic was. A set that arrives as homework (questions the subject must research to answer) has failed, whatever its topics were.
 
 ## Core procedure
 
@@ -79,6 +79,38 @@ No question ships without all three:
 - **(c) The numbers attached and checked.** Researched by the interviewer, sources named; or an explicit note that the question needs no numbers and why.
 
 The named failure mode is degradation into generic question lists: questions any interviewer could ask anyone, or report-the-data questions mined from the subject's tools. The gate exists to prevent exactly that. A question that fails the gate is rebuilt or dropped; a set ships short rather than padded.
+
+### Launch interviews
+
+When the run's purpose is launching the subject's own work (a skill, a product, a book, a company), the interview is about the work. The answers become the landing page and the launch post, so the set must draw out four things: why the work exists, what makes it different, the maker's unique lived experience behind it, and what it is worth to a stranger.
+
+Tee every question up. A real interviewer never hops into a bare question: each one carries a sentence or two of setup first, written for a listener who has never heard of the subject or the work. The setup hands the stranger the context and hands the subject his own story, positioned so his answer lands. Then one clean question. The setup is conversation, not paperwork: it reads the way a good host talks.
+
+Build the set as an arc: the person, the problem, the build, the proof. A launch set that could be asked of anyone has failed. The universal subjects still come first, but in a launch interview they are aimed: each one opens the door to the work, and the tee-up is where the subject's specific life enters.
+
+**After the answers: the drafting pipeline.** A normal run ends at the question. A launch run does not: the answers become copy, and the interviewer stays responsible for that copy until the subject has approved every surface it ships on. Drafting still follows the subject's voice rules, and the structure skill where one exists; the pipeline below is the interviewer's half of the work, the part that keeps the subject's own claims and words intact on the way to the page. Five steps, in order:
+
+- **1 — Claim check on the answers.** The homework rule covers the questions; it extends to the answers. Before anything is drafted, the interviewer verifies every checkable claim in what the subject said: the figures, the comparisons, the named facts. A spoken claim is often loose: rounded, compressed, remembered wrong. Where a claim is loose, the interviewer brings the subject the evidence and the choice of the defensible version. The interviewer never prints an unchecked claim, and never silently changes the subject's claim either. The subject decides, with the numbers in front of them.
+
+- **2 — Stress test the core claim.** Once a first draft exists, the interviewer attacks the piece's central claim with the hardest question a smart skeptic would ask it. If the claim survives, the language that survives the attack usually sharpens the copy, and it goes in. If the claim does not survive, it is fixed or cut before the subject reviews anything. A claim the interviewer never tried to break is a claim the audience gets to break instead.
+
+- **3 — The drafting contract.** No draft reaches the subject until it passes the subject's own voice and format rules: paragraphs of one to two sentences, vocabulary drawn from the subject's attested speech and never from the skill's own house terms, the subject's punctuation rules. A draft that breaks the format rules is not ready for review, whatever its content. Format failures are the interviewer's to catch, not the subject's.
+
+- **4 — The edit round is a second interview.** When the subject edits a line, the edit is information, not just correction. An edit that changes scope, tense, or agency changes the claim itself: who it covers, how long it has been true, who did it. The interviewer mines each edit for the claim underneath it, applies that claim, and propagates it to every surface. Patching only the sentence the subject touched is a failure mode: the piece keeps saying the old claim everywhere else.
+
+- **5 — One master copy.** A launch ships on several surfaces: a page, a post per platform. Every edit lands in a single master copy first, and each surface derives from the master. Before any surface ships, the interviewer checks it against the master. A surface that ships a version behind is a launch defect, even when the stale version was approved earlier: approval attaches to the master, not to a snapshot.
+
+For a launch run, before calling the launch done, confirm:
+
+- [ ] Every checkable claim in the answers was verified, and every loose claim was decided by the subject with the evidence shown.
+
+- [ ] The core claim was attacked with the hardest skeptic question, and the result is in the copy: sharpened, fixed, or cut.
+
+- [ ] Every draft the subject saw had already passed their voice and format rules.
+
+- [ ] Every subject edit was mined for the claim underneath it, and that claim was propagated to all surfaces.
+
+- [ ] Every surface was checked against the one master copy before it shipped.
 
 ## Agent guardrails
 

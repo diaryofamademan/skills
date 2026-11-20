@@ -27,6 +27,6 @@ if bad: sys.exit(f"BROKEN IMG PATHS: {bad}")
 print("OK: all img src paths resolve")
 fm = (root / "SKILL.md").read_text().split("---")[1]
 assert "name: interview-yourself" in fm, "frontmatter name"
-assert "version: 0.1.0" in fm, "frontmatter version"
-print("OK: frontmatter name interview-yourself, version 0.1.0")
+assert "version: 0.1.3" in fm, "frontmatter version"
+print("OK: frontmatter name interview-yourself, version 0.1.3")
 PY

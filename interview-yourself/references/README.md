@@ -1,6 +1,6 @@
 # References — interview-yourself
 
-These references support **Interview Yourself**, version **0.1.0**. The main `../SKILL.md` holds the procedure and the gate. These files carry the depth: the worked example the method was distilled from, told in de-identified form, and the five rules as pass-and-fail question pairs you can grade your own sets against.
+These references support **Interview Yourself**, version **0.1.2**. The main `../SKILL.md` holds the procedure and the gate. These files carry the depth: the worked example the method was distilled from, told in de-identified form, and the five rules as pass-and-fail question pairs you can grade your own sets against.
 
 ## Index
 

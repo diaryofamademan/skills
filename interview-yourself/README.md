@@ -59,7 +59,7 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.0 — See `CHANGELOG.md`.
+0.1.3 — See `CHANGELOG.md`.
 
 ## Get the skill
 

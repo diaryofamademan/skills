@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.1.3 — 2026-11-19
+
+Launch mode grows a drafting pipeline: the five steps that run after the answers, while the copy is being built and reviewed. A claim check on the answers (the homework rule, extended from the questions to every checkable claim the subject made, with loose claims decided by the subject on shown evidence). A stress test that attacks the piece's core claim with the hardest skeptic question before the subject reviews. A drafting contract: no draft reaches the subject until it passes their voice and format rules. The edit round treated as a second interview, where a subject's edit is mined for the claim underneath it and that claim is propagated to every surface. And one master copy that every surface derives from and is checked against before shipping. From the first full launch-interview run, where the interview itself held and every failure came after the answers: an unchecked spoken figure carried into three drafts, a core claim sharpened only when the subject attacked it himself, a draft that reached the subject breaking his own format rules, edits patched sentence by sentence, and one surface nearly shipping a version behind.
+
+## 0.1.2 — 2026-11-19
+
+Launch interviews get their own mode. When the run's purpose is launching the subject's own work, the interview is about the work: why it exists, what makes it different, the maker's unique lived experience, and what it is worth to a stranger. Every question is teed up: a sentence or two of setup, written for a listener who has never heard of the subject or the work, then one clean question. The set is built as an arc: the person, the problem, the build, the proof. From the first launch field test, where three rounds of questions failed in three different ways: buried in gate paperwork, generic enough to ask anyone, and mined from the skill's own procedure. A bare universal question with no tee-up was the last failure: universal is where the topic comes from, not how the question is asked.
+
+## 0.1.1 — 2026-11-19
+
+Delivery fix, from the first field test of the launch process. The output contract now states that the question is delivered clean: standing on its own, short enough to answer while walking. The universal subject, the receipt, and the numbers stay in the interviewer's working record, shown when the subject asks, and are never wrapped around the question as apparatus. In the test, a set that arrived with its gate paperwork attached read as homework and was rejected on sight, even though every question in it passed the gate. The gate grades the interviewer's work; it is not part of what the subject receives.
+
 ## 0.1.0 — 2026-11-19
 
 First release. The method: an AI interviewer that interviews the user to turn their lived experience into content. Five rules (universal subject first, the receipt rule, homework first, the riff test, role rotation) and a hard gate: no question ships without the universal subject named, the receipt identified, and the numbers attached and checked. The output contract delivers each question with those three parts shown, at a time the subject can answer. The boundary is stated against the sibling skills: this skill produces questions and answers; drafting in the subject's voice and structuring the piece belong to the voice and structure skills. The worked example is de-identified by design: the production run the method was distilled from, told as shapes only.
