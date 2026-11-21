@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: first-principles at the strip-down, fundraising when the game is a raise.
+
 ## 1.0.3 — 2026-11-19
 
 The output standard now calls in the writing pass. Guardrail 12 states the plain rule, but a run that ships with the rule stated and the pass unrun still reads as a game theorist's memo, and the decision owner skims the verdict the run exists to deliver. The pass runs the work-humanizer skill in rewrite mode over the run's output, then applies the writing-styles skill's plain rules, and the run is not done until the pass has run on the exact text being delivered. Player facts, payoff labels, figures, and quotes never change in the pass.
