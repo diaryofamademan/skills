@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.2 — 2026-11-21
+
+Icons on the rendered canvas. The field test's grid shipped clean but bare; the Strategyzer sheet it is modeled on carries an icon in every block header, and the house standard for visual work is the Hugeicons free library.
+
+- **The output contract names the icon library.** Every block header on the rendered canvas carries a Hugeicons (free version) icon chosen for what the block means — stroke style, one consistent weight. Icons sit on structural elements only (block headers, section markers); an icon that carries no meaning is decoration and does not ship. The field test's canvas was regenerated under the rule: an alert mark on Problem, a bulb on Solution, a diamond on the value proposition, a shield on Unfair Advantage, a route on Channels, a money bag on Revenue Streams, and the rest to match.
+
 ## 0.1.1 — 2026-11-21
 
 Field-test format fix, from field test 1 (a real company's canvas, filed the same day). The first filed record shipped in analyst prose — long, dense verdict sections — even though the output contract already carried a plain-style writing pass. The pass governed the canvas record but never named the field-test record, so the human-read parts of the filed test escaped it.

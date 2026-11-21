@@ -1,7 +1,7 @@
 ---
 name: business-model-canvas
 description: "Use when a founder or team needs to state, test, or redraw how a business makes money: a fit test first picks the right sheet — the Lean Canvas while the model is still being searched for, the nine-block Business Model Canvas once it is found — then the sheet is filled from evidence, zoomed at the value proposition, checked against the environment the sheet omits, and finished with the deliverable that matters: the riskiest assumptions, ranked, each with its next test."
-version: 0.1.1
+version: 0.1.2
 author: Open skills contributors
 license: MIT
 metadata:
@@ -139,7 +139,7 @@ Redraw if:            <the named events that force a re-run>
 Review date:          <when this canvas is next re-examined, trigger or not>
 ```
 
-**The rendered canvas is a required deliverable.** Every run also returns the canvas drawn: the chosen sheet as a filled grid in the Strategyzer layout — titled blocks, short entries, readable at a glance — delivered as a PDF and an image alongside the text record. Entries are shortened only to fit the grid; the evidence and assumption labels are kept, and the fit verdict rides on the sheet. A text record alone does not meet this contract — the canvas is a visual instrument, and a run that returns only prose has not delivered it.
+**The rendered canvas is a required deliverable.** Every run also returns the canvas drawn: the chosen sheet as a filled grid in the Strategyzer layout — titled blocks, short entries, readable at a glance — delivered as a PDF and an image alongside the text record. Entries are shortened only to fit the grid; the evidence and assumption labels are kept, and the fit verdict rides on the sheet. Each block header carries an icon from **Hugeicons (free version)** — the house icon library — chosen for what the block means, in the library's stroke style at one consistent weight. Icons sit on structural elements only, block headers and section markers; an icon that carries no meaning is decoration and does not ship. A text record alone does not meet this contract — the canvas is a visual instrument, and a run that returns only prose has not delivered it.
 
 **Then run the writing pass. This step is a procedure, not a style reminder.** When a record ships in workshop register, the blocks fill with template language — "leverage synergies," "target demographic" — and the assumptions list loses the plain statement of what might be false that makes it usable.
 
@@ -191,6 +191,6 @@ Before calling a run done, confirm:
 
 - [ ] The writing pass ran on the exact text delivered — humanizer, then plain style.
 
-- [ ] The rendered canvas shipped with the record: the filled grid as a PDF and an image, labels kept, verdict on the sheet.
+- [ ] The rendered canvas shipped with the record: the filled grid as a PDF and an image, labels kept, verdict on the sheet, Hugeicons on every block header.
 
 - [ ] If this run is filed as a field test: the record opens with a plain verdict section, and its verdict sections are written plain in their own right.
