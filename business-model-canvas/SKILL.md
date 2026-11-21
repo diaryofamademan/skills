@@ -139,6 +139,8 @@ Redraw if:            <the named events that force a re-run>
 Review date:          <when this canvas is next re-examined, trigger or not>
 ```
 
+**The rendered canvas is a required deliverable.** Every run also returns the canvas drawn: the chosen sheet as a filled grid in the Strategyzer layout — titled blocks, short entries, readable at a glance — delivered as a PDF and an image alongside the text record. Entries are shortened only to fit the grid; the evidence and assumption labels are kept, and the fit verdict rides on the sheet. A text record alone does not meet this contract — the canvas is a visual instrument, and a run that returns only prose has not delivered it.
+
 **Then run the writing pass. This step is a procedure, not a style reminder.** When a record ships in workshop register, the blocks fill with template language — "leverage synergies," "target demographic" — and the assumptions list loses the plain statement of what might be false that makes it usable.
 
 1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the record. Facts, figures, labels, and statuses never change in the pass. What changes is the register.
@@ -188,5 +190,7 @@ Before calling a run done, confirm:
 - [ ] Only one version of the canvas exists in the record — the operating sheet, assumptions visible.
 
 - [ ] The writing pass ran on the exact text delivered — humanizer, then plain style.
+
+- [ ] The rendered canvas shipped with the record: the filled grid as a PDF and an image, labels kept, verdict on the sheet.
 
 - [ ] If this run is filed as a field test: the record opens with a plain verdict section, and its verdict sections are written plain in their own right.

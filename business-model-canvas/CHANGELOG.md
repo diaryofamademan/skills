@@ -8,6 +8,8 @@ Field-test format fix, from field test 1 (a real company's canvas, filed the sam
 
 - **Verdict sections are plain in their own right.** The fit verdict and the verdict on the skill must be written plain, not summarized plainly over dense prose. The output contract names the human-read parts of a field-test record — the opening and every verdict — as plain-style territory; working detail below the opening may stay as dense as the evidence needs. A checklist item carries the requirement into the pre-delivery pass.
 
+- **The rendered canvas is now a required deliverable of every run.** The same field test made the second gap plain: the run returned a text record, and the reader expected the canvas itself — the filled grid, in the Strategyzer layout. The output contract now requires it: the chosen sheet drawn as a grid visual, delivered as a PDF and an image alongside the record, entries shortened only to fit, evidence and assumption labels kept, the fit verdict on the sheet.
+
 ## 0.1.0 — 2026-11-21
 
 First build. One skill, two sheets: a fit test decides whether the business is still searching for its model (the Lean Canvas) or executing one it has found (the nine-block Business Model Canvas), the chosen sheet is filled from evidence with every guess labeled, and the run finishes where the sheet's value actually is — a ranked list of the riskiest assumptions, each with the cheapest test that could kill it.
