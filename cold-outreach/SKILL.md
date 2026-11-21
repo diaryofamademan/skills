@@ -1,7 +1,7 @@
 ---
 name: cold-outreach
 description: "Use when writing a first message to someone with no prior relationship — a cold email or cold DM — or judging one: test the offer, build the batch from a trigger, check the warm path and the history first, research one true observation, and write a short sequence whose first ask is a question about interest, with every rule labeled by the evidence behind it."
-version: 0.1.4
+version: 0.1.5
 author: Open skills contributors
 license: MIT
 metadata:
@@ -141,6 +141,16 @@ Return the batch in the output contract's order, with word counts and verdicts, 
 ### Judging a sent batch
 
 When a batch has run, diagnose it by stage before rewriting anything — the funnel diagnostic. **Low replies** point at the message or the audience: the trigger, the segment, or the copy. **A healthy reply rate with a low positive share** points at the offer: people answered, and what they heard did not appeal — return to step 0, not to the copy. **Positive replies that do not book** point at the ask: what happens after the reply. Fix one stage at a time and re-measure; changing the offer, the list, and the copy in one batch teaches nothing. Judge against the operator's own previous batches in the same lane — positive replies and meetings per batch, and the approval time the batch cost. Vendor headline rates are not benchmarks: measured honestly per send, large datasets put total replies between 0.45% and about 1.5% for cold volume campaigns, with roughly one reply in five to seven positive — see the benchmarks in [`references/follow-ups-and-dms.md`](references/follow-ups-and-dms.md).
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **Before drafting, call positioning** — the offer's position and the segment's awareness stage set the angle; outreach written before the position exists is written twice.
+
+- **At the opener, call stop-the-scroll** — the first line is a hook with a job, built and tested under that skill's rules.
+
+- **At drafting, call write-in-your-voice** — the note sounds like the sender's attested voice, not like a template wearing their name.
 
 ## Limits and boundaries
 
