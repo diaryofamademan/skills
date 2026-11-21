@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.6 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: comms at drafting, stop-the-scroll for public posts.
+
 ## 1.2.5 — 2026-11-19
 
 The word gate hardens on justifications. A flag may now be justified only by the person's own attested speech: their verbatim phrase, their corpus, a term they were quoting. A skill's own house terms — its structural labels and method vocabulary — never justify a flag; when the only defense of a flagged word is the skill's own terminology, the flag stands and the word is rewritten into the person's plain words. Caught on a launch draft that carried two of the skill's house terms, each defended by citing the skill's locked terminology; checked against the author's corpus, one word appears zero times in their speech and the other only as the skill's structural label, never in their words.
