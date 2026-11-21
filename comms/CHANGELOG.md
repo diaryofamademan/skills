@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.5 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: stop-the-scroll for public messages, write-in-your-voice when a named person must sound like themselves.
+
 ## 1.1.4 — 2026-11-19
 
 Step 5 now calls in the writing pass. A statement drafted against the plain-writing bullets and shipped without the pass still lands in committee register — the bullets describe the target, they do not move the text there. The pass runs the work-humanizer skill in rewrite mode over the statement, then applies the writing-styles skill's plain rules, and nothing ships until the pass has run on the exact final text. Facts, figures, quotes, and names never change in the pass.
