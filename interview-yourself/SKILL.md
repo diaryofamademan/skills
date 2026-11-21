@@ -1,7 +1,7 @@
 ---
 name: interview-yourself
 description: "Use when a person wants content from their own lived experience but cannot face a blank page (a founder, an expert, an operator with more experience than time to write): an AI interviewer that asks questions a stranger already cares about, with the receipt drawn from the subject's own week and the numbers researched and attached, so the subject answers out loud in about thirty seconds and the answers become posts."
-version: 0.1.3
+version: 0.1.4
 author: Open skills contributors
 license: MIT
 metadata:
@@ -111,6 +111,16 @@ For a launch run, before calling the launch done, confirm:
 - [ ] Every subject edit was mined for the claim underneath it, and that claim was propagated to all surfaces.
 
 - [ ] Every surface was checked against the one master copy before it shipped.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **In the drafting pipeline, call write-in-your-voice** — the answers become copy in the subject's attested voice; the interview supplies the substance, the voice skill governs the sound.
+
+- **When the output is a launch post, call stop-the-scroll** — the opening earns the read under that skill's tests, built from the answers, never from a brief.
+
+- **At the interview's framing, call comms** — each question is set up for its audience: the universal subject named, the reason it matters stated before the ask.
 
 ## Agent guardrails
 
