@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: fundraising at valuation, game-theory at the counterparty read, comms at reply drafting.
+
 ## 0.1.2 — 2026-11-19
 
 Step 1 gains a reputation check beside the sender screen: an online-reviews pass for every inquiry that clears it, and a custody test for advertisers whose business holds their customers' money — a specific search for the trapped-funds complaint pattern (blocked withdrawals, refused refunds, verification excuses that appear at payout time, payouts marked paid that never arrived), with a light due-diligence pass before any draft with terms exists. Guardrail 10 states the rule, and the output contract's second part now carries what the reputation check showed. The test is industry-blind, carries no company specifics, and is labeled practitioner practice.
