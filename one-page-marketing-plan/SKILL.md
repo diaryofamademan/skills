@@ -1,7 +1,7 @@
 ---
 name: one-page-marketing-plan
 description: "Use when a business needs its whole marketing system on one page — who it is for, what it says, where it reaches people, how leads are caught, kept, and converted, and what happens after the sale. Runs diagnosis first, then fills Dib's nine squares in order, each square standing on measured evidence about how buyers actually behave, and finishes by stating the brand-versus-activation split as a hypothesis the user's own numbers will judge. Consumes a positioning record when one exists; plans the system that public moments live in."
-version: 0.3.2
+version: 0.3.3
 author: Open skills contributors
 license: MIT
 metadata:
@@ -123,6 +123,16 @@ The layer over the grid, made explicit. The full treatment is in `references/the
 7. **One page.** The plan fits on one page, a sentence or two per square, readable at a glance. If it does not fit, the choices have not been made yet — length is where unmade choices hide.
 
 8. **After money stays fenced.** Spending in the After squares is justified by measured customer value (square 8) and measured referral yield (square 9), and it does not draw on the Before budget without a stated change to the split.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At Squares 1–2, call positioning** — the target market and the message rest on the adopted position; if none exists, positioning runs first and the plan waits.
+
+- **At Square 3's creative, call stop-the-scroll** — channel copy must earn attention in the active seconds the square records, under that skill's tests.
+
+- **At the plan's economics, call business-model-canvas** — when no current canvas exists, the model the plan serves is drawn first; a plan for an unstated model is a budget in search of a business.
 
 ## Output contract
 
