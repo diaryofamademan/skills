@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: first-principles at the evidence step, comms at the statement step, one-page-marketing-plan as the handoff.
+
 ## 0.2.0 — 2026-11-21
 
 The diagnostic half of Eugene Schwartz's *Breakthrough Advertising* joins the skill. Schwartz was checked for across the marketing skills and was in none of them; what enters here is his diagnosis — two stages, named before a position is stated — and nothing else of the book.
