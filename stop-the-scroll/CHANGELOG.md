@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: write-in-your-voice at drafting, positioning at the position check, comms for the message's job.
+
 ## 0.4.0 — 2026-11-21
 
 Claude Hopkins joins the skill as its testing backbone. The thirteen principles and the two tests judge a piece before it ships; nothing in the skill judged it after, and winners were picked by taste wherever no count existed. *Scientific Advertising* (1923) supplies the missing half.
