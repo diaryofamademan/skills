@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: write-in-your-voice in the drafting pipeline, stop-the-scroll for launch posts, comms at the framing.
+
 ## 0.1.3 — 2026-11-19
 
 Launch mode grows a drafting pipeline: the five steps that run after the answers, while the copy is being built and reviewed. A claim check on the answers (the homework rule, extended from the questions to every checkable claim the subject made, with loose claims decided by the subject on shown evidence). A stress test that attacks the piece's core claim with the hardest skeptic question before the subject reviews. A drafting contract: no draft reaches the subject until it passes their voice and format rules. The edit round treated as a second interview, where a subject's edit is mined for the claim underneath it and that claim is propagated to every surface. And one master copy that every surface derives from and is checked against before shipping. From the first full launch-interview run, where the interview itself held and every failure came after the answers: an unchecked spoken figure carried into three drafts, a core claim sharpened only when the subject attacked it himself, a draft that reached the subject breaking his own format rules, edits patched sentence by sentence, and one surface nearly shipping a version behind.
