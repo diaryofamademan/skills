@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.3 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps:
+
+- **Step 0 calls first-principles-thinking** — the fit test reads the business's state off a decomposition to measured terms, not off the business's self-description.
+
+- **Step 3 calls game-theory-for-decisions** — the environment pass's partner and channel reading is run as a game, and the incentive map it returns is what the pass records.
+
+- **Step 4 calls fix-the-bottleneck** — the top-ranked assumption is treated as the system's constraint, and its kill test is sequenced first.
+
 ## 0.1.2 — 2026-11-21
 
 Icons on the rendered canvas. The field test's grid shipped clean but bare; the Strategyzer sheet it is modeled on carries an icon in every block header, and the house standard for visual work is the Hugeicons free library.
