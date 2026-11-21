@@ -1,7 +1,7 @@
 ---
 name: game-theory-for-decisions
 description: "Use when an outcome depends on other actors' choices: map the players, incentives, information, and sequence, find the likely responses, then choose the best move or change the game."
-version: 1.0.3
+version: 1.0.4
 author: Open skills contributors
 license: MIT
 metadata:
@@ -293,6 +293,14 @@ Use fast mode for a small decision or a live exchange. Answer five questions:
 5. What is our best reply, and what reply will it trigger?
 
 Fast mode still requires evidence labels and the privacy guardrail. It does not permit invented payoffs.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At the strip-down, call first-principles-thinking** — players, payoffs, and rules are established from bedrock facts, not from how the situation is usually described.
+
+- **When the game is a raise or a priced negotiation, call fundraising** — the money craft that runs the mapped game to a close: sequencing, anchoring, and the ask.
 
 ## Output standard
 
