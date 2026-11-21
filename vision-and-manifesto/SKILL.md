@@ -1,7 +1,7 @@
 ---
 name: vision-and-manifesto
 description: "Use when a founder or leadership team needs a vision, a mission, or a manifesto that does work: one core set of beliefs, written at three lengths — the vision as a picturable future scene with a quantifiable objective and milestones, the mission as the work now, and a manifesto only when a named public job exists for it. Built on the measured vision research, and finished only when the statements pass a decision gate: they change real decisions about hiring, firing, and money."
-version: 0.1.2
+version: 0.1.3
 author: Open skills contributors
 license: MIT
 metadata:
@@ -94,7 +94,7 @@ Every load-bearing claim in the procedure is labeled here with where it was meas
 
 ### Step 0 — Excavate the beliefs
 
-Beliefs are read out of evidence, not brainstormed. Gather what the company has already paid for: decisions that cost something — the customer refused, the hire not made, the money not taken, the feature killed, the standard defended when it was expensive. Interview the founder or leadership for those moments and the reasoning given at the time. The beliefs that recur across costly decisions are the core candidates. A belief nobody has ever paid for is an aspiration; it may enter the vision's future scene, but it is labeled as aspiration and never dressed as a founding belief. The excavation also names the anti-beliefs: what this company will not become, stated as plainly as what it will.
+Beliefs are read out of evidence, not brainstormed. Gather what the company has already paid for: decisions that cost something — the customer refused, the hire not made, the money not taken, the feature killed, the standard defended when it was expensive. Interview the founder or leadership for those moments and the reasoning given at the time. The beliefs that recur across costly decisions are the core candidates. A belief nobody has ever paid for is an aspiration; it may enter the vision's future scene, but it is labeled as aspiration and never dressed as a founding belief. The excavation also names the anti-beliefs: what this company will not become, stated as plainly as what it will. **Sibling call — first-principles-thinking:** the excavation runs as a decomposition — the company stripped to the decisions it has actually paid for, bedrock evidence — and no belief enters on the strength of how the company talks about itself.
 
 ### Step 1 — Time-travel: write the scene first
 
@@ -116,7 +116,7 @@ Compress the scene into the vision statement, on the NASA pattern: **one aspirat
 
 ### Step 3 — Draft the mission
 
-The mission is the same core in the present tense: the work the company does now, for whom, and what changes because it does it. One or two sentences. Tests: it names the work specifically enough that a different company's mission could not be swapped in unnoticed; it is true today, not at the milestone horizon; and it fits the vision as its first milestone's engine — the mission is how the scene gets built, stated as today's job.
+The mission is the same core in the present tense: the work the company does now, for whom, and what changes because it does it. One or two sentences. Tests: it names the work specifically enough that a different company's mission could not be swapped in unnoticed; it is true today, not at the milestone horizon; and it fits the vision as its first milestone's engine — the mission is how the scene gets built, stated as today's job. **Sibling call — comms:** with both statements drafted, test them as communication before the gate — who must be able to repeat each one, and what the hearer must be able to do differently because they heard it.
 
 ### Step 4 — The decision gate
 
@@ -128,11 +128,21 @@ The statements now face the gate, in full in [`references/the-decision-gate.md`]
 
 ### Step 5 — The manifesto module (gated)
 
-Only if the record names a public job for it: **recruiting self-selection** (the beliefs must filter who applies, in both directions), **movement-building** (the company is asking people who will never buy to join something), or **belief-as-product** (the belief is itself part of what is sold). With the job named, the manifesto is written from the same core at public length — the beliefs in order, the scene in full, what the company refuses, and the invitation the named job requires. The module's full rules are in [`references/manifesto-module.md`](references/manifesto-module.md). Without a named job, this step is skipped and the record states that it was skipped, and why.
+Only if the record names a public job for it: **recruiting self-selection** (the beliefs must filter who applies, in both directions), **movement-building** (the company is asking people who will never buy to join something), or **belief-as-product** (the belief is itself part of what is sold). With the job named, the manifesto is written from the same core at public length — the beliefs in order, the scene in full, what the company refuses, and the invitation the named job requires. The module's full rules are in [`references/manifesto-module.md`](references/manifesto-module.md). Without a named job, this step is skipped and the record states that it was skipped, and why. **Sibling call — stop-the-scroll, when the module fires:** a manifesto with a named public job is public writing, built to move people who were not looking for it; its opening and its invitation are built and tested under that skill's rules.
 
 ### Step 6 — Measures and review
 
 The record closes with how the statements will be kept honest: the **image test** repeated on new hires at intervals (can they picture it), the **mapping test** repeated as roles change, and a **decision log** — the running list of decisions the statements actually changed, reviewed on a stated date. A vision whose decision log stays empty for two review cycles is due for the gate again, from Step 0: either the beliefs were never real, or the company has drifted from them, and the record should say which.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **Step 0 calls first-principles-thinking** — the excavation decomposes the company to the decisions it has paid for, so beliefs are read off bedrock, not brainstormed off self-description.
+
+- **Step 3 calls comms** — the drafted statements are tested as communication: who must repeat them, and what the hearer must be able to do differently, before the gate judges them as decisions.
+
+- **Step 5 calls stop-the-scroll, when the manifesto module fires** — a manifesto with a named public job is public writing; its opening and invitation are built under that skill's rules.
 
 ## Output contract — the vision record
 
