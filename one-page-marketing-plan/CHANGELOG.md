@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1 — 2026-11-21
+
+The skill's public name is rendered as Dib styles it: **1-Page Marketing Plan**, with the numeral — not "One-Page Marketing Plan," and never shortened to "one page plan." The rendering is applied where the package names the skill: the README heading, the SKILL.md title, and the references index (whose version line is also brought current). The folder slug stays `one-page-marketing-plan`, and the frontmatter name with it; nothing about the method changes.
+
 ## 0.3.0 — 2026-11-21
 
 Square 3 states what each surface can honestly expect, in seconds. Karen Nelson-Field's attention research was already cited in the square and graded in the nine-squares reference, vendor caveat and all; what was missing was the recorded expectation, one release after 0.2.0 added the recorded awareness stage beside it.

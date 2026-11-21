@@ -1,14 +1,14 @@
 ---
 name: one-page-marketing-plan
 description: "Use when a business needs its whole marketing system on one page — who it is for, what it says, where it reaches people, how leads are caught, kept, and converted, and what happens after the sale. Runs diagnosis first, then fills Dib's nine squares in order, each square standing on measured evidence about how buyers actually behave, and finishes by stating the brand-versus-activation split as a hypothesis the user's own numbers will judge. Consumes a positioning record when one exists; plans the system that public moments live in."
-version: 0.3.0
+version: 0.3.1
 author: Open skills contributors
 license: MIT
 metadata:
   tags: [marketing-plan, strategy, brand, direct-response, evidence-based-marketing]
 ---
 
-# <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> one-page-marketing-plan
+# <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> 1-Page Marketing Plan
 
 > **How to read this**
 >

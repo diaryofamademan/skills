@@ -1,4 +1,4 @@
-# <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> one-page-marketing-plan (open skill)
+# <img src="assets/icons/check-list.svg" width="20" height="20" alt="" /> 1-Page Marketing Plan (open skill)
 
 **The whole marketing system on one page — diagnosed first, then built square by square on evidence about how buyers actually behave.** Nine squares in Allan Dib's order: target market, message, media; capture, nurture, convert; experience, lifetime value, referrals. But no square stands on a guru's say-so where the square has been measured. Reach stands on the Ehrenberg-Bass buying laws. The message stands on distinctive-asset measurement. Follow-up stands on lead-response audits. Lifetime value stands on probability models, estimated and holdout-tested, never asserted. Referrals stand on a tracked cohort with a reward capped by the measured value gap. And over the whole grid, one stated line: how much of the effort builds memory among people not buying yet, and how much harvests the demand that exists — held as a hypothesis, with a review date, because the databank behind the starting ratio is award entries, not a random sample.
 

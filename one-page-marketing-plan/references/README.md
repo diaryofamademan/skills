@@ -1,6 +1,6 @@
 # References
 
-The depth material for the one-page-marketing-plan skill, version **0.1.0**. `SKILL.md` carries the procedure; these files carry the diagnosis method that runs before the grid, the nine squares in full with their evidence, the split layer that runs over the grid, and a worked example it points to.
+The depth material for the 1-Page Marketing Plan skill, version **0.3.1**. `SKILL.md` carries the procedure; these files carry the diagnosis method that runs before the grid, the nine squares in full with their evidence, the split layer that runs over the grid, and a worked example it points to.
 
 | File | What it holds |
 | --- | --- |
