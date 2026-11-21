@@ -1,7 +1,7 @@
 ---
 name: first-principles-thinking
 description: "Use when a decision, design, cost, or strategy looks trapped by convention: strip it to fundamental truths that carry named evidence, price the raw inputs where money is involved, and rebuild a better option from the floor up instead of reasoning by analogy."
-version: 1.5.4
+version: 1.5.5
 author: Open skills contributors
 license: MIT
 metadata:
@@ -69,7 +69,7 @@ Rule of thumb: reserve this skill for decisions that are **expensive, hard to re
 11. **Write the output plain.** Explanations, traces, and conclusions follow plain-language discipline (ISO 24495-1, with ASD-STE100 sentence habits): short sentences, one idea per sentence, active voice, plain words, no semicolons, no jargon without a plain gloss on first use. A trace line is one sentence. If a conclusion needs a paragraph to explain, the chain is not clear yet — fix the chain, not the paragraph. Technical terms, code strings, and evidence stay verbatim; the prose around them stays plain.
 12. **Name what the money bought.** State what a charge paid for before you floor it or index it. Price a thing against its own kind. An idiot index against the wrong floor misleads more than no index at all.
 13. **Absence needs the whole record.** A partial source supports "not seen in this source" and nothing stronger. Every absence claim names its source and its scope. One inbox, one ledger, or one dashboard view is a scope, not the world.
-14. **Check the instruments before you call a measurement missing.** Search the credential vault for an API key. Search every mailbox and record the subject touches. A measurement behind a login you hold is not missing. It is unfetched.
+14. **Check the instruments before you call a measurement missing.** A measurement behind a login or a key you already hold for this work is not missing. It is unfetched — fetch it through the access you hold. The rule covers retrieval only: never extract a credential, move one somewhere new, or search beyond the records the subject of the analysis touches.
 15. **A first-order win is not a verified win.** Every option sets things in motion that are not anyone's move: loops, cycles, adaptation, decay. Ask "and then what?" of the rebuild and of the status quo before ranking (Step 6). A chain link needs a mechanism and a confidence label (`follows`, `likely`, `possible`). A consequence without a mechanism is a worry, and it belongs in the assumption list, not the chain. Two questions deep, two horizons, then decide.
 
 ## The one idea
@@ -182,6 +182,14 @@ Load [`references/techniques.md`](references/techniques.md) when a step stalls:
 | Feynman rebuild / teach test | Step 3 and 7: "What I cannot create, I do not understand" — if you cannot rebuild it or teach it plainly, you do not yet know it |
 | Inversion (Munger) | Step 6: ask what would guarantee failure, then check the rebuild avoids it |
 | Second-level thinking (Marks) | Step 6: trace the systemic consequences of both options — loops, cycles, adaptation, decay — two questions deep at two horizons ([`references/consequence-chains.md`](references/consequence-chains.md)) |
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **When the decomposition's unknowns are other actors' choices, call game-theory-for-decisions** — bedrock facts about players and payoffs replace bedrock guesses about what people will do.
+
+- **When the problem is a flow that underperforms its own math, call fix-the-bottleneck** — the decomposition hands over its measured terms, and the constraint is found and relieved in that skill's order.
 
 ## Output standard
 
