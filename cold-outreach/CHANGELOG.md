@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: positioning before drafting, stop-the-scroll at the opener, write-in-your-voice at drafting.
+
 ## 0.1.4 — 2026-11-19
 
 Step 8 now calls in the writing pass, on every email in the batch, before the batch returns. The form rules in steps 6 and 7 describe the target register; a batch judged only against them still ships with the drafter's stiffness in it. The pass runs the work-humanizer skill in rewrite mode over each email, then applies the writing-styles skill's plain rules, and no batch returns for approval until the pass has run on the exact final text of every email in it. The observation, the hypothesis, the offer, the proof points, and every figure never change in the pass.
