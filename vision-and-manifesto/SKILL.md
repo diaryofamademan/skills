@@ -1,7 +1,7 @@
 ---
 name: vision-and-manifesto
 description: "Use when a founder or leadership team needs a vision, a mission, or a manifesto that does work: one core set of beliefs, written at three lengths — the vision as a picturable future scene with a quantifiable objective and milestones, the mission as the work now, and a manifesto only when a named public job exists for it. Built on the measured vision research, and finished only when the statements pass a decision gate: they change real decisions about hiring, firing, and money."
-version: 0.1.1
+version: 0.1.2
 author: Open skills contributors
 license: MIT
 metadata:
@@ -165,7 +165,7 @@ Manifesto:            <the long form, only when a job is named>
 Review date:          <when the image test, mapping test, and decision log are next reviewed>
 ```
 
-**The vision document is a required deliverable.** Every run also returns a standalone one-page document carrying the vision and the mission as finished pieces a person can read on their own — the statements, the scene in brief, the objective and its milestones, and the beliefs, in plain prose — delivered as a document and a PDF alongside the record. When the manifesto module is skipped, the page carries the gate's verdict in one plain line. Statements buried inside a longer record do not meet this contract — the words are the deliverable, and they ship as a page someone can hold.
+**The vision document is a required deliverable.** Every run also returns a standalone one-page document carrying the vision and the mission as finished pieces a person can read on their own — the statements, the scene in brief, the objective and its milestones, and the beliefs, in plain prose — delivered as a document and a PDF alongside the record. When the manifesto module is skipped, the page carries the gate's verdict in one plain line. Section markers carry icons from **Hugeicons (free version)** — the house icon library — in the library's stroke style at one consistent weight, sparingly, and only where the icon carries the section's meaning; an icon that carries no meaning is decoration and does not ship. Statements buried inside a longer record do not meet this contract — the words are the deliverable, and they ship as a page someone can hold.
 
 **Then run the writing pass. This step is a procedure, not a style reminder.** When a record ships in workshop register, the statements read as a consultant's artifact instead of words a company can run on, and the gate results read as a checklist instead of a verdict.
 
@@ -221,6 +221,6 @@ Before calling a run done, confirm:
 
 - [ ] The writing pass ran on the exact text delivered — humanizer, then plain style.
 
-- [ ] The vision document shipped with the record: the standalone one-page document and PDF, statements as finished pieces, the manifesto verdict in one line if the module was skipped.
+- [ ] The vision document shipped with the record: the standalone one-page document and PDF, statements as finished pieces, the manifesto verdict in one line if the module was skipped, Hugeicons on the section markers.
 
 - [ ] If this run is filed as a field test: the record opens with a plain verdict section, and its verdict sections are written plain in their own right.

@@ -75,4 +75,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.1 — field-test records now open plain with plain verdict sections, and every run delivers its visual artifact (see `CHANGELOG.md`). First build (0.1.0): one core at three lengths, the scene-first procedure, the decision gate, the gated manifesto module, and the vision record as the output contract. See `CHANGELOG.md`.
+0.1.2 — the visual deliverables now carry Hugeicons, the house icon library (see `CHANGELOG.md`). First build (0.1.0): one core at three lengths, the scene-first procedure, the decision gate, the gated manifesto module, and the vision record as the output contract. See `CHANGELOG.md`.

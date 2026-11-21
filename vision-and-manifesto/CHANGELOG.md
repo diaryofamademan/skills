@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.2 — 2026-11-21
+
+Icons on the vision document. The field test's one-pager shipped clean but bare; the house standard for visual work is the Hugeicons free library, and a document people are meant to keep should carry its markers.
+
+- **The output contract names the icon library.** Section markers on the vision document carry Hugeicons (free version) icons — stroke style, one consistent weight, sparingly, and only where the icon carries the section's meaning; an icon that carries no meaning is decoration and does not ship. The field test's page was regenerated under the rule: an eye on the vision, a target on the objective, a compass on the mission, an open book on the beliefs.
+
 ## 0.1.1 — 2026-11-21
 
 Field-test format fix, from field test 1 (a real company's vision record, filed the same day). The first filed record shipped in analyst prose — long, dense verdict sections — even though the output contract already carried a plain-style writing pass. The pass governed the vision record but never named the field-test record, so the human-read parts of the filed test escaped it.

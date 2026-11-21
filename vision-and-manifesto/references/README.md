@@ -1,6 +1,6 @@
 # References
 
-The depth material for the vision-and-manifesto skill, version **0.1.1**. `SKILL.md` carries the procedure; these files carry the evidence the procedure stands on, the decision gate in full, the manifesto module's rules, and a public worked example it points to.
+The depth material for the vision-and-manifesto skill, version **0.1.2**. `SKILL.md` carries the procedure; these files carry the evidence the procedure stands on, the decision gate in full, the manifesto module's rules, and a public worked example it points to.
 
 | File | What it holds |
 | --- | --- |
