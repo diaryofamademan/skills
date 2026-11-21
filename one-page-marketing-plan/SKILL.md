@@ -1,7 +1,7 @@
 ---
 name: one-page-marketing-plan
 description: "Use when a business needs its whole marketing system on one page — who it is for, what it says, where it reaches people, how leads are caught, kept, and converted, and what happens after the sale. Runs diagnosis first, then fills Dib's nine squares in order, each square standing on measured evidence about how buyers actually behave, and finishes by stating the brand-versus-activation split as a hypothesis the user's own numbers will judge. Consumes a positioning record when one exists; plans the system that public moments live in."
-version: 0.3.1
+version: 0.3.2
 author: Open skills contributors
 license: MIT
 metadata:
@@ -142,7 +142,7 @@ Every run returns one page, plus the notes that keep it honest:
 
 **Then run the writing pass. This step calls two sibling skills. It is a procedure, not a style reminder.** When a marketing plan ships in raw strategy register, the nine squares read as a consultant's grid and the diagnosis and split — the decisions the reader has to judge — hide behind imported terms.
 
-1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the one-page plan and its evidence notes. Facts, figures, quotes, names, dates, and statuses never change in the pass. What changes is the register.
+1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the 1-page plan and its evidence notes. Facts, figures, quotes, names, dates, and statuses never change in the pass. What changes is the register.
 
 2. **Plain style.** Apply the writing-styles skill's plain rules to the result: short sentences, one idea each, numbers spoken the way a person says them, bold only on the few facts that matter.
 
@@ -152,7 +152,7 @@ Numbers, ratios, and source findings stay exact — evidence never gets paraphra
 
 ## Limits and boundaries
 
-- **The grid itself is practice, not measurement.** Dib's nine squares are a practitioner's framework, grade (b): the sequence and the one-page discipline are the contribution, and the grid as a whole has never been independently tested. Some of its sub-claims — a scored index for picking a market, niche-always — are the author's assertion, and this skill does not carry them. Each square stands on the evidence named in it, not on the grid's authority.
+- **The grid itself is practice, not measurement.** Dib's nine squares are a practitioner's framework, grade (b): the sequence and the 1-page discipline are the contribution, and the grid as a whole has never been independently tested. Some of its sub-claims — a scored index for picking a market, niche-always — are the author's assertion, and this skill does not carry them. Each square stands on the evidence named in it, not on the grid's authority.
 
 - **Evidence geography.** Almost every measured source was measured somewhere specific: the buying laws on packaged-goods and consumer panels, the split on UK award cases, follow-up speed on US inbound leads, referral value on one German bank's customers, the market-timing rule on business buying cycles. A given user — a small firm, a subscription product, a local service — sits at the edge of several of these datasets at once and squarely inside none. The skill's answer is labeling and handover (Step 4), not false confidence.
 

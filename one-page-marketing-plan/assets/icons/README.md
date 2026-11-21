@@ -8,7 +8,7 @@ Use these SVGs via relative `<img src="…" width="20" height="20" alt="">` in s
 | --- | --- |
 | check-list.svg | The skill's title icon; the nine squares; statuses and checklists |
 | search-01.svg | Diagnosis; finding and weighing evidence |
-| presentation-01.svg | Overviews; the finished one-page plan |
+| presentation-01.svg | Overviews; the finished 1-page plan |
 | message-01.svg | Square 2, the message; who the plan is for |
 | workflow.svg | The sequence; process views |
 | calendar-03.svg | Version; the two clocks (brand and activation); review dates |

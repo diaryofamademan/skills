@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.2 — 2026-11-21
+
+Dib's styling extends to the artifact. Where the package names the plan the skill produces — the output contract's "a 1-page plan," the writing pass's object, the 1-page discipline in Limits, the icons index — it now renders "1-page," matching the skill's name as set in 0.3.1. Plain descriptions of a physical page ("on one page," "fits on one page") are ordinary English and stay as they are. No method change.
+
 ## 0.3.1 — 2026-11-21
 
 The skill's public name is rendered as Dib styles it: **1-Page Marketing Plan**, with the numeral — not "One-Page Marketing Plan," and never shortened to "one page plan." The rendering is applied where the package names the skill: the README heading, the SKILL.md title, and the references index (whose version line is also brought current). The folder slug stays `one-page-marketing-plan`, and the frontmatter name with it; nothing about the method changes.

@@ -23,7 +23,7 @@ The skill consumes a positioning record when one exists — its message square t
 | Founders and small teams | The whole marketing system on one page, each square a sentence or two, with the choices and their sacrifices stated instead of buried |
 | Operators with a tactic pile | A rebuild from the diagnosis up: the same activities, re-founded on evidence, proportioned by a stated split, and given standards that can be audited |
 | Businesses with a positioning record | A plan that carries the record to market without re-deciding it — the message square consumes the concept and frame, and the grid does the rest |
-| Agents planning for a human approver | An output contract: a one-page plan with its diagnosis, its split line and review date, its standards, and its evidence notes — readable at a glance |
+| Agents planning for a human approver | An output contract: a 1-page plan with its diagnosis, its split line and review date, its standards, and its evidence notes — readable at a glance |
 
 ## <img src="assets/icons/workflow.svg" width="20" height="20" alt="" /> Process at a glance
 
