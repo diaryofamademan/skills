@@ -165,6 +165,8 @@ Manifesto:            <the long form, only when a job is named>
 Review date:          <when the image test, mapping test, and decision log are next reviewed>
 ```
 
+**The vision document is a required deliverable.** Every run also returns a standalone one-page document carrying the vision and the mission as finished pieces a person can read on their own — the statements, the scene in brief, the objective and its milestones, and the beliefs, in plain prose — delivered as a document and a PDF alongside the record. When the manifesto module is skipped, the page carries the gate's verdict in one plain line. Statements buried inside a longer record do not meet this contract — the words are the deliverable, and they ship as a page someone can hold.
+
 **Then run the writing pass. This step is a procedure, not a style reminder.** When a record ships in workshop register, the statements read as a consultant's artifact instead of words a company can run on, and the gate results read as a checklist instead of a verdict.
 
 1. **Humanizer.** Run the work-humanizer skill in rewrite mode over the record. Facts, decisions, numbers, and statuses never change in the pass. What changes is the register.
@@ -218,5 +220,7 @@ Before calling a run done, confirm:
 - [ ] Measures and a review date are set: image test, mapping test, decision log.
 
 - [ ] The writing pass ran on the exact text delivered — humanizer, then plain style.
+
+- [ ] The vision document shipped with the record: the standalone one-page document and PDF, statements as finished pieces, the manifesto verdict in one line if the module was skipped.
 
 - [ ] If this run is filed as a field test: the record opens with a plain verdict section, and its verdict sections are written plain in their own right.

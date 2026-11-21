@@ -8,6 +8,8 @@ Field-test format fix, from field test 1 (a real company's vision record, filed 
 
 - **Verdict sections are plain in their own right.** The gate results and the verdict on the skill must be written plain, not summarized plainly over dense prose. The output contract names the human-read parts of a field-test record — the opening and every verdict — as plain-style territory; working detail below the opening may stay as dense as the evidence needs. A checklist item carries the requirement into the pre-delivery pass.
 
+- **The standalone vision document is now a required deliverable of every run.** The same field test made the second gap plain: the draft statements sat as lines inside a test file, and the reader expected a mission statement he could actually read — a finished piece on its own page. The output contract now requires it: a one-page document carrying the vision, the mission, the objective and milestones, and the beliefs as finished prose, delivered as a document and a PDF alongside the record, with the manifesto gate's verdict in one plain line when the module is skipped.
+
 ## 0.1.0 — 2026-11-21
 
 First build. One core, three lengths: the vision as a picturable future scene compressed into a statement, the mission as the same beliefs at today's work, and a manifesto that exists only when a named public job needs it.
