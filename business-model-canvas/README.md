@@ -73,4 +73,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.2 — the visual deliverables now carry Hugeicons, the house icon library (see `CHANGELOG.md`). First build (0.1.0): the fit test choosing between the Lean Canvas and the nine blocks, the evidence-labeled sheet, the environment pass, and the ranked assumptions list as the output contract's center of weight. See `CHANGELOG.md`.
+0.1.3 — sibling skills are now called by name at the steps that need them (see `CHANGELOG.md`). First build (0.1.0): the fit test choosing between the Lean Canvas and the nine blocks, the evidence-labeled sheet, the environment pass, and the ranked assumptions list as the output contract's center of weight. See `CHANGELOG.md`.
