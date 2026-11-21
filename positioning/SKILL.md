@@ -1,7 +1,7 @@
 ---
 name: positioning
 description: "Use when a company or product needs to decide what it will be thought of as — before a launch, a repositioning, a new segment, or any moment where the market's current answer is vague, borrowed, or wrong. Works five components in order (competitive alternatives, unique attributes, value with proof, best-fit customers, market category last), then passes the result through a strategy gate of named trade-offs and a parity-versus-difference test, and returns a positioning record: the owned concept, the category, the named alternatives, the best-fit customers, and the trade-offs, in a form a marketing plan can consume directly."
-version: 0.2.0
+version: 0.2.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -210,6 +210,16 @@ The sources behind this skill disagree in four places. The resolutions are part 
 8. **One position, for the market.** The record holds a single position. Other skills borrow it whole: comms says it, fundraising pitches with it, the plan plans around it. Adapting the position per audience — a bigger category for investors, a softer claim for a partner — is out of bounds; emphasis may vary, the position may not.
 
 9. **Positions are set on evidence, and re-run on evidence.** A position changes when buyer evidence changes — new alternatives, a proved or disproved claim, a segment that stops fitting — through a new run of this skill, not by drift.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At the evidence step, call first-principles-thinking** — the category is decomposed to what buyers actually pay for and what the product provably does, before any frame is chosen.
+
+- **At the statement step, call comms** — the position is written to be repeated by other people: short enough to survive retelling, plain enough to survive a tired reader.
+
+- **On completion, hand off to one-page-marketing-plan** — the adopted position is that skill's input; the plan is where the position becomes channels and cadence.
 
 ## Output contract
 
