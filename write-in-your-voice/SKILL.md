@@ -1,7 +1,7 @@
 ---
 name: write-in-your-voice
 description: "Build a working voice for a person from how they actually speak, then draft in it: assemble a tiered source bank from their speech (recordings, transcripts, dictations), compose drafts from their own sentences, and gate the result on shape, not just words. Use when setting up AI drafting for a founder, creator, or executive, when drafts keep coming back 'not my voice,' or when a voice profile built from published posts is not working."
-version: 1.2.5
+version: 1.2.6
 ---
 
 # <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> Write in Your Voice
@@ -37,6 +37,14 @@ Full detail in `references/source-bank-process.md`; the worked example (a produc
 2. **Compose from the sources.** The load-bearing lines (the opening, the explanation, the close) must trace to source sentences, tightened at most. Structure (a hook-first order like AIDA) is applied to their sentences; it never generates replacements for them. New connective text stays minimal and plain.
 3. **No source, no draft.** If no source in tiers 1–3 covers the move, the deliverable is a dictation prompt, not a composed draft: "Tell it like you're warning a friend: what's the moment this is for, what's the dumbest way people handle that moment, and what do you do instead?" Drafting first and voice-checking afterward is the banned path; it is how voice systems produce plausible text the person rejects on sight.
 4. **Respect the hierarchy at drafting time, including the tier 3 rule.** Spoken passages outrank dictated explanations, which outrank approved texts. Tier 3 (approved texts) may source a draft when no spoken or dictated passage covers the move — the control case is a launch built from the person's own published product text, which they approved and which leads with the material itself. A tier-3-sourced draft must say so in its return ("sourced from approved text, not speech"), because the cadence will read as the person's written voice, not their spoken one; if the spoken cadence is what the piece needs, the answer is the dictation prompt, not tier 3. Apply the target channel's convention from the bank header (Procedure A, step 4) as you compose. Chat messages the person wrote to their tools or team are process language: usable for facts and opinions, never for cadence. Published posts are not a cadence source at all unless individually verified (tier 4 rule).
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At drafting, call comms** — purpose and audience are set before voice is applied; a piece in the right voice aimed at the wrong reader is still wrong.
+
+- **When the piece is a public post, call stop-the-scroll** — the opening must earn the second line, in the subject's own voice, under that skill's tests.
 
 ## The gates
 
