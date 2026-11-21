@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.3 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: positioning at Squares 1–2, stop-the-scroll at Square 3's creative, business-model-canvas when no current canvas exists.
+
 ## 0.3.2 — 2026-11-21
 
 Dib's styling extends to the artifact. Where the package names the plan the skill produces — the output contract's "a 1-page plan," the writing pass's object, the 1-page discipline in Limits, the icons index — it now renders "1-page," matching the skill's name as set in 0.3.1. Plain descriptions of a physical page ("on one page," "fits on one page") are ordinary English and stay as they are. No method change.
