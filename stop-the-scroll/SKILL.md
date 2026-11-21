@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.4.0
+version: 0.4.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -174,6 +174,16 @@ The ends are locked only after the round. A hook or a call to action is never fi
 
 - **Direction is not copy** (principle 13). Re-read the author's instructions alongside the draft. Anything the author said *about* the piece (an example jab, a naming aside, a side comment) that appears *in* the piece verbatim is removed, unless the author explicitly marked it as copy.
 - Read the piece aloud once. The ends should sound like the same person who wrote the middle, and the whole should sound like something said, not something typeset.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At drafting, call write-in-your-voice** — hooks land in the author's own attested voice or they read as ads; the voice bank governs the sound of every variation.
+
+- **At the position check, call positioning** — a hook that contradicts the adopted position is cut, however strong it tests; the position decides what may be promised.
+
+- **At the message's job, call comms** — who must do what after reading is settled before the hook is judged.
 
 ## Limits and boundaries
 
