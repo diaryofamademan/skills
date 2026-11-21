@@ -1,7 +1,7 @@
 ---
 name: fundraising
 description: "Use when raising capital or selling a business: startup seed/venture rounds, GP fund raises from LPs, or company M&A/strategic exits—shared competitive process (pipeline, ABC, lead/anchor, second offer, deadline close) plus track-specific playbooks from Startup Seed Raising Skilzzz, curated X posts, and the Fundraising YouTube playlist."
-version: 3.3.5
+version: 3.3.6
 author: Open skills contributors
 license: MIT
 metadata:
@@ -283,6 +283,16 @@ Advisor + legal and a valuation memo; buyer universe 30–50+ when scale warrant
 ### After the yes — M&A
 
 LOI economics before exclusivity → confirmatory diligence (+ sell-side QoE) → purchase agreement, schedules, funds flow (lawyer review) → verified wires at close → earnout tracking and integration comms. Steps: [`references/ma-track-lessons.md`](references/ma-track-lessons.md).
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At the negotiation steps, call game-theory-for-decisions** — the investor across the table is a player with payoffs, a walk-away, and a next move; the term discussion is run off that map, not off hope.
+
+- **At the story steps — deck, pitch, update — call comms** — the raise is told as one clear account for a named audience, with the ask impossible to miss.
+
+- **At valuation and terms, call first-principles-thinking** — the company is priced from its parts and its evidence, not from comparables alone.
 
 ## Output standard
 
