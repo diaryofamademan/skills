@@ -1,7 +1,7 @@
 ---
 name: business-model-canvas
 description: "Use when a founder or team needs to state, test, or redraw how a business makes money: a fit test first picks the right sheet — the Lean Canvas while the model is still being searched for, the nine-block Business Model Canvas once it is found — then the sheet is filled from evidence, zoomed at the value proposition, checked against the environment the sheet omits, and finished with the deliverable that matters: the riskiest assumptions, ranked, each with its next test."
-version: 0.1.2
+version: 0.1.3
 author: Open skills contributors
 license: MIT
 metadata:
@@ -89,7 +89,7 @@ Every load-bearing claim is labeled here; the full table, with grades and limits
 
 ### Step 0 — The fit test: which sheet
 
-Decide, on evidence, which state the business is in. **Still searching:** the problem is not yet proven painful to a reachable segment, the solution has not been bought repeatedly, pricing is a guess. Use the **Lean Canvas** — its blocks (problem, existing alternatives, solution, key metrics, unfair advantage) are the searching questions. **Model found:** customers buy repeatedly, the offer and the channel economics are demonstrated, the open questions are about scale and efficiency. Use the **nine-block Canvas**. Mixed states are decided by the weaker half: a business with a proven product and an unproven channel is still searching, on the Lean sheet, because the model — not the product — is the unit. Record the verdict and the two or three facts that decided it. The full test is in [`references/the-two-sheets.md`](references/the-two-sheets.md).
+Decide, on evidence, which state the business is in. **Still searching:** the problem is not yet proven painful to a reachable segment, the solution has not been bought repeatedly, pricing is a guess. Use the **Lean Canvas** — its blocks (problem, existing alternatives, solution, key metrics, unfair advantage) are the searching questions. **Model found:** customers buy repeatedly, the offer and the channel economics are demonstrated, the open questions are about scale and efficiency. Use the **nine-block Canvas**. Mixed states are decided by the weaker half: a business with a proven product and an unproven channel is still searching, on the Lean sheet, because the model — not the product — is the unit. Record the verdict and the two or three facts that decided it. **Sibling call — first-principles-thinking:** before the questions are answered from habit, decompose the business to its measured terms — who pays, how often, at what margin, through which motion — so the state is read off bedrock facts, not off how the business describes itself. The full test is in [`references/the-two-sheets.md`](references/the-two-sheets.md).
 
 ### Step 1 — Fill the sheet
 
@@ -101,7 +101,7 @@ Zoom on the lead segment with the Value Proposition Canvas: the customer's **job
 
 ### Step 3 — The environment pass
 
-The sheet's missing page, kept short: **industry forces** (the named competitors and substitutes, and what each would do if this model works), **market forces** (segment growth or shrinkage, switching costs, the customer's own pressures), **key trends** (technology, regulation, social), and **macro forces** (capital and input costs the model depends on). Each force is one or two lines, on evidence where it exists. Read every key partner and channel in this pass as an incentive problem: what they want, what they could take, what stops them. The output is not an essay; it is the context the assumptions get ranked in.
+The sheet's missing page, kept short: **industry forces** (the named competitors and substitutes, and what each would do if this model works), **market forces** (segment growth or shrinkage, switching costs, the customer's own pressures), **key trends** (technology, regulation, social), and **macro forces** (capital and input costs the model depends on). Each force is one or two lines, on evidence where it exists. Read every key partner and channel in this pass as an incentive problem: what they want, what they could take, what stops them. **Sibling call — game-theory-for-decisions:** that reading is run as a game — each partner and channel named as a player with its own payoffs, its credible threats, and its walk-away — and the incentive map that call returns is what this pass records. The output is not an essay; it is the context the assumptions get ranked in.
 
 ### Step 4 — Riskiest assumptions, ranked, with tests
 
@@ -110,6 +110,16 @@ Walk the filled sheet block by block and extract the assumptions — every entry
 ### Step 5 — Change triggers and review
 
 Close the record with the events that would force a redraw: a competitor's move, a channel's terms changing, a partner dependency deepening, a regulation landing, a top assumption failing its test. Name a review date. Between reviews, the canvas stands as the company's stated model; at a trigger or the date, it is re-run from Step 0 — because the first question, searching or found, may itself have changed.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **Step 0 calls first-principles-thinking** — the fit test's verdict is read off a decomposition of the business to measured terms, so a state is never assigned from the business's own description of itself.
+
+- **Step 3 calls game-theory-for-decisions** — partners and channels are mapped as players with payoffs, threats, and walk-aways; the environment pass records the incentive map that call returns.
+
+- **Step 4 calls fix-the-bottleneck** — the top-ranked assumption is treated as the system's constraint: its kill test is designed and sequenced first, before all lesser tests.
 
 ## Output contract — the canvas record
 
