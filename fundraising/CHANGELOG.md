@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 3.3.6 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: game-theory at negotiation, comms at the story steps, first-principles at valuation.
+
 ## 3.3.5 — 2026-11-19
 
 The output standard now calls in the writing pass. A pipeline report or draft outbound that ships in process register gets skimmed by the approver, and the decision the report exists to surface gets skimmed with it. The pass runs the work-humanizer skill in rewrite mode over the status report and over every draft outbound, then applies the writing-styles skill's plain rules, and neither is done until the pass has run on the exact text being delivered. Figures, terms, names, and dates never change in the pass.
