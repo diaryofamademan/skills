@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.3 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps:
+
+- **Step 0 calls first-principles-thinking** — the excavation decomposes the company to the decisions it has paid for, so beliefs are read off bedrock, not self-description.
+
+- **Step 3 calls comms** — the drafted statements are tested as communication, who must repeat them and what the hearer must be able to do differently, before the gate judges them.
+
+- **Step 5 calls stop-the-scroll, when the manifesto module fires** — a manifesto with a named public job is public writing, and its opening and invitation are built under that skill's rules.
+
 ## 0.1.2 — 2026-11-21
 
 Icons on the vision document. The field test's one-pager shipped clean but bare; the house standard for visual work is the Hugeicons free library, and a document people are meant to keep should carry its markers.
