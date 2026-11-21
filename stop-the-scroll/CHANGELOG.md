@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.4.0 — 2026-11-21
+
+Claude Hopkins joins the skill as its testing backbone. The thirteen principles and the two tests judge a piece before it ships; nothing in the skill judged it after, and winners were picked by taste wherever no count existed. *Scientific Advertising* (1923) supplies the missing half.
+
+- **A testing backbone section.** Every hook and call to action that ships is keyed, so its result can be counted and set against the variations it beat. Counted results outrank taste: where returns exist, the variation round is judged against them first, and a winner picked against the counts needs a recorded reason. New ends test small before they spend big. And a claim runs only if it can be tracked to a result — specific, checkable claims over general ones, because they test better and can be counted.
+
+- **Wired into the procedure, not bolted on.** Guardrail 13 states the keying rule beside the construction rules. Step 4 gains the counts bullet, so the round reads earlier returns before judging. A build run now returns a fifth item, the key record, and the verification checklist gains the matching item.
+
+- **The label and the boundary, stated in the skill.** Hopkins is a practitioner method from 1923, before the controlled-study era; his results are his own reports from his own campaigns, and the Sources section and the credit table say so. He is overruled by measured evidence wherever the two disagree, the same standing Ries, Trout, and Schwartz carry in the strategy skills. His era's patent-medicine claim style does not enter: the import is the testing method, not his copy examples, and anything conflicting with the author's claims discipline stays out. He is not a fourteenth principle — the thirteen judge construction, Hopkins judges results, and the skill keeps the two judgments separate.
+
 ## 0.3.0 — 2026-11-19
 
 The variation round joins the core procedure as step 4. Every post in a piece — the hook, every load-bearing middle post, and the call to action — gets 10 complete variations, each a whole post built from a different angle, not a word swap. Every variation is judged against the sea-of-100 test and the stand-alone test, the piece is built from the per-post winners, and the reason each winner won is recorded in the build notes so the judgment can be audited. The ends are locked only after the round. Steps 5 and 6 are the old steps 4 and 5, unchanged. The change came from a launch build that drafted one hook per post and kept the first that passed: a single draft was never tested against the sea.

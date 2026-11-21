@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0 — 2026-11-21
+
+Square 3 states what each surface can honestly expect, in seconds. Karen Nelson-Field's attention research was already cited in the square and graded in the nine-squares reference, vendor caveat and all; what was missing was the recorded expectation, one release after 0.2.0 added the recorded awareness stage beside it.
+
+- **One line in Square 3, parallel to the awareness line.** Each channel and surface now states its realistic attention expectation — the active seconds it can honestly expect, set from measured attention evidence rather than platform promises — and the square's reach is planned in those seconds. Attention is treated as measured, never assumed: most advertising receives very little active attention, the first moments of an execution decide whether it earns any, and creative has to win the seconds before any message can land. A buy counted in impressions nobody looked at fails the square however large the number — the square's existing failure mode, now stated as a rule the plan is checked against.
+
+- **The source's standing is already on the record and stays there.** Nelson-Field's work is modern measured research on large-scale viewing data, strongest on video and display attention, and the reference names the interest plainly: the research program is commercial, led by a firm that sells attention measurement, so the thresholds are direction, not constants. This release adds no new citation and changes no grade; it makes the plan spend by the evidence it already carried.
+
 ## 0.2.0 — 2026-11-21
 
 Square 3 learns to name its audience's awareness stage. The diagnosis comes from the positioning skill, which gained Schwartz's two-stage diagnosis in its own 0.2.0; this skill consumes the half of it a media plan can act on.

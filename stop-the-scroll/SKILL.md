@@ -1,7 +1,7 @@
 ---
 name: stop-the-scroll
 description: "Use when building or reviewing a piece of content that must earn attention (a post, a thread, a launch, a script, an outline): AIDA with the ends hardened, the hook and the call to action each built to stand out in a sea of 100 and to stand alone with full context, over a universal, impact-led middle."
-version: 0.3.0
+version: 0.4.0
 author: Open skills contributors
 license: MIT
 metadata:
@@ -30,7 +30,7 @@ flowchart LR
 
 ## Sources
 
-Full credit table: [`references/sources-and-urls.md`](references/sources-and-urls.md). The frame is AIDA (attention, interest, desire, action), the oldest structure in advertising, traced to E. St. Elmo Lewis around 1898 and set down by E. K. Strong in 1925. The thirteen principles that harden its ends were distilled from a single launch session in November 2026, in which one piece of launch copy went through fourteen versions and every rejection added a rule. The worked record is in [`references/case-study-bottleneck-launch.md`](references/case-study-bottleneck-launch.md).
+Full credit table: [`references/sources-and-urls.md`](references/sources-and-urls.md). The frame is AIDA (attention, interest, desire, action), the oldest structure in advertising, traced to E. St. Elmo Lewis around 1898 and set down by E. K. Strong in 1925. The thirteen principles that harden its ends were distilled from a single launch session in November 2026, in which one piece of launch copy went through fourteen versions and every rejection added a rule. The worked record is in [`references/case-study-bottleneck-launch.md`](references/case-study-bottleneck-launch.md). The testing backbone is Claude Hopkins' *Scientific Advertising* (1923): every end a keyed test, judged by counted results where results exist. Hopkins enters as method and frame — a practitioner source from before the controlled-study era, whose results are his own reports from his own campaigns, labeled as such wherever this skill leans on him and overruled by measured evidence wherever the two disagree.
 
 ## When to use
 
@@ -63,6 +63,7 @@ Use this skill when a **founder**, **marketer**, **creator**, or delegated agent
 11. **Write the piece plain.** Short words where they carry the meaning, no hype adjectives doing the work the hook should do, and no claim the author cannot stand behind if the piece is quoted back at them.
 12. **Correctness is a gate the principles do not cover.** No piece ships without a grammar pass on the exact final text: subject-verb agreement, articles, punctuation, hyphenation, parallelism. The principles judge whether a piece earns attention; none of them judges whether it is right, and a piece can pass every principle while carrying a plain agreement error.
 12. **Never spell a formula out as a sentence.** Show it as math (three numbers, named rates, round percentages, readable in one glance) or walk it as plain words. The in-between form, a formula wearing a sentence's clothes, is the one form that is banned.
+13. **Key the ends, and let counts outrank taste.** Every hook and call to action that ships carries an identifier its result can be counted under (see **The testing backbone**). Where counted results exist for earlier pieces, they are evidence in the variation round, not trivia after it: a winner picked against the counts needs a recorded reason, and a winner picked by taste alone, when counts existed, is not finished.
 
 ## The one idea
 
@@ -72,6 +73,20 @@ So this skill hardens the ends. **The hook and the call to action are each built
 
 The name is the standard: build every end as if it must win against the other ninety-nine pieces in the feed, because it must.
 
+## The testing backbone — Hopkins
+
+The two tests judge a piece before it ships. Hopkins judges it after. His rule, from *Scientific Advertising* (1923): advertising is salesmanship whose results can be counted, so count them. In this skill's form:
+
+- **Key every end you ship.** Each hook and call to action that goes out carries an identifier — in the build notes, in the post's record, wherever the run keeps its accounts — so its result can be counted and set against the variations it beat. An end that cannot be told apart in the results cannot be learned from.
+
+- **Counted results outrank taste.** Where results exist — an earlier piece's returns, a campaign's numbers — the variation round is judged against them first. The sea-of-100 and stand-alone tests still run; they decide what may ship. The counts decide what the next round believes.
+
+- **Test small before spending big.** A new end earns a small audience before it earns the launch. Hopkins changed one element at a time and let small returns rule large spend; a feed piece does the same whenever the channel allows a limited first run.
+
+- **A claim runs only if it can be tracked to a result.** Specific, checkable claims over general ones, for Hopkins' reason and this skill's: they test better, and they can be counted. A claim no result could ever confirm or refute is decoration, and guardrail 11 already bars the author from standing behind less.
+
+The boundary is stated once and holds everywhere: Hopkins' era also sold patent-medicine claims, and none of that enters. The import is the testing method, not his copy examples and not his claim style; anything that conflicts with the author's claims discipline stays out, whatever its vintage. He is a fourteenth voice in the skill, not a fourteenth principle: the thirteen principles judge construction, Hopkins judges results, and the skill keeps the two judgments separate.
+
 ## What a run returns
 
 A **build run** returns:
@@ -80,6 +95,7 @@ A **build run** returns:
 2. **The two tests, per end**: the sea-of-100 verdict and the stand-alone verdict for the hook, and the same pair for the call to action, each in one line.
 3. **The number audit**: every metric in the piece, with the why that accompanies it in the copy.
 4. **The cut list**: material removed under need-to-know, named so the author can restore anything cut in error.
+5. **The key record**: the identifier each shipped hook and call to action carries, and — once results exist — the counted result recorded against each key, so the next run's variation round starts from evidence rather than memory.
 
 A **review run** returns the piece scored principle by principle (the thirteen in [`references/the-13-principles.md`](references/the-13-principles.md)), each marked pass or fail with the offending line quoted, and the rebuild order: ends before middle, always.
 
@@ -145,6 +161,8 @@ Steps 1 to 3 produce first drafts, not finals. Before any post in the piece is l
 
 - **Record why each winner won.** One line per post in the build notes, naming what the winner passed that the others failed. The judgment has to be auditable later. "It felt stronger" is not a reason.
 
+- **Judge against the counts where counts exist.** Hopkins' backbone (see **The testing backbone**): if earlier pieces in this line have counted results, the round reads them before it judges anything. A variation in the family of a counted loser starts behind; a variation that contradicts a counted winner carries the burden of saying why. Taste breaks ties. It does not overrule returns.
+
 The ends are locked only after the round. A hook or a call to action is never final because it was written first.
 
 ### 5 — Format
@@ -179,6 +197,7 @@ Before calling a piece done, confirm:
 - [ ] The call to action is a jab with a point of view, not a generic ask.
 - [ ] The call to action stands alone: idea, name, and link, full context.
 - [ ] The variation round ran: 10 complete variations for the hook, every load-bearing middle post, and the call to action, each judged against the sea-of-100 and stand-alone tests, and the reason each winner won is recorded in the build notes.
+- [ ] Every shipped hook and call to action is keyed, and where counted results exist for earlier pieces, the round was judged against them — any winner picked against the counts carries its recorded reason.
 - [ ] In a thread: the story post carries its own setup and stands alone, transitions are bridge lines inside the posts, and the beat before the call to action is the big win.
 - [ ] The story passes the sea-of-100 test: named character, one concrete detail, the stuck beat on its own short line, a backwards turn, an ending on an image not a summary, and stakes stated in the setup.
 - [ ] The story passes the logic pass: every physical claim in it holds together under a plain reading, with no step a reader would stop to question.
