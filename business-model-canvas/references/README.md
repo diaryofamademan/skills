@@ -1,6 +1,6 @@
 # References
 
-The depth material for the business-model-canvas skill, version **0.1.0**. `SKILL.md` carries the procedure; these files carry the evidence and its limits, the two sheets and the test that chooses between them, the assumptions method, and a de-identified worked example it points to.
+The depth material for the business-model-canvas skill, version **0.1.1**. `SKILL.md` carries the procedure; these files carry the evidence and its limits, the two sheets and the test that chooses between them, the assumptions method, and a de-identified worked example it points to.
 
 | File | What it holds |
 | --- | --- |

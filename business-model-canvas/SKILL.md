@@ -1,7 +1,7 @@
 ---
 name: business-model-canvas
 description: "Use when a founder or team needs to state, test, or redraw how a business makes money: a fit test first picks the right sheet — the Lean Canvas while the model is still being searched for, the nine-block Business Model Canvas once it is found — then the sheet is filled from evidence, zoomed at the value proposition, checked against the environment the sheet omits, and finished with the deliverable that matters: the riskiest assumptions, ranked, each with its next test."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -147,6 +147,8 @@ Review date:          <when this canvas is next re-examined, trigger or not>
 
 3. **The gate.** The record is not done until the pass has run on the exact text being delivered.
 
+**Field-test records carry one more requirement.** When a run is filed as a field test of this skill, the record opens with a plain section — the verdict and the headline findings in short sentences a person would say out loud — before any working detail. The verdict sections themselves, the fit verdict and the verdict on the skill, are written plain in their own right: dense analyst prose with a plain summary pasted on top fails this contract. The plain-style rule applies by name to the human-read parts of a field-test record — the opening and every verdict. Working detail below the opening may stay as dense as the evidence needs.
+
 ## Limits and boundaries
 
 - **The canvas may not work, and the one test says so plainly.** Ladd (2018), in the *Journal of Research in Marketing and Entrepreneurship*, studied 271 accelerator teams: canvas use was associated with placing in pitch competitions, not with profit, and of the blocks only customer segmentation clearly correlated with outcomes — the study itself raises the possibility that the canvas contains unhelpful components. This skill is built to survive that finding: it claims the canvas is a recording and stress-testing instrument, not a performance intervention, and it puts the weight on the assumptions and tests, where a false belief can actually be found and killed.
@@ -186,3 +188,5 @@ Before calling a run done, confirm:
 - [ ] Only one version of the canvas exists in the record — the operating sheet, assumptions visible.
 
 - [ ] The writing pass ran on the exact text delivered — humanizer, then plain style.
+
+- [ ] If this run is filed as a field test: the record opens with a plain verdict section, and its verdict sections are written plain in their own right.

@@ -73,4 +73,4 @@ MIT. See the repository LICENSE file.
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.0 — first build: the fit test choosing between the Lean Canvas and the nine blocks, the evidence-labeled sheet, the environment pass, and the ranked assumptions list as the output contract's center of weight. See `CHANGELOG.md`.
+0.1.1 — field-test records now open plain, with plain verdict sections (see `CHANGELOG.md`). First build (0.1.0): the fit test choosing between the Lean Canvas and the nine blocks, the evidence-labeled sheet, the environment pass, and the ranked assumptions list as the output contract's center of weight. See `CHANGELOG.md`.

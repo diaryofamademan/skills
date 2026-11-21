@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.1 — 2026-11-21
+
+Field-test format fix, from field test 1 (a real company's canvas, filed the same day). The first filed record shipped in analyst prose — long, dense verdict sections — even though the output contract already carried a plain-style writing pass. The pass governed the canvas record but never named the field-test record, so the human-read parts of the filed test escaped it.
+
+- **Field-test records now open plain.** A filed field-test record opens with a plain section — the verdict and the headline findings in short sentences a person would say out loud — before any working detail.
+
+- **Verdict sections are plain in their own right.** The fit verdict and the verdict on the skill must be written plain, not summarized plainly over dense prose. The output contract names the human-read parts of a field-test record — the opening and every verdict — as plain-style territory; working detail below the opening may stay as dense as the evidence needs. A checklist item carries the requirement into the pre-delivery pass.
+
 ## 0.1.0 — 2026-11-21
 
 First build. One skill, two sheets: a fit test decides whether the business is still searching for its model (the Lean Canvas) or executing one it has found (the nine-block Business Model Canvas), the chosen sheet is filled from evidence with every guess labeled, and the run finishes where the sheet's value actually is — a ranked list of the riskiest assumptions, each with the cheapest test that could kill it.
