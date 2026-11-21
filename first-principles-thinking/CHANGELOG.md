@@ -1,5 +1,9 @@
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
+## 1.5.5 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: game-theory when actors' choices are the unknown, fix-the-bottleneck when the problem is a flow. The same pass tightened guardrail 14 (check the instruments): fetching a measurement through access already held for the work is the rule; extracting a credential, moving one, or searching beyond the subject's records is out — the boundary is now stated in the guardrail itself.
+
 ## 1.5.4 — 2026-11-19
 
 The output standard now calls in the writing pass. Guardrail 11 states the plain rule, but a finished analysis that ships with the rule stated and the pass unrun still reads as an analyst's memo, and the reader skims the reasoning trace that carries the answer. The pass runs the work-humanizer skill in rewrite mode over the report, then applies the writing-styles skill's plain rules, and the report is not done until the pass has run on the exact text being delivered. Truths, floor math, evidence labels, and figures never change in the pass.
