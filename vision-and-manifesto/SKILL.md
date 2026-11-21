@@ -1,7 +1,7 @@
 ---
 name: vision-and-manifesto
 description: "Use when a founder or leadership team needs a vision, a mission, or a manifesto that does work: one core set of beliefs, written at three lengths — the vision as a picturable future scene with a quantifiable objective and milestones, the mission as the work now, and a manifesto only when a named public job exists for it. Built on the measured vision research, and finished only when the statements pass a decision gate: they change real decisions about hiring, firing, and money."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -173,6 +173,8 @@ Review date:          <when the image test, mapping test, and decision log are n
 
 3. **The gate.** The record is not done until the pass has run on the exact text being delivered.
 
+**Field-test records carry one more requirement.** When a run is filed as a field test of this skill, the record opens with a plain section — the verdict and the headline findings in short sentences a person would say out loud — before any working detail. The verdict sections themselves, the gate results and the verdict on the skill, are written plain in their own right: dense analyst prose with a plain summary pasted on top fails this contract. The plain-style rule applies by name to the human-read parts of a field-test record — the opening and every verdict. Working detail below the opening may stay as dense as the evidence needs.
+
 ## Limits and boundaries
 
 - **The document alone does nothing.** The mission-statement meta-analyses (Desmidt et al. 2011; Alegre et al. 2018) find weak and inconsistent links between having statements and performing. This skill's whole design follows from that: the statements are the smallest part of the work, and the gate and the measures are the rest of it. A user who wants only the sentences should be told plainly that sentences are not the deliverable.
@@ -216,3 +218,5 @@ Before calling a run done, confirm:
 - [ ] Measures and a review date are set: image test, mapping test, decision log.
 
 - [ ] The writing pass ran on the exact text delivered — humanizer, then plain style.
+
+- [ ] If this run is filed as a field test: the record opens with a plain verdict section, and its verdict sections are written plain in their own right.
