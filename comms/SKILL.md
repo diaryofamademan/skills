@@ -1,7 +1,7 @@
 ---
 name: comms
 description: Founder communications — how a founder names the moment, takes the narrative personally, and says it directly. Covers announcements, launches, crises, and everyday content. Built on Lulu Cheng Meservey's Go Direct doctrine, with narrative structure from Andy Raskin, a positioning diagnostic from Al Ries, distribution from Gary Vaynerchuk, and a plain-writing gate from Paul Graham.
-version: 1.1.4
+version: 1.1.5
 ---
 
 # <img src="assets/icons/megaphone-01.svg" width="20" height="20" alt="" /> comms
@@ -102,6 +102,14 @@ After you speak, the reactions become the story. Rules for that phase:
 - **Confidence is debt.** A public statement of confidence, support, or certainty creates an obligation that comes due when events test it. Make such statements only when you are prepared for them to be quoted back at the worst moment.
 - **Correct the record once, completely, with documents.** Then stop. Arguing in installments keeps the story alive and moves you down the ladder in the audience's mind with every round.
 - **Claim only what the documents support.** When a matter ends — a case, an investigation, a negotiation — your statement may say what the signed record says, no cleaner and no dirtier. The audience's witnesses (coverage, filings, counterparties) will carry the rest.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **When the message is public and must stop a feed, call stop-the-scroll** — the opening is built and tested as a hook with a job, not as a first sentence.
+
+- **When the message must sound like a named person, call write-in-your-voice** — the subject's attested voice governs the draft; comms sets the purpose, the voice skill sets the sound.
 
 ## <img src="assets/icons/security-check.svg" width="20" height="20" alt="" /> Guardrails
 
