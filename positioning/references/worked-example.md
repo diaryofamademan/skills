@@ -56,6 +56,8 @@ Not best-fit, named plainly: solo operators; general contractors (different cost
 
 **Owned concept**, in the customers' own sentence: **"know which jobs are bleeding while you can still stop it."** The concept is live job margin, in the words the buyers already use.
 
+**The two stages.** Awareness: solution aware — every owner in the band already fights the problem with month-end reports and spreadsheets, and none interviewed knew margin could be seen live, mid-job. Sophistication: three of five — the suites have enlarged the reporting claim for years ("real-time insights," "total visibility"), and owners discount all of it. So the concept leads with the checkable mechanism, not a bigger reporting claim: crew time and material costs posted the same day, visible on a live job the owner picks. That match is what the record states.
+
 ## Step 5 — Market category
 
 The incumbent frame — "accounting software for contractors" — fails on all three category jobs: it sets the comparison set as accounting platforms (which win on breadth), sets the expectation as month-end reporting (the opposite of the value), and anchors price against a tool already owned. The new-category option ("margin protection software") fails the evidence test: buyers have no such budget line and the frame would need a year of teaching.

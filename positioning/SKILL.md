@@ -1,7 +1,7 @@
 ---
 name: positioning
 description: "Use when a company or product needs to decide what it will be thought of as — before a launch, a repositioning, a new segment, or any moment where the market's current answer is vague, borrowed, or wrong. Works five components in order (competitive alternatives, unique attributes, value with proof, best-fit customers, market category last), then passes the result through a strategy gate of named trade-offs and a parity-versus-difference test, and returns a positioning record: the owned concept, the category, the named alternatives, the best-fit customers, and the trade-offs, in a form a marketing plan can consume directly."
-version: 0.1.1
+version: 0.2.0
 author: Open skills contributors
 license: MIT
 metadata:
@@ -31,6 +31,20 @@ So the objective of a run of this skill is stated plainly: **a position that mor
 ## The framing axiom
 
 One idea frames the whole skill, labeled for what it is. Ries and Trout's founding insight (1981): **a position lives in the prospect's mind.** You do not get to write on a blank slate; you work with the associations buyers already hold, and focus beats breadth — one clear idea is retrievable, five good ideas are none. Later memory research supports the insight better than the original books supported it themselves. What does not survive is the books' status as law: they cite no empirical studies, their examples are cherry-picked winners, and specific claims (that being first wins, for one) have failed against the data — pioneers fail about half the time, and eventual leaders typically enter years after them. So the axiom is used as framing, never as rules. No claim from those books enters this procedure as a step unless the buying evidence carries it.
+
+## A second frame — Schwartz's diagnosis, diagnostic half only
+
+Eugene Schwartz's *Breakthrough Advertising* (1966) contributes a diagnosis, and only a diagnosis. Before a position is stated, two things about the audience are named:
+
+- **The best-fit customer's awareness stage** — one of five. Unaware: does not know the problem exists. Problem Aware: knows the problem, not the solutions. Solution Aware: knows solutions exist, not this product. Product Aware: knows this product, has not bought. Most Aware: knows the product and its proof, and needs the final reason.
+
+- **The market's sophistication stage** — how many similar claims the market has already heard, one to five. At the early stages a plain claim is heard and believed. By the late stages every competitor has made the outcome claim and enlarged it, and buyers have learned to discount all of it.
+
+The rule the two stages carry: **the owned concept's lead form must match them, and the record says how.** A concept led at the wrong awareness stage talks past its buyers — proof offered to a buyer who does not yet know the problem, a problem story told to a buyer who is already comparing products. And at high sophistication, stages four and five, the concept leads with the mechanism, never a bigger claim: when every rival claims the better outcome, the lead that still carries weight is the checkable one — the mechanism a buyer can inspect, working in the open. One of Schwartz's points is also cited as framing where it supports Step 7's entry-points work: desire is channeled, never created. A position attaches to a want that already exists, in a situation where it is already felt; it does not manufacture the want.
+
+What stays out is the book's other half: the intensification craft — enlarging the promise, dramatizing it, stacking promises until the claim outruns its proof. That craft conflicts with this skill's claims discipline (Guardrail 2: no proof, no position), and it does not enter the procedure in any form.
+
+Schwartz is labeled the way Ries and Trout are labeled above: a practitioner frame, not measured law. His stages were drawn from direct-response practice, not from panel data. Wherever the two stages disagree with buying evidence — win/loss accounts, buyer interviews, the run's own measures — the evidence overrules the frame. The diagnosis earns its place because it is checkable inside a run: awareness shows in what buyers say unprompted, and sophistication can be counted in the claims the Step 1 alternatives are already making.
 
 ## When to use
 
@@ -112,6 +126,10 @@ Two disciplines ride on this step:
 
 The owned concept is drafted at this step, in the customers' own words from the evidence — the one idea the position claims, in the language buyers already use for the value. If the team has to invent vocabulary for it, the concept is not yet in the buyers' minds, and the framing axiom says that is where it has to live.
 
+**Diagnose the two stages here.** With the best-fit customers named, the run records Schwartz's two stages (see "A second frame" above). The awareness stage is read from the same evidence as the segment itself: what these buyers say unprompted about the problem and the alternatives is the stage, stated in buyers' terms. The sophistication stage is counted against the Step 1 frame: how many of the alternatives are already making this category's outcome claim, and in what enlarged forms. Both stages then discipline the concept drafted above. Its lead form — what it puts first — must match them, and the record states the match. At sophistication stages four and five, the concept leads with the checkable mechanism, never with a larger version of the outcome claim.
+
+A field note, from a run of this skill: in a market where every competitor claimed better results, the concept that landed led with checkability itself — the published record as the mechanism, open for any buyer to inspect. In the same run, a results-superlative claim was tested and failed. Read plainly: a stage-two claim, in a stage-five market.
+
 ### Step 5 — Market category
 
 **Question: what frame, put around this value for these buyers, makes the value obvious?**
@@ -147,7 +165,7 @@ Two checks close the step:
 
 A position that buyers cannot retrieve at the moment of buying does not exist in the only place positions live. This step attaches the position to memory, using Romaniuk's mechanics; the full method is in `references/memory-and-measurement.md`.
 
-- **Category entry points.** List the buying situations the position must attach to: the cues — a trigger event, a place, a time, a feeling, a task gone wrong — that start a buyer thinking about the category. The owned concept is then stated so it can be retrieved at those points, and the list goes into the record, because it is the checklist all later memory-building work is judged against. Breadth lives here: the position stays narrow (Steps 4–5), while the entry-point list is as wide as the category's real buying situations.
+- **Category entry points.** List the buying situations the position must attach to: the cues — a trigger event, a place, a time, a feeling, a task gone wrong — that start a buyer thinking about the category. The owned concept is then stated so it can be retrieved at those points, and the list goes into the record, because it is the checklist all later memory-building work is judged against. Breadth lives here: the position stays narrow (Steps 4–5), while the entry-point list is as wide as the category's real buying situations. Schwartz's framing point supports the list's discipline: desire is channeled, never created, so the entry points are situations where the want already exists — the position attaches to them rather than trying to manufacture them.
 
 - **The distinctive-asset audit.** The brand's assets — name, marks, phrases, formats, faces, sounds — are scored on two measures across category buyers: **Fame** (how many buyers link the asset to the brand) and **Uniqueness** (how exclusively they link it to this brand and no other). An asset with high fame and high uniqueness can carry the position into memory. An asset buyers link to a competitor is worse than no asset. The audit names which assets carry the position and which are retired or rebuilt.
 
@@ -209,6 +227,8 @@ Trade-offs:           <customers not served, things not offered, deals walked aw
 
 — Supporting record —
 Beachhead:            <the one first segment, dominated before any other>
+Customer awareness stage: <the best-fit customer's Schwartz stage, in buyers' terms — what they already know and believe, from the evidence>
+Market sophistication stage: <1–5 — how many similar claims the market has already heard, and how the owned concept therefore leads; at stages 4–5, the checkable mechanism first, never a bigger claim>
 Unique attributes:    <the checked attributes from Step 2, each against the frame>
 Value, with proof:    <each value claim, paired with its checkable proof>
 Unproved claims:      <claims logged without proof — the research backlog, none positioned on>

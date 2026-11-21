@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.2.0 — 2026-11-21
+
+The diagnostic half of Eugene Schwartz's *Breakthrough Advertising* joins the skill. Schwartz was checked for across the marketing skills and was in none of them; what enters here is his diagnosis — two stages, named before a position is stated — and nothing else of the book.
+
+- **Two stages, diagnosed at Step 4.** The best-fit customer's awareness stage (unaware, problem aware, solution aware, product aware, most aware), read from what buyers say unprompted; and the market's sophistication stage, one to five, counted in the claims the Step 1 alternatives are already making. Both are recorded in the positioning record's supporting record as two new fields, and the sophistication field states how the owned concept therefore leads.
+
+- **The lead-form rule.** The owned concept's lead form must match the two stages, and the record says how. At sophistication stages four and five, the concept leads with the checkable mechanism, never a bigger claim — when every rival claims the better outcome, an enlarged claim carries no weight, and the lead a buyer can still weigh is the mechanism working in the open. A field note from a run of this skill is carried in Step 4, de-identified: in a results-saturated market the concept that landed led with checkability itself, the published record as the mechanism, while a results-superlative claim failed in the same run.
+
+- **The boundary is the point.** Schwartz's intensification craft — enlarged promises, dramatization, promise stacking — stays out, by name. It conflicts with the skill's claims discipline (no proof, no position) and does not meet the evidence standard the rest of the procedure runs on. Schwartz is labeled the way Ries and Trout are labeled in the framing axiom: a practitioner frame, not measured law, overruled by buying evidence wherever the two disagree. His mass-desire point — desire is channeled, never created — is cited as framing at Step 7's entry points, where it supports the existing discipline; it is not a step.
+
+- **The chain-out block is unchanged.** The five fields the one-page-marketing-plan skill consumes verbatim stay five; the two stage fields live in the supporting record, and the plan's media square reads the awareness stage from the record. The worked example's Step 4 now works the two stages on its composite case, so the example matches the procedure it teaches.
+
 ## 0.1.1 — 2026-11-19
 
 The output contract now calls in the writing pass, replacing the one-paragraph write-it-like-a-person rule. When a positioning record ships in raw strategy register, the owned concept reads as internal jargon and the record stops sounding like the buyers it is meant to win. The pass runs the work-humanizer skill in rewrite mode over the positioning record, then applies the writing-styles skill's plain rules, and the record is not done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.

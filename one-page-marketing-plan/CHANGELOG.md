@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 — 2026-11-21
+
+Square 3 learns to name its audience's awareness stage. The diagnosis comes from the positioning skill, which gained Schwartz's two-stage diagnosis in its own 0.2.0; this skill consumes the half of it a media plan can act on.
+
+- **One line in Square 3.** Each channel and surface in the media square now names the awareness stage it speaks to — unaware, problem aware, solution aware, product aware, or most aware. The stage is taken from the positioning record's customer awareness stage when a record exists, and from the plan's own Step 0 diagnosis when none does. The reasoning is the square's own attention discipline extended one step: a surface aimed at the wrong stage spends its seconds on buyers who cannot yet hear it — proof offered to buyers who do not know the problem, a problem story told to buyers already comparing products.
+
+- **Nothing else moves.** Square 2 still consumes the record's five chain-out fields as given; the awareness stage reaches Square 3 from the record's supporting record, not through the message square. The nine-squares reference states the same line where it lists what Square 3 contains. Schwartz's intensification craft does not enter this skill in any form, for the same reason it stays out of positioning: the plan's honest-proof guardrail bars claims a buyer cannot check.
+
 ## 0.1.1 — 2026-11-19
 
 The output contract now calls in the writing pass, replacing the one-paragraph write-it-like-a-person rule. When a marketing plan ships in raw strategy register, the nine squares read as a consultant's grid and the diagnosis and split hide behind imported terms. The pass runs the work-humanizer skill in rewrite mode over the one-page plan and its evidence notes, then applies the writing-styles skill's plain rules, and the plan is not done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.
