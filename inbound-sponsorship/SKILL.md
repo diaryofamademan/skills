@@ -1,7 +1,7 @@
 ---
 name: inbound-sponsorship
 description: "Use when a media property (publisher, newsletter, creator) receives inbound sponsorship, advertising, paid-placement, or affiliate inquiries: triage them against a bar, sort them into pricing lanes, negotiate on evidence, close hybrid deals with a floor, and run each placement through its lifecycle to renewal."
-version: 0.1.2
+version: 0.1.3
 author: Open skills contributors
 license: MIT
 metadata:
@@ -224,6 +224,16 @@ The media kit is the card lane's salesperson. It carries verifiable numbers and 
 Refresh the kit when the audience numbers move, and re-derive card prices from the benchmark method in [`references/benchmarks.md`](references/benchmarks.md): flat fee = CPM × audience basis ÷ 1,000, with the basis never mixed inside one comparison.
 
 ---
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At valuation, call fundraising** — a sponsorship is negotiated money; it is priced and structured with that skill's discipline, not by rate-card habit.
+
+- **At the counterparty read, call game-theory-for-decisions** — the sponsor's incentives, alternatives, and walk-away are mapped before any number is answered.
+
+- **At reply drafting, call comms** — the answer is one clear account for a named reader, with the decision asked for impossible to miss.
 
 ## Output contract
 
