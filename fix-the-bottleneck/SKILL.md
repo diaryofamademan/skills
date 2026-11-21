@@ -1,7 +1,7 @@
 ---
 name: fix-the-bottleneck
 description: "Use when a running system's output is below target and fixes keep landing without moving it: state the goal as throughput, measure every stage of the chain, identify the one constraint the queues point at, exploit and subordinate before elevating, and repeat when the constraint moves."
-version: 0.1.3
+version: 0.1.4
 author: Open skills contributors
 license: MIT
 metadata:
@@ -167,6 +167,14 @@ When throughput moves, the constraint has moved. Return to step 2 with fresh mea
 At every repeat, audit the rules the system wrote for the old constraint — holds, approvals, caps, routing — and retire or re-justify each. Goldratt's warning stands as the step's name in the original method: do not allow inertia to become the system's constraint.
 
 The run is done when the re-measure plan from the output contract has been read and judged against its done rule, not when the fixes have shipped.
+
+## Calls on sibling skills
+
+This skill does not run alone; the playbook is one playbook, and a skill calls the siblings its work needs, by name, at the step that needs them. The calls are steps, not suggestions:
+
+- **At the measure step, call first-principles-thinking** — the system is decomposed to measured terms before anything is fixed; a constraint named without the decomposition is a guess.
+
+- **When the constraint is a person or firm whose choices gate the flow, call game-theory-for-decisions** — the relief is designed against their incentives, not against their stated reasons.
 
 ## Limits and boundaries
 
