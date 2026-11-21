@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 — 2026-11-21
+
+Sibling calls wired, under the playbook rule: a skill calls the sibling skills its work needs, by name, at the step that needs them. The four-skill pass shaped this skill at build time, but the procedure itself named no calls — a run could complete without ever taking them. Now they are steps: first-principles at the measure step, game-theory when the constraint is an actor.
+
 ## 0.1.3 — 2026-11-19
 
 What a run returns now calls in the writing pass. When a bottleneck run ships in raw operations register, its rates and stage names bury the one constraint verdict the reader has to act on. The pass runs the work-humanizer skill in rewrite mode over the run's return — the goal, the chain map, the constraint verdict, and the exploit, subordinate, and elevate lists — then applies the writing-styles skill's plain rules, and the return is not done until the pass has run on the exact text being delivered. Facts, figures, quotes, names, dates, and statuses never change in the pass.
