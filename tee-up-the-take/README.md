@@ -32,7 +32,7 @@ flowchart LR
   E --> F["6. Attach the<br/>edit brief"]
 ```
 
-One job, stated in a sentence. One record, mined and ranked. One sort, claims in or out. Then the beats: turn, proof of life, receipts, method, quest, invitation, callback close — each a question, a hit, a land line, and a flag. The sheet is sized to the target length by deepening proven shapes before adding new ones, and the run closes by attaching the edit brief in its fixed order: transcribe, cut, cold open, weave, verify.
+One job, stated in a sentence. One record, mined and ranked. One sort, claims in or out. Then the beats: turn, proof of life, receipts, method, quest, invitation, callback close — each a bridge, a question, a hit, a land line, and a flag, spaced to be read at a glance on camera. The sheet is sized to the target length by deepening proven shapes before adding new ones, and the run closes by attaching the edit brief in its fixed order: transcribe, cut, cold open, weave, verify.
 
 ## <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> How to use with an agent
 
@@ -75,7 +75,7 @@ MIT. Use it, adapt it, ship your own version — keep the license notice with it
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.0 — first published version. See `CHANGELOG.md`.
+0.1.1 — bridges between beats, the no-drop rule, and camera spacing. See `CHANGELOG.md`.
 
 ## Get the skill
 

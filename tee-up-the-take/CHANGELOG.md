@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.1 — 2026-11-24
+
+Field fixes from the first run (a founder filming a collection launch the same day the skill shipped):
+
+- The beat format gains a fifth line: **Bridge**, the spoken transition into the beat. A sheet without bridges makes the performer invent the joins live, and invented joins are where a riff stalls.
+- New guardrail: **no drop in the middle.** The middle beats never announce the product, collection, or offer by name; the naming happens once, in the invitation beat, after the stories have earned it.
+- The deliverable rule now carries camera spacing: one sentence per paragraph, a blank line between every paragraph and every list item. The sheet is read mid-performance, often on a second screen.
+
 ## 0.1.0 — 2026-11-24
 
 First published version.

@@ -1,7 +1,7 @@
 ---
 name: tee-up-the-take
 description: "Use when a founder or creator is about to film a talking-head video: mine what their audience already responded to, sort the claims their record can carry, and build a sequential riff sheet — one question per beat, the receipt to hit, the line to land — plus the edit brief that turns the single take into a retention-first cut with a sound-bite cold open."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -71,11 +71,13 @@ Use this skill when:
 
 6. **The close is a doorway, not a pitch.** Where the video feeds a business — an audit, an application, a list — the final beat names the doorway and its real terms (who it is for, what it costs to enter, the honest cap) and stops. Hard selling in the close spends the trust the beats before it earned. This is the fundraising discipline applied to content: a process with stated terms beats a pitch.
 
-7. **Say it in the performer's words.** Beat prompts use the vocabulary the performer already uses in the record — their phrases, their numbers as they say them. A prompt written in a stranger's voice produces a performance in a stranger's voice.
+7. **No drop in the middle.** The middle beats never announce the product, the collection, or the offer by name. The performer tells the stories; the naming happens once, in the invitation beat, after the stories have earned it. A sheet that names the thing in beat two has turned the video into the announcement shape the mining step already showed losing.
 
-8. **Numbers are spoken, not printed.** Every figure on the sheet is written the way a person says it out loud, rounded to the spoken form. The exact figure lives in the run's evidence note. A performer reading a precise count off a sheet sounds like a report, and the camera hears it.
+8. **Say it in the performer's words.** Beat prompts use the vocabulary the performer already uses in the record — their phrases, their numbers as they say them. A prompt written in a stranger's voice produces a performance in a stranger's voice.
 
-9. **Write the deliverable plain.** Short sentences, one idea each, bold only on the lines the performer must land. The sheet is read at a glance, mid-performance; anything that needs a second read fails.
+9. **Numbers are spoken, not printed.** Every figure on the sheet is written the way a person says it out loud, rounded to the spoken form. The exact figure lives in the run's evidence note. A performer reading a precise count off a sheet sounds like a report, and the camera hears it.
+
+10. **Write the deliverable plain — and spaced for the camera.** Short sentences, one idea each, one sentence per paragraph, a blank line between every paragraph and every list item, bold only on the lines the performer must land. The sheet is read at a glance, mid-performance, often on a second screen; a dense sheet fails even when its beats are right. Anything that needs a second read fails.
 
 ## The one idea
 
@@ -120,8 +122,9 @@ Assemble the sheet as a sequence of beats, filmed in this order, in one take:
 6. **The invitation.** The one action from Step 1, as a doorway with its real terms (guardrail 6).
 7. **The callback close.** One line that returns to the turn and lands the video inside the story it opened with. Marked as a callback to beat 1.
 
-Each beat is written in the same four lines:
+Each beat is written in the same five lines:
 
+- **Bridge** — the spoken transition that carries the performer from the previous beat into this one, in their words (every beat after the first; the first beat opens cold). A sheet without bridges makes the performer invent the joins live, and invented joins are where a riff stalls.
 - **Question** — the exact prompt the performer riffs on.
 - **Hit** — the receipt, fact, or moment the answer must include.
 - **Land** — the one line the beat exists to produce, in the performer's words.
@@ -159,7 +162,7 @@ This skill does not run alone; the playbook is one playbook, and a skill calls t
 
 Every run returns three things:
 
-1. **The riff sheet** — the deliverable. Beats in filming order, each in its four lines (Question, Hit, Land, Flag), sized to the target length, plain enough to read at a glance. This is what the performer films from.
+1. **The riff sheet** — the deliverable. Beats in filming order, each in its five lines (Bridge, Question, Hit, Land, Flag), sized to the target length, plain and spaced enough to read at a glance on camera. This is what the performer films from.
 
 2. **The edit brief** — the fixed five-step order from Step 6, with the flagged cold-open candidates listed and the production skills named. This is what the edit runs from when the footage arrives.
 
@@ -194,9 +197,11 @@ Before a run is called done, confirm:
 - [ ] The winning and losing shapes are named from the counts, not from taste.
 - [ ] Every claim on the sheet passed the sort: said by the performer, or carrying a named witness that exists.
 - [ ] Ambitions appear only in goal form — dated, with milestones — in the quest beat.
-- [ ] Every beat has its four lines: a question (not a topic), a hit, a land line in the performer's words, and a flag.
+- [ ] Every beat has its five lines: a bridge (after the first beat), a question (not a topic), a hit, a land line in the performer's words, and a flag.
 - [ ] Every beat stands alone, except marked callbacks, which name the beat they call back to.
 - [ ] The beat count fits the target length, with depth added inside proven shapes before new beats.
+- [ ] The product, collection, or offer is named only in the invitation beat — no drop in the middle.
+- [ ] The sheet is spaced for the camera: one sentence per paragraph, a blank line between every paragraph and item.
 - [ ] The close is a doorway with real terms, not a pitch.
 - [ ] Cold-open candidates are flagged on the sheet.
 - [ ] The edit brief is attached, in its fixed order, naming the production skills.

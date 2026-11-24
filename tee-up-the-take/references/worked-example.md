@@ -33,18 +33,21 @@ Losing shape:
 - **Flag:** Cold-open candidate.
 
 **Beat 3 — The receipts**
+- **Bridge:** "And none of this came from nowhere. Let me give you the receipts."
 - **Question:** "What did the old company actually do, in numbers — and which of those numbers ended up teaching you a method?"
 - **Hit:** Eight figures lifetime revenue; the raise; the fund; one lesson per number, each tied to the method it produced.
 - **Land:** "Every method in this collection was paid for once already — in money I raised, spent, or lost."
 - **Flag:** Cold-open candidate.
 
 **Beat 5 — The quest**
+- **Bridge:** "So if the billion isn't the name, what is it? It's the goal."
 - **Question:** "So what is this collection actually for? What are you trying to prove with it, in public?"
 - **Hit:** The billion-dollar goal in goal form; the date; the milestones; where the scoreboard lives.
 - **Land:** "The goal is a billion-dollar company run by agents. The playbook is how. The numbers go up in public, win or lose."
 - **Flag:** Cold-open candidate.
 
 **Beat 7 — The callback close**
+- **Bridge:** "So here's where you get it. And one last thing about those fifty people."
 - **Question:** "Last thing. The fifty people — what would you tell them now?"
 - **Hit:** The turn, returned to; what the one-person version does that the fifty-person version could not.
 - **Land:** "Fifty people could not do what the playbook does now. One person can — because the playbook is the team."
