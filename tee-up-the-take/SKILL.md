@@ -1,7 +1,7 @@
 ---
 name: tee-up-the-take
 description: "Use when a founder or creator is about to film a talking-head video: mine what their audience already responded to, sort the claims their record can carry, and build a sequential riff sheet — one question per beat, the receipt to hit, the line to land — plus the edit brief that turns the single take into a retention-first cut with a sound-bite cold open."
-version: 0.1.1
+version: 0.1.2
 author: Open skills contributors
 license: MIT
 metadata:
@@ -77,7 +77,7 @@ Use this skill when:
 
 9. **Numbers are spoken, not printed.** Every figure on the sheet is written the way a person says it out loud, rounded to the spoken form. The exact figure lives in the run's evidence note. A performer reading a precise count off a sheet sounds like a report, and the camera hears it.
 
-10. **Write the deliverable plain — and spaced for the camera.** Short sentences, one idea each, one sentence per paragraph, a blank line between every paragraph and every list item, bold only on the lines the performer must land. The sheet is read at a glance, mid-performance, often on a second screen; a dense sheet fails even when its beats are right. Anything that needs a second read fails.
+10. **Write the deliverable plain — and formatted for the camera.** Short sentences, one idea each, one sentence per paragraph, a blank line between every paragraph and every list item, and sections separated by two line spaces. Labels before a colon are bold (**Question:**, **Hit:**, **Land:**). Anything in quotes — every line the performer will say out loud — is set in italics. Bold otherwise only on the lines the performer must land. The sheet is read at a glance, mid-performance, often on a second screen; a dense or flat sheet fails even when its beats are right. Anything that needs a second read fails.
 
 ## The one idea
 
@@ -201,7 +201,7 @@ Before a run is called done, confirm:
 - [ ] Every beat stands alone, except marked callbacks, which name the beat they call back to.
 - [ ] The beat count fits the target length, with depth added inside proven shapes before new beats.
 - [ ] The product, collection, or offer is named only in the invitation beat — no drop in the middle.
-- [ ] The sheet is spaced for the camera: one sentence per paragraph, a blank line between every paragraph and item.
+- [ ] The sheet is formatted for the camera: one sentence per paragraph, a blank line between every paragraph and item, sections separated by two line spaces, colon labels bold, quoted lines in italics.
 - [ ] The close is a doorway with real terms, not a pitch.
 - [ ] Cold-open candidates are flagged on the sheet.
 - [ ] The edit brief is attached, in its fixed order, naming the production skills.

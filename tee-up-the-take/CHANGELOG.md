@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.2 — 2026-11-24
+
+The camera format, completed from the first run's review:
+
+- Labels before a colon are bold (**Question:**, **Hit:**, **Land:**).
+- Anything in quotes — every line the performer says out loud — is set in italics.
+- Sections are separated by two line spaces, on top of the blank line between every paragraph and item.
+
 ## 0.1.1 — 2026-11-24
 
 Field fixes from the first run (a founder filming a collection launch the same day the skill shipped):

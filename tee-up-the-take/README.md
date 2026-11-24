@@ -75,7 +75,7 @@ MIT. Use it, adapt it, ship your own version — keep the license notice with it
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.1 — bridges between beats, the no-drop rule, and camera spacing. See `CHANGELOG.md`.
+0.1.2 — the full camera format: bold colon labels, spoken lines in italics, sections two line spaces apart. See `CHANGELOG.md`.
 
 ## Get the skill
 
