@@ -280,7 +280,7 @@
     },
     {
       "name": "podcast-yourself",
-      "description": "Prep a talking-head video before the camera rolls. Mine the performer's own posts for the shapes that already worked, sort every claim by who can say it, and build a riff sheet — one question per beat, the receipt to hit, the line to land — plus the edit brief the footage is cut under.",
+      "description": "Prep a talking-head video before the camera rolls. Mine the performer's own posts for the shapes that already worked, sort every claim by who can say it, and build a riff sheet \u2014 one question per beat, the receipt to hit, the line to land \u2014 plus the edit brief the footage is cut under.",
       "source": "./",
       "strict": false,
       "skills": [
@@ -299,7 +299,7 @@
     },
     {
       "name": "storytelling",
-      "description": "Design a story that holds to the end: the arc, the structure, the hook, the scenes, the ending. Every lesson carries its evidence label — measured, practitioner, framing, platform-declared, or observed — and the skill hands off scene cards a producer can build from.",
+      "description": "Design a story that holds to the end: the arc, the structure, the hook, the scenes, the ending. Every lesson carries its evidence label \u2014 measured, practitioner, framing, platform-declared, or observed \u2014 and the skill hands off scene cards a producer can build from.",
       "source": "./",
       "strict": false,
       "skills": [
@@ -355,7 +355,7 @@
     },
     {
       "name": "playbook",
-      "description": "The router for the Made Man Playbooks. Hand it a task with no skills named: it classifies the task, selects the skills whose triggers match, runs each for real and in order — understand, decide, position, plan, say — and merges the results into one deliverable.",
+      "description": "The router for the Made Man Playbooks. Hand it a task with no skills named: it classifies the task, selects the skills whose triggers match, runs each for real and in order \u2014 understand, decide, position, plan, say \u2014 and merges the results into one deliverable.",
       "source": "./",
       "strict": false,
       "skills": [
@@ -369,6 +369,44 @@
         "playbooks",
         "skill-selection",
         "workflow"
+      ]
+    },
+    {
+      "name": "psychological-profiling",
+      "description": "Evidence-graded profiles of people from their own public words and record.",
+      "source": "./psychological-profiling",
+      "strict": false,
+      "skills": [
+        "./fundraising"
+      ],
+      "version": "0.3.15",
+      "license": "MIT",
+      "keywords": [
+        "fundraising",
+        "seed",
+        "venture-capital",
+        "lp",
+        "m-and-a",
+        "term-sheet"
+      ]
+    },
+    {
+      "name": "due-diligence",
+      "description": "Verify what is true about a person or company from public records before committing.",
+      "source": "./due-diligence",
+      "strict": false,
+      "skills": [
+        "./fundraising"
+      ],
+      "version": "0.2.10",
+      "license": "MIT",
+      "keywords": [
+        "fundraising",
+        "seed",
+        "venture-capital",
+        "lp",
+        "m-and-a",
+        "term-sheet"
       ]
     }
   ]

@@ -42,6 +42,7 @@ The playbooks run in five groups, in the order the work runs: understand the pro
 | --- | --- | --- |
 | [first-principles-thinking](./first-principles-thinking/) | Take a decision, a design, a cost, or a plan apart. Keep only the claims that have **real evidence**. Price the raw inputs where money is involved. Then build a better option up from the floor, instead of copying what was done before. The method follows Shane Parrish's [first principles essay at Farnam Street](https://fs.blog/first-principles/), and the sources are listed in `references/sources-and-urls.md`. | **v1.5.5** |
 | [fix-the-bottleneck](./fix-the-bottleneck/) | Fix the one stage that sets a running system's pace. State the goal as throughput. Measure the chain. Get more from the constraint, and set everything else to its pace, before you spend on more. And when the constraint moves, run it again. | **v0.1.4** |
+| [psychological-profiling](./psychological-profiling/) | Build an evidence-graded profile of a person from their own public words and record — what they want, how they decide, what to say and what to avoid — before a first outreach or an important meeting. | 0.3.15 |
 
 ### Decide
 
@@ -49,6 +50,7 @@ The playbooks run in five groups, in the order the work runs: understand the pro
 | --- | --- | --- |
 | [game-theory-for-decisions](./game-theory-for-decisions/) | Decide when the result depends on what other people do. **Map who is playing**, what each one gains or loses, who knows what, and who moves when. Work out how they are likely to answer. Then pick your best move, or **change the game** itself. It covers negotiations, competition, enforcement, and cooperation. The method follows Farnam Street's [game theory mental model](https://fs.blog/mental-model-game-theory/), and the sources are listed in `references/sources-and-urls.md`. | **v1.0.4** |
 | [fundraising](./fundraising/) | Run a **startup** raise, a fund raise from **LPs**, or the **sale of a company**, from the first list to the close: one shared process, the rules that keep it honest, and a playbook for each kind of raise. It also includes lessons from Travis Kalanick, retold in plain words, from his interview on the [David Senra podcast](https://www.davidsenra.com/episode/travis-kalanick), in `references/interview-lessons.md`. | **v3.3.6** |
+| [due-diligence](./due-diligence/) | Check what is verifiably true about a person or a company before committing — identity, entities, legal and regulatory history, distress signals, and whether their claims match the record. | 0.2.10 |
 
 ### Position
 

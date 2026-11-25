@@ -28,6 +28,16 @@ Two standing support skills sit outside this roster and are never selected per t
 
 - **Hands off:** the goal stated as throughput, the chain map, the one constraint verdict with its kind and its loss classes, and the exploit, subordinate, and elevate lists with a re-measure plan. Hands a stage that needs redesigning to first-principles-thinking, and a constraint that is another actor's choice to game-theory-for-decisions.
 
+### psychological-profiling
+
+- **Owns:** an evidence-graded profile of a person built from their own public words and record: what they want, how they decide, how they talk, what to say and what to avoid — every claim carrying its evidence, a confidence level, and the thing that would prove it wrong.
+
+- **Triggers:** a first outreach or an important meeting with someone not yet known; negotiation or partnership prep where the other person's drivers decide the outcome.
+
+- **Consumes:** the person's public record — posts, interviews, talks, filings — and the purpose of the meeting or outreach.
+
+- **Hands off:** the dossier, with say and avoid guidance, to cold-outreach, fundraising, or game-theory-for-decisions. When the question is whether the person's claims are true rather than what drives them, that is due-diligence.
+
 ## Decide
 
 ### game-theory-for-decisions
@@ -49,6 +59,16 @@ Two standing support skills sit outside this roster and are never selected per t
 - **Consumes:** a finished position — the concept comes from the positioning record and is borrowed whole, never re-set inside the raise.
 
 - **Hands off:** the raise run as a process: the pipeline, the sequencing of investors, the anchor strategy, the terms conversation, and the close. Its drafts carry the fundraising guardrails wherever the router's merged output quotes them.
+
+### due-diligence
+
+- **Owns:** checking what is verifiably true about a person or a company before committing to them: identity, entities, legal and regulatory history, financial-distress signals, and whether their claims match the public record. Every item returns with a status, a source, and a date.
+
+- **Triggers:** a partnership, an investment, a hire, or a major contract being considered; a counterparty whose claims need checking against the record before money, signature, or reputation moves.
+
+- **Consumes:** the subject's name and identifiers, the claims to check, and the decision the check feeds.
+
+- **Hands off:** the verified fact sheet — which feeds psychological-profiling when the subject is a person — and the evidence base for a commit or do-not-commit decision.
 
 ## Position
 

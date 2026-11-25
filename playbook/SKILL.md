@@ -91,22 +91,24 @@ The router selects from the Made Man Playbooks. The summary below is the selecti
 | --- | --- | --- | --- |
 | 1 | first-principles-thinking | Stripping a decision, design, or cost to truths that carry evidence, and rebuilding from the floor | Understand |
 | 2 | fix-the-bottleneck | A running system's one constraint, and the order to relieve it in | Understand |
-| 3 | game-theory-for-decisions | Outcomes that depend on other actors' choices | Decide |
-| 4 | fundraising | Raising capital, or selling a business, as a competitive process | Decide |
-| 5 | positioning | What a company or product will be thought of as | Position |
-| 6 | business-model-canvas | How a business makes money, stated and tested on one sheet | Position |
-| 7 | vision-and-manifesto | A vision, mission, or manifesto that changes real decisions | Position |
-| 8 | one-page-marketing-plan | The whole marketing system on one page | Plan |
-| 9 | cold-outreach | First messages to people with no prior relationship | Plan |
-| 10 | funnel-operator | A video channel run as a system, episode after episode | Plan |
-| 11 | comms | Public moments, and how a thing is said | Say |
-| 12 | write-in-your-voice | Drafting in a named person's real voice, built from their speech | Say |
-| 13 | stop-the-scroll | Whether content earns attention: the hook and the call to action | Say |
-| 14 | storytelling | Narrative structure, the hook, and what every scene is for | Say |
-| 15 | cartoon-system | Recurring-character illustration: character bibles, panel grammar, drift checks | Say |
-| 16 | interview-yourself | Content drawn from a person's own lived experience, by interview | Say |
-| 17 | podcast-yourself | A talking-head video prepped from counted results and documented receipts: the riff sheet and the edit brief | Say |
-| 18 | playbook | This router: selection, order, merge, and the closing line | — |
+| 3 | psychological-profiling | An evidence-graded profile of a person, from their own public words and record | Understand |
+| 4 | game-theory-for-decisions | Outcomes that depend on other actors' choices | Decide |
+| 5 | fundraising | Raising capital, or selling a business, as a competitive process | Decide |
+| 6 | due-diligence | What is verifiably true about a person or company, checked against the public record | Decide |
+| 7 | positioning | What a company or product will be thought of as | Position |
+| 8 | business-model-canvas | How a business makes money, stated and tested on one sheet | Position |
+| 9 | vision-and-manifesto | A vision, mission, or manifesto that changes real decisions | Position |
+| 10 | one-page-marketing-plan | The whole marketing system on one page | Plan |
+| 11 | cold-outreach | First messages to people with no prior relationship | Plan |
+| 12 | funnel-operator | A video channel run as a system, episode after episode | Plan |
+| 13 | comms | Public moments, and how a thing is said | Say |
+| 14 | write-in-your-voice | Drafting in a named person's real voice, built from their speech | Say |
+| 15 | stop-the-scroll | Whether content earns attention: the hook and the call to action | Say |
+| 16 | storytelling | Narrative structure, the hook, and what every scene is for | Say |
+| 17 | cartoon-system | Recurring-character illustration: character bibles, panel grammar, drift checks | Say |
+| 18 | interview-yourself | Content drawn from a person's own lived experience, by interview | Say |
+| 19 | podcast-yourself | A talking-head video prepped from counted results and documented receipts: the riff sheet and the edit brief | Say |
+| 20 | playbook | This router: selection, order, merge, and the closing line | — |
 
 Two standing support skills sit outside the routed roster and are called by the writing pass in step 7 of every run: **work-humanizer** (rewrite mode) and **writing-styles** (the plain rules). They are not selected per task. They are how every merged deliverable gets finished.
 
@@ -130,9 +132,9 @@ Select every skill whose triggers the task matches. Then record, in the working 
 
 Run the selected skills in the collection's fixed order:
 
-1. **Understand** — first-principles-thinking, fix-the-bottleneck. What is true, what it costs at the floor, and where the running system actually loses its output.
+1. **Understand** — first-principles-thinking, fix-the-bottleneck, psychological-profiling. What is true, what it costs at the floor, where the running system actually loses its output, and who the person across the table is, from their own record.
 
-2. **Decide** — game-theory-for-decisions, fundraising. What to do, given that other actors move too, and given the money process where money is being raised or a business sold.
+2. **Decide** — game-theory-for-decisions, fundraising, due-diligence. What to do, given that other actors move too, given the money process where money is being raised or a business sold, and given what the public record verifies about the parties.
 
 3. **Position** — positioning, business-model-canvas, vision-and-manifesto. What the thing will be thought of as, how it makes money, and what it stands for — in that order inside the phase, because the canvas and the vision both lean on the position.
 
