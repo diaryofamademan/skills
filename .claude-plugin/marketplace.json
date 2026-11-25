@@ -17,7 +17,7 @@
       "skills": [
         "./fundraising"
       ],
-      "version": "3.3.5",
+      "version": "3.3.6",
       "license": "MIT",
       "keywords": [
         "fundraising",
@@ -36,7 +36,7 @@
       "skills": [
         "./first-principles-thinking"
       ],
-      "version": "1.5.4",
+      "version": "1.5.5",
       "license": "MIT",
       "keywords": [
         "first-principles",
@@ -53,7 +53,7 @@
       "skills": [
         "./game-theory-for-decisions"
       ],
-      "version": "1.0.3",
+      "version": "1.0.4",
       "license": "MIT",
       "keywords": [
         "game-theory",
@@ -71,7 +71,7 @@
       "skills": [
         "./comms"
       ],
-      "version": "1.1.4",
+      "version": "1.1.5",
       "license": "MIT",
       "keywords": [
         "communications",
@@ -85,7 +85,7 @@
       "name": "write-in-your-voice",
       "source": "./write-in-your-voice",
       "description": "Build a working voice for a person from how they actually speak, then draft in it. Build a bank of their own words from their speech, kept in a fixed order, most trusted first. Draft from their own sentences. Check the words, and check the shape of the draft too. And keep a record of which drafts the person kills.",
-      "version": "1.2.5",
+      "version": "1.2.6",
       "author": {
         "name": "Ian Balina"
       },
@@ -106,7 +106,7 @@
       "name": "fix-the-bottleneck",
       "source": "./fix-the-bottleneck",
       "description": "A Theory of Constraints procedure for running systems. State the goal as throughput. Measure every stage. Find the one constraint. Get more from it, and set everything else to its pace, before you spend to lift it. Then measure again, and keep going until the output moves.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "author": {
         "name": "Ian Balina"
       },
@@ -127,7 +127,7 @@
       "name": "stop-the-scroll",
       "source": "./stop-the-scroll",
       "description": "A procedure for building content: AIDA, with the ends hardened. The hook and the call to action are each built to stand out among a hundred pieces, and to stand alone with nothing around them, over a middle anyone can follow, about impact.",
-      "version": "0.3.0",
+      "version": "0.4.1",
       "author": {
         "name": "Ian Balina"
       },
@@ -148,7 +148,7 @@
       "name": "cold-outreach",
       "source": "./cold-outreach",
       "description": "How to write cold email and cold DMs that earn replies, built from evidence that was checked, not advice nobody ever tested. Test the offer. Build the batch from a trigger. Check the warm path and the history. Research one true observation. Ask one question about interest.",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "author": {
         "name": "Ian Balina"
       },
@@ -168,7 +168,7 @@
       "name": "positioning",
       "source": "./positioning",
       "description": "Decide what a product will be thought of as, on buyer evidence, in a fixed order: what buyers would do instead, what the product uniquely has, what that is worth with proof, who cares most, and the category last. No position ships without named trade-offs. Returns a positioning record a marketing plan can consume directly.",
-      "version": "0.1.1",
+      "version": "0.2.1",
       "author": {
         "name": "Ian Balina"
       },
@@ -187,7 +187,7 @@
       "name": "one-page-marketing-plan",
       "source": "./one-page-marketing-plan",
       "description": "Build the whole marketing system on one page: diagnosis first, then nine squares - target, message, media, capture, nurture, convert, experience, lifetime value, referrals - each standing on measured evidence about how buyers behave, with the brand-versus-activation split stated as a hypothesis with a review date.",
-      "version": "0.1.1",
+      "version": "0.3.3",
       "author": {
         "name": "Ian Balina"
       },
@@ -206,7 +206,7 @@
       "name": "interview-yourself",
       "description": "An AI interviewer that asks questions a stranger already cares about, with the receipt from your own week and the numbers attached, so your answers out loud become posts.",
       "source": "./interview-yourself",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "author": {
         "name": "Ian Balina"
       },
@@ -219,6 +219,156 @@
         "voice-notes",
         "questions",
         "personal-brand"
+      ]
+    },
+    {
+      "name": "business-model-canvas",
+      "description": "State how a business makes money on one sheet, and test it. A fit test picks the Lean Canvas while the model is still being searched for, or the nine-block Business Model Canvas once it is found. Fill it from evidence, then rank the riskiest assumptions, each with its next test.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./business-model-canvas"
+      ],
+      "version": "0.1.3",
+      "license": "MIT",
+      "keywords": [
+        "business-model",
+        "canvas",
+        "lean-canvas",
+        "strategy",
+        "startups",
+        "value-proposition"
+      ]
+    },
+    {
+      "name": "vision-and-manifesto",
+      "description": "Write a vision, mission, or manifesto that does work. One core set of beliefs at three lengths: the vision as a picturable future with a number on it, the mission as the work now, and a manifesto only when a public job exists for one. It ships only when the statements change real decisions about hiring, firing, and money.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./vision-and-manifesto"
+      ],
+      "version": "0.1.3",
+      "license": "MIT",
+      "keywords": [
+        "vision",
+        "mission",
+        "manifesto",
+        "strategy",
+        "leadership",
+        "culture"
+      ]
+    },
+    {
+      "name": "inbound-sponsorship",
+      "description": "Run the inbound sponsorship desk for a media property: triage inquiries against a bar, sort them into pricing lanes, negotiate on evidence, structure hybrid deals with a floor, and run each placement through its lifecycle to renewal.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./inbound-sponsorship"
+      ],
+      "version": "0.1.3",
+      "license": "MIT",
+      "keywords": [
+        "sponsorship",
+        "advertising",
+        "media-sales",
+        "inbound-sales",
+        "negotiation",
+        "pricing"
+      ]
+    },
+    {
+      "name": "podcast-yourself",
+      "description": "Prep a talking-head video before the camera rolls. Mine the performer's own posts for the shapes that already worked, sort every claim by who can say it, and build a riff sheet — one question per beat, the receipt to hit, the line to land — plus the edit brief the footage is cut under.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./podcast-yourself"
+      ],
+      "version": "0.2.0",
+      "license": "MIT",
+      "keywords": [
+        "video",
+        "talking-head",
+        "content-prep",
+        "riff-sheet",
+        "retention",
+        "launch"
+      ]
+    },
+    {
+      "name": "storytelling",
+      "description": "Design a story that holds to the end: the arc, the structure, the hook, the scenes, the ending. Every lesson carries its evidence label — measured, practitioner, framing, platform-declared, or observed — and the skill hands off scene cards a producer can build from.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./storytelling"
+      ],
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": [
+        "storytelling",
+        "narrative",
+        "retention",
+        "hooks",
+        "story-structure",
+        "scenes"
+      ]
+    },
+    {
+      "name": "cartoon-system",
+      "description": "Keep a recurring character recognisably the same across every image. A character bible holds the cast, each image is generated against the approved images before it, and a drift check fails anything that wanders before it ships. Images only; text layers are optional and off by default.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./cartoon-system"
+      ],
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": [
+        "cartoons",
+        "characters",
+        "illustration",
+        "image-generation",
+        "consistency",
+        "panels"
+      ]
+    },
+    {
+      "name": "funnel-operator",
+      "description": "Run a video channel as a system, not as one-off uploads. The channel is set up once as a single config file, and every episode moves through the same nine stages, with distribution to the channel's other platforms and a scoreboard reading the funnel end to end.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./funnel-operator"
+      ],
+      "version": "0.6.0",
+      "license": "MIT",
+      "keywords": [
+        "video",
+        "youtube",
+        "content-pipeline",
+        "channel-operations",
+        "storytelling"
+      ]
+    },
+    {
+      "name": "playbook",
+      "description": "The router for the Made Man Playbooks. Hand it a task with no skills named: it classifies the task, selects the skills whose triggers match, runs each for real and in order — understand, decide, position, plan, say — and merges the results into one deliverable.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./playbook"
+      ],
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": [
+        "router",
+        "orchestration",
+        "playbooks",
+        "skill-selection",
+        "workflow"
       ]
     }
   ]
