@@ -22,4 +22,4 @@ Attach this brief to every riff sheet. It is the instruction the edit runs under
 
 ## Production skills the edit runs under
 
-Transcription: the transcribe-recordings skill. Cutting and assembly: the FFmpeg skill set. Direction, pacing, and motion: the AI director and motion-graphics skills, and the channel-operator production stages where a channel system applies. The brief names them; their own rules govern inside the edit.
+Transcription: the transcribe-recordings skill. Cutting and assembly: the FFmpeg skill set. Direction, pacing, and motion: the AI director and motion-graphics skills, and the funnel-operator production stages where a channel system applies. The brief names them; their own rules govern inside the edit.

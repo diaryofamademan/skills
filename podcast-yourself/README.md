@@ -1,4 +1,4 @@
-# <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> tee-up-the-take (open skill)
+# <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> podcast-yourself (open skill)
 
 **A prep method that turns a founder's proven content and documented receipts into a sequential riff sheet for a talking-head video — one question per beat, the receipt to hit, the line to land — plus the edit brief that cuts the single take for retention, sound bites first.**
 
@@ -38,7 +38,7 @@ One job, stated in a sentence. One record, mined and ranked. One sort, claims in
 
 | You want | Say |
 |---|---|
-| A riff sheet for a launch video | "Run tee-up-the-take for the launch video. The job is [one action]. Target length [minutes]." |
+| A riff sheet for a launch video | "Run podcast-yourself for the launch video. The job is [one action]. Target length [minutes]." |
 | To know what to double down on | "Mine my last month of posts and name the winning shapes before you draft anything." |
 | A long video's structure | "Size the sheet for thirty minutes. Expand the method beat before adding beats." |
 | The edit brief for footage already filmed | "Attach the edit brief to this sheet, with the cold-open candidates flagged." |
@@ -48,7 +48,7 @@ The agent will ask for the video's job and the performer's content record if it 
 ## <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Folder map
 
 ```
-tee-up-the-take/
+podcast-yourself/
   SKILL.md            the method: guardrails, the six steps, the output contract
   README.md           this file
   CHANGELOG.md        version history
@@ -75,8 +75,8 @@ MIT. Use it, adapt it, ship your own version — keep the license notice with it
 
 ## <img src="assets/icons/calendar-03.svg" width="20" height="20" alt="" /> Version
 
-0.1.2 — the full camera format: bold colon labels, spoken lines in italics, sections two line spaces apart. See `CHANGELOG.md`.
+0.2.0 — renamed to Podcast Yourself (formerly Tee Up the Take); the method is unchanged. See `CHANGELOG.md`.
 
 ## Get the skill
 
-Copy the `tee-up-the-take/` folder into your agent's skills directory, or point your agent at this repository and tell it to install the skill by name. Then give it a video to prep.
+Copy the `podcast-yourself/` folder into your agent's skills directory, or point your agent at this repository and tell it to install the skill by name. Then give it a video to prep.

@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 — 2026-11-25
+
+Renamed: the skill is now **Podcast Yourself** (it was Tee Up the Take).
+
+- The new name says the job: an interview with yourself, run like a podcast, that produces a long-form video. Its sibling, Interview Yourself, is the written-content version.
+- Folder, package name, and references updated to match. The method is unchanged.
+
+
 ## 0.1.2 — 2026-11-24
 
 The camera format, completed from the first run's review:

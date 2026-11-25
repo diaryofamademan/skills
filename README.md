@@ -74,7 +74,7 @@ The playbooks run in five groups, in the order the work runs: understand the pro
 | [write-in-your-voice](./write-in-your-voice/) | Write in a person's real voice, built from how they actually speak. First build a bank of their own words, from their speech. Draft from their own sentences. Then check the draft's shape, not just its words. | **v1.2.5** |
 | [stop-the-scroll](./stop-the-scroll/) | Build content whose hook and call to action each stand out among a hundred pieces, and stand alone with nothing around them. The frame is AIDA, with the ends hardened, over a middle anyone can follow, about impact. | **v0.3.0** |
 | [interview-yourself](./interview-yourself/) | An AI interviewer that asks questions a stranger already cares about, with the receipt from your own week and the numbers attached, so your answers out loud become posts. | **v0.1.3** |
-| [tee-up-the-take](./tee-up-the-take/) | Prep a **talking-head video** before the camera rolls. Mine the performer's own posts for the shapes that already worked. Sort every claim by who can say it. Then build a **riff sheet** — one question per beat, the receipt to hit, the line to land — plus the **edit brief** the footage is cut under. | **v0.1.2** |
+| [podcast-yourself](./podcast-yourself/) | Prep a **talking-head video** before the camera rolls. Mine the performer's own posts for the shapes that already worked. Sort every claim by who can say it. Then build a **riff sheet** — one question per beat, the receipt to hit, the line to land — plus the **edit brief** the footage is cut under. | **v0.1.2** |
 
 ## How to use
 

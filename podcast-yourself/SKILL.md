@@ -1,14 +1,14 @@
 ---
-name: tee-up-the-take
+name: podcast-yourself
 description: "Use when a founder or creator is about to film a talking-head video: mine what their audience already responded to, sort the claims their record can carry, and build a sequential riff sheet — one question per beat, the receipt to hit, the line to land — plus the edit brief that turns the single take into a retention-first cut with a sound-bite cold open."
-version: 0.1.2
+version: 0.2.0
 author: Open skills contributors
 license: MIT
 metadata:
   tags: [video, talking-head, content-prep, riff-sheet, retention, launch]
 ---
 
-# <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> tee-up-the-take
+# <img src="assets/icons/mic-01.svg" width="20" height="20" alt="" /> podcast-yourself
 
 > **How to read this**
 >
@@ -53,7 +53,7 @@ Use this skill when:
 
 - **Not when there is no record to mine.** A first-ever video has no counted results. Use interview-yourself to draw the material out, and treat the first video itself as the start of the record this skill mines next time.
 
-- **Not for channel operations.** Cadence, packaging, and episode systems across a whole channel belong to channel-operator. This skill preps one video.
+- **Not for channel operations.** Cadence, packaging, and episode systems across a whole channel belong to funnel-operator. This skill preps one video.
 
 - **Not as the edit.** The brief this skill attaches is an instruction to the edit, not the edit. Production runs under the transcription and video skills.
 
@@ -178,7 +178,7 @@ Every run returns three things:
 
 - **Boundary — interview-yourself.** That skill draws material out of a person by interview, for copy written afterwards. This skill arms a person to perform on camera, from material the record already proved. When the material does not exist yet, interview-yourself runs first and this skill consumes its answers as receipts.
 
-- **Boundary — channel-operator.** That skill runs a channel as a system: cadence, packaging, series. This skill preps a single video, wherever it will live.
+- **Boundary — funnel-operator.** That skill runs a channel as a system: cadence, packaging, series. This skill preps a single video, wherever it will live.
 
 - **Boundary — comms.** Comms decides whether and how a founder speaks at a moment. This skill assumes the moment is decided and builds the performer's sheet for it. A claim the sort cannot carry goes back to comms, not onto the sheet.
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Structural checks for the tee-up-the-take package.
+"""Structural checks for the podcast-yourself package.
 
 Run before publishing: python3 scripts/verify.py
 Exits 0 when every check passes; prints FAIL lines otherwise.
@@ -63,4 +63,4 @@ if fails:
     for f in fails:
         print("FAIL:", f)
     sys.exit(1)
-print("OK: tee-up-the-take package passes structural checks")
+print("OK: podcast-yourself package passes structural checks")
