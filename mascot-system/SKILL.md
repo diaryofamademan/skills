@@ -1,16 +1,16 @@
 ---
-name: cartoon-system
+name: mascot-system
 description: "Use when a piece must show a recurring character and the character has to stay the same across every image: a cartoon strip, a carousel, a deck, a character-led video. The skill produces images only — clean panels generated from a character bible, chained so each approved image anchors the next, and passed through a drift check before anything ships. Headlines, captions, and a signature block are optional text layers, each behind its own flag, all off by default. Returns the finished images, a drift-check result per image, and any updates to the character bible."
-version: 0.1.0
+version: 0.2.0
 author: "Open skills contributors"
 license: MIT
 metadata:
   tags: [cartoons, characters, illustration, image-generation, consistency, panels]
 ---
 
-# <img src="assets/icons/presentation-01.svg" width="26" height="26" alt="" /> Cartoon System (open skill)
+# <img src="assets/icons/presentation-01.svg" width="26" height="26" alt="" /> Mascot System (open skill)
 
-**Cartoon System is the image layer for recurring characters: it keeps one character recognisably the same across a whole piece and across a whole series, by generating from a character bible, chaining each image to the approved ones before it, and failing any image that drifts.**
+**Mascot System is the image layer for recurring characters: it keeps one character recognisably the same across a whole piece and across a whole series, by generating from a character bible, chaining each image to the approved ones before it, and failing any image that drifts.**
 
 ## <img src="assets/icons/book-open-01.svg" width="20" height="20" alt="" /> How to read this
 

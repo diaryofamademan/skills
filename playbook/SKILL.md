@@ -105,7 +105,7 @@ The router selects from the Made Man Playbooks. The summary below is the selecti
 | 14 | write-in-your-voice | Drafting in a named person's real voice, built from their speech | Say |
 | 15 | stop-the-scroll | Whether content earns attention: the hook and the call to action | Say |
 | 16 | storytelling | Narrative structure, the hook, and what every scene is for | Say |
-| 17 | cartoon-system | Recurring-character illustration: character bibles, panel grammar, drift checks | Say |
+| 17 | mascot-system | Recurring-character illustration: character bibles, panel grammar, drift checks | Say |
 | 18 | interview-yourself | Content drawn from a person's own lived experience, by interview | Say |
 | 19 | podcast-yourself | A talking-head video prepped from counted results and documented receipts: the riff sheet and the edit brief | Say |
 | 20 | playbook | This router: selection, order, merge, and the closing line | — |
@@ -140,7 +140,7 @@ Run the selected skills in the collection's fixed order:
 
 4. **Plan** — one-page-marketing-plan, cold-outreach, funnel-operator. The system that carries the position to market: the plan, the first messages, the channel.
 
-5. **Say** — comms, write-in-your-voice, stop-the-scroll, storytelling, cartoon-system, interview-yourself, podcast-yourself. The words and the pictures: the moment named and said plainly, in the owner's voice where the voice is the owner's, with a hook that earns the attention, a story shape that holds it, a recurring character drawn the same in every frame, and — for launches — the owner's own answers as the only source. A talking-head video gets its riff sheet here: the counted shapes and the sorted claims, built into beats the performer can riff from and the edit can weave.
+5. **Say** — comms, write-in-your-voice, stop-the-scroll, storytelling, mascot-system, interview-yourself, podcast-yourself. The words and the pictures: the moment named and said plainly, in the owner's voice where the voice is the owner's, with a hook that earns the attention, a story shape that holds it, a recurring character drawn the same in every frame, and — for launches — the owner's own answers as the only source. A talking-head video gets its riff sheet here: the counted shapes and the sorted claims, built into beats the performer can riff from and the edit can weave.
 
 The order is load-bearing because the collection is built as a chain of consumption: the marketing plan consumes the positioning record, the channel config consumes the position, comms says a position it does not set. A skill later in the order that finds its input missing does not improvise it — it sends the run back to the earlier skill that owns it.
 

@@ -317,14 +317,14 @@
       ]
     },
     {
-      "name": "cartoon-system",
+      "name": "mascot-system",
       "description": "Keep a recurring character recognisably the same across every image. A character bible holds the cast, each image is generated against the approved images before it, and a drift check fails anything that wanders before it ships. Images only; text layers are optional and off by default.",
-      "source": "./",
+      "source": "./mascot-system",
       "strict": false,
       "skills": [
         "./cartoon-system"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "license": "MIT",
       "keywords": [
         "cartoons",

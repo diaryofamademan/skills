@@ -176,7 +176,7 @@ Two standing support skills sit outside this roster and are never selected per t
 
 - **Hands off:** the story structure — arc, hook, chapter turns, scene functions — delivered as scene cards a producer can build from, which funnel-operator builds episodes on and comms builds moments on. It owns the shape of the telling, never the facts being told: claims still trace to their sources under the consuming skill's rules.
 
-### cartoon-system
+### mascot-system
 
 - **Owns:** recurring-character illustration — character bibles, panel grammar, chained generation, and the drift check that keeps one character recognisably the same across every image. It produces images only: headlines, captions, and the signature block are text layers behind flags (`headline`, `caption`, `signature`), all off by default and set by the caller.
 

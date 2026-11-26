@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# verify.sh — cartoon-system package check.
+# verify.sh — mascot-system package check.
 # Confirms the publish shape: required files exist, SKILL.md frontmatter
 # carries name and version, README.md carries every standard section,
 # the references index lists every reference file, every referenced icon
@@ -24,10 +24,10 @@ for f in SKILL.md README.md CHANGELOG.md \
 done
 
 # 2. SKILL.md frontmatter carries name and version.
-if head -20 SKILL.md | grep -q '^name: cartoon-system$'; then
-  pass "SKILL.md frontmatter name is cartoon-system"
+if head -20 SKILL.md | grep -q '^name: mascot-system$'; then
+  pass "SKILL.md frontmatter name is mascot-system"
 else
-  bad "SKILL.md frontmatter name is not cartoon-system"
+  bad "SKILL.md frontmatter name is not mascot-system"
 fi
 
 if head -20 SKILL.md | grep -q '^version: '; then

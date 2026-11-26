@@ -1,4 +1,4 @@
-# <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> cartoon-system (open skill)
+# <img src="assets/icons/presentation-01.svg" width="20" height="20" alt="" /> mascot-system (open skill)
 
 **Any model can draw your character once. The second drawing is where characters go to die.** This skill keeps a recurring character recognisably the same across a strip, a carousel, a deck, or a character-led video: a character bible holds the cast, each image is generated against the approved images before it, and a drift check fails anything that wanders — the eyes first of all.
 

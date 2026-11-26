@@ -1,3 +1,7 @@
+## 0.2.0 — 2026-11-25
+
+Renamed from Cartoon System to Mascot System: the skill builds a brand mascot system — the spirit animal chosen from the brand ethos, locked in a character bible, and drawn the same across the website, the channel, and social. Method unchanged.
+
 # <img src="assets/icons/link-01.svg" width="20" height="20" alt="" /> Changelog
 
 ## 0.1.0 — 2026-11-23
