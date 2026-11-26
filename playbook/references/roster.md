@@ -82,6 +82,16 @@ Two standing support skills sit outside this roster and are never selected per t
 
 - **Hands off:** the positioning record — owned concept, market category, competitive frame, best-fit customers, trade-offs, plus the supporting record — written to be consumed directly as the message square of one-page-marketing-plan and as the position fields of a funnel-operator config. Calls first-principles-thinking at the evidence step and comms at the statement step.
 
+### zero-to-one
+
+- **Owns:** whether a venture is a creation or a copy, tested on Peter Thiel's frame: the creation verdict read off a decomposition of the claimed novelty; the secret, stated in one sentence and tested three ways; the plan rewritten definite, with the rest named as bets; the monopoly read, with Girard's mimetic desire as the lens for why markets crowd; the seven questions answered or marked unanswered; and the beachhead sequence, small market dominated first.
+
+- **Triggers:** a founding or a pivot being weighed; serious money about to follow a plan — a raise, an investment, a year of a team's life; a crowded market being read as validation; a strategy written in the language of optionality.
+
+- **Consumes:** the plan as written, the venture's numbers where they exist, and the market's facts — entry, margins, how rivals describe their own reasons. What cannot be evidenced is marked unanswered, which is information too.
+
+- **Hands off:** the zero-to-one record — verdict, secret with its disprover, definite claim and bets, monopoly and mimetic reads, the seven answers, the beachhead sequence, and the re-run triggers. After a creation verdict it hands off to business-model-canvas for the model record and to positioning for what the new thing will be thought of as. Calls first-principles-thinking at the verdict, game-theory-for-decisions at the monopoly read, and fundraising when the run feeds a raise.
+
 ### business-model-canvas
 
 - **Owns:** how a business makes money, stated and tested on one sheet: a fit test picks the Lean Canvas while the model is still being searched for, or the nine-block Business Model Canvas once it is found; the sheet is filled from evidence and finished with the riskiest assumptions, ranked, each with its next test.

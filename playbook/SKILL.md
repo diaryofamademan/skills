@@ -1,7 +1,7 @@
 ---
 name: playbook
 description: "Use when a substantive task should be worked through the whole Made Man Playbooks collection without the owner naming skills one by one — on the trigger phrase 'run the playbook,' or on any task handed over with no skills named: classify the task, select the playbook skills whose triggers it matches, run each selected skill's procedure for real and in order (understand, decide, position, plan, say), and merge the results into one deliverable that closes by naming which skills ran and what each one changed."
-version: 0.1.0
+version: 0.1.1
 author: Open skills contributors
 license: MIT
 metadata:
@@ -96,19 +96,20 @@ The router selects from the Made Man Playbooks. The summary below is the selecti
 | 5 | fundraising | Raising capital, or selling a business, as a competitive process | Decide |
 | 6 | due-diligence | What is verifiably true about a person or company, checked against the public record | Decide |
 | 7 | positioning | What a company or product will be thought of as | Position |
-| 8 | business-model-canvas | How a business makes money, stated and tested on one sheet | Position |
-| 9 | vision-and-manifesto | A vision, mission, or manifesto that changes real decisions | Position |
-| 10 | one-page-marketing-plan | The whole marketing system on one page | Plan |
-| 11 | cold-outreach | First messages to people with no prior relationship | Plan |
-| 12 | funnel-operator | A video channel run as a system, episode after episode | Plan |
-| 13 | comms | Public moments, and how a thing is said | Say |
-| 14 | write-in-your-voice | Drafting in a named person's real voice, built from their speech | Say |
-| 15 | stop-the-scroll | Whether content earns attention: the hook and the call to action | Say |
-| 16 | storytelling | Narrative structure, the hook, and what every scene is for | Say |
-| 17 | mascot-system | Recurring-character illustration: character bibles, panel grammar, drift checks | Say |
-| 18 | interview-yourself | Content drawn from a person's own lived experience, by interview | Say |
-| 19 | podcast-yourself | A talking-head video prepped from counted results and documented receipts: the riff sheet and the edit brief | Say |
-| 20 | playbook | This router: selection, order, merge, and the closing line | — |
+| 8 | zero-to-one | Whether a venture is a creation or a copy: its secret, its definite plan, and whether it ends in a monopoly | Position |
+| 9 | business-model-canvas | How a business makes money, stated and tested on one sheet | Position |
+| 10 | vision-and-manifesto | A vision, mission, or manifesto that changes real decisions | Position |
+| 11 | one-page-marketing-plan | The whole marketing system on one page | Plan |
+| 12 | cold-outreach | First messages to people with no prior relationship | Plan |
+| 13 | funnel-operator | A video channel run as a system, episode after episode | Plan |
+| 14 | comms | Public moments, and how a thing is said | Say |
+| 15 | write-in-your-voice | Drafting in a named person's real voice, built from their speech | Say |
+| 16 | stop-the-scroll | Whether content earns attention: the hook and the call to action | Say |
+| 17 | storytelling | Narrative structure, the hook, and what every scene is for | Say |
+| 18 | mascot-system | Recurring-character illustration: character bibles, panel grammar, drift checks | Say |
+| 19 | interview-yourself | Content drawn from a person's own lived experience, by interview | Say |
+| 20 | podcast-yourself | A talking-head video prepped from counted results and documented receipts: the riff sheet and the edit brief | Say |
+| 21 | playbook | This router: selection, order, merge, and the closing line | — |
 
 Two standing support skills sit outside the routed roster and are called by the writing pass in step 7 of every run: **work-humanizer** (rewrite mode) and **writing-styles** (the plain rules). They are not selected per task. They are how every merged deliverable gets finished.
 
@@ -136,7 +137,7 @@ Run the selected skills in the collection's fixed order:
 
 2. **Decide** — game-theory-for-decisions, fundraising, due-diligence. What to do, given that other actors move too, given the money process where money is being raised or a business sold, and given what the public record verifies about the parties.
 
-3. **Position** — positioning, business-model-canvas, vision-and-manifesto. What the thing will be thought of as, how it makes money, and what it stands for — in that order inside the phase, because the canvas and the vision both lean on the position.
+3. **Position** — positioning, zero-to-one, business-model-canvas, vision-and-manifesto. What the thing will be thought of as, whether it is a creation worth a monopoly, how it makes money, and what it stands for — in that order inside the phase, because the creation verdict precedes the model record, and the canvas and the vision both lean on the position.
 
 4. **Plan** — one-page-marketing-plan, cold-outreach, funnel-operator. The system that carries the position to market: the plan, the first messages, the channel.
 
